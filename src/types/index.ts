@@ -1,4 +1,10 @@
-export type TransportMode = "Metro" | "RER" | "Bus" | "Tram";
+export type TransportMode =
+  | "Metro"
+  | "Bus"
+  | "RapidTransit"
+  | "regionalRail"
+  | "LocalTrain"
+  | "Tramway";
 
 export interface Stop {
   id: string;
@@ -19,18 +25,14 @@ export interface Stop {
 }
 
 export interface FavoriteStop extends Stop {
+  stop_id: string;
   direction: "aller" | "retour";
 }
 
 export interface Line {
-  id_line: string;
-  name_line: string;
-  shortname_line: string;
-  transportmode: TransportMode;
+  id: string;
+  route_long_name: string;
+  shortname: string;
+  mode: TransportMode;
   operatorname: string;
-  colourweb_hexa: string;
-  textcolourweb_hexa: string;
-  picto?: {
-    url: string;
-  };
 }

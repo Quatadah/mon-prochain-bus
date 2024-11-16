@@ -1,12 +1,9 @@
-import { Bus, Home, Menu, PlusCircle } from 'lucide-react'
+import { Bus } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { AddFavoriteStop } from './components/AddFavoriteStop'
 import { FavoriteStopsList } from './components/FavoriteStopsList'
 import { NextPassages } from './components/NextPassages'
 import { ThemeToggle } from './components/ThemeToggle'
-import { Button } from "./components/ui/button"
-import { ScrollArea } from "./components/ui/scroll-area"
-import { Sheet, SheetContent, SheetTrigger } from "./components/ui/sheet"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "./components/ui/tabs"
 import { ThemeProvider } from './context/ThemeContext'
 import { FavoriteStop } from './types'
@@ -15,7 +12,7 @@ import { getFavoriteStops, removeFavoriteStop, saveFavoriteStop } from './utils/
 export default function App() {
   const [favoriteStops, setFavoriteStops] = useState<FavoriteStop[]>([])
   const [selectedStop, setSelectedStop] = useState<FavoriteStop | null>(null)
-  const [activeTab, setActiveTab] = useState("home")
+  const [activeTab, setActiveTab] = useState("list")
 
   useEffect(() => {
     setFavoriteStops(getFavoriteStops())
@@ -25,7 +22,7 @@ export default function App() {
     const favoriteStop = { ...stop, stop_id: stop.stop_id };
     saveFavoriteStop(favoriteStop)
     setFavoriteStops(getFavoriteStops())
-    setActiveTab("home")
+    setActiveTab("list")
   }
 
   const handleRemoveFavoriteStop = (stopId: string) => {
@@ -38,66 +35,35 @@ export default function App() {
 
   return (
     <ThemeProvider>
-      <div className="min-h-screen transition-colors duration-200 bg-background">
-        <header className="fixed top-0 left-0 right-0 z-10 flex items-center justify-between max-w-2xl p-4 mx-auto bg-background/80 backdrop-blur-sm">
-          <div className="flex items-center space-x-2">
-            <Bus className="w-8 h-8" />
-            <h1 className="text-2xl font-bold">Mon Prochain Bus</h1>
+      <div className="min-h-screen bg-background">
+        <header className="flex items-center justify-between p-4">
+          <div className="flex items-center">
+            <Bus className="w-6 h-6 mr-2" />
+            <h1 className="text-xl font-bold">Mon Prochain Bus</h1>
           </div>
-          <div className="flex items-center space-x-4">
-            <ThemeToggle />
-            <Sheet>
-              <SheetTrigger asChild>
-                <Button variant="ghost" size="icon" className="md:hidden">
-                  <Menu className="w-5 h-5" />
-                  <span className="sr-only">Menu</span>
-                </Button>
-              </SheetTrigger>
-              <SheetContent side="right">
-                <nav className="flex flex-col space-y-4">
-                  <Button variant="ghost" onClick={() => setActiveTab("home")}>
-                    <Home className="w-5 h-5 mr-2" />
-                    Accueil
-                  </Button>
-                  <Button variant="ghost" onClick={() => setActiveTab("add")}>
-                    <PlusCircle className="w-5 h-5 mr-2" />
-                    Ajouter un arrêt
-                  </Button>
-                </nav>
-              </SheetContent>
-            </Sheet>
-          </div>
+          <ThemeToggle />
         </header>
-
-        <main className="container max-w-2xl pt-20 pb-8 mx-auto">
-          <Tabs value={activeTab} onValueChange={setActiveTab} className="space-y-4">
-            <TabsList className="hidden md:inline-flex">
-              <TabsTrigger value="home">
-                <Home className="w-5 h-5 mr-2" />
-                Accueil
-              </TabsTrigger>
-              <TabsTrigger value="add">
-                <PlusCircle className="w-5 h-5 mr-2" />
-                Ajouter un arrêt
-              </TabsTrigger>
-            </TabsList>
-            <TabsContent value="home" className="space-y-4">
-              <ScrollArea>
-                <FavoriteStopsList 
-                  stops={favoriteStops} 
-                      onSelectStop={setSelectedStop}
-                      onRemoveStop={handleRemoveFavoriteStop}
-                    />
-                </ScrollArea>
-                {selectedStop && (
-                  <NextPassages stop={selectedStop} />
-                )}
-            </TabsContent>
-            <TabsContent value="add">
-              <AddFavoriteStop onAdd={handleAddFavoriteStop} />
-            </TabsContent>
-          </Tabs>
-        </main>
+        <Tabs value={activeTab} onValueChange={setActiveTab} className="p-4">
+          <TabsList className="grid w-full grid-cols-2">
+            <TabsTrigger value="list">Liste</TabsTrigger>
+            <TabsTrigger value="add">Ajouter</TabsTrigger>
+          </TabsList>
+          <TabsContent value="list">
+            <FavoriteStopsList 
+              stops={favoriteStops} 
+              onSelectStop={setSelectedStop}
+              onRemoveStop={handleRemoveFavoriteStop}
+            />
+            {selectedStop && (
+              <div className="mt-4">
+                <NextPassages stop={selectedStop} />
+              </div>
+            )}
+          </TabsContent>
+          <TabsContent value="add">
+            <AddFavoriteStop onAdd={handleAddFavoriteStop} />
+          </TabsContent>
+        </Tabs>
       </div>
     </ThemeProvider>
   )

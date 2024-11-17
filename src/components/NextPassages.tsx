@@ -68,7 +68,7 @@ export function NextPassages({ stop }: { stop: FavoriteStop }) {
   const displayedPassages = showAll ? passages : passages.slice(0, 4)
 
   return (
-    <Card className="w-full max-w-2xl mx-auto">
+    <Card>
       <CardHeader>
         <CardTitle className="flex items-center justify-between text-2xl font-bold">
           <span>Prochains passages</span>
@@ -125,7 +125,7 @@ export function NextPassages({ stop }: { stop: FavoriteStop }) {
               </ul>
             </ScrollArea>
             {passages.length > 4 && (
-              <Button 
+              <Button
                 onClick={() => setShowAll(!showAll)}
                 variant="outline"
                 className="w-full mt-4"

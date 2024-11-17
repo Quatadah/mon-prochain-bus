@@ -35,35 +35,64 @@ export default function App() {
 
   return (
     <ThemeProvider>
-      <div className="min-h-screen bg-background">
-        <header className="flex items-center justify-between p-4">
-          <div className="flex items-center">
-            <Bus className="w-6 h-6 mr-2" />
-            <h1 className="text-xl font-bold">Mon Prochain Bus</h1>
-          </div>
-          <ThemeToggle />
-        </header>
-        <Tabs value={activeTab} onValueChange={setActiveTab} className="p-4">
-          <TabsList className="grid w-full grid-cols-2">
-            <TabsTrigger value="list">Liste</TabsTrigger>
-            <TabsTrigger value="add">Ajouter</TabsTrigger>
-          </TabsList>
-          <TabsContent value="list">
-            <FavoriteStopsList 
-              stops={favoriteStops} 
-              onSelectStop={setSelectedStop}
-              onRemoveStop={handleRemoveFavoriteStop}
-            />
-            {selectedStop && (
-              <div className="mt-4">
+      <div className="min-h-screen bg-background flex flex-col items-center">
+        <div className="w-full max-w-2xl px-4">
+          <header className="flex items-center justify-between py-4">
+            <div className="flex items-center">
+              <Bus className="w-6 h-6 mr-2" />
+              <h1 className="text-xl font-bold">Mon Prochain Bus</h1>
+            </div>
+            <ThemeToggle />
+          </header>
+          <Tabs value={activeTab} onValueChange={setActiveTab} className="p-4">
+            <TabsList className="grid w-full grid-cols-3">
+              <TabsTrigger value="passages">Passages</TabsTrigger>
+              <TabsTrigger value="list">Liste</TabsTrigger>
+              <TabsTrigger value="add">Ajouter</TabsTrigger>
+            </TabsList>
+            <TabsContent value="passages">
+              {selectedStop ? (
                 <NextPassages stop={selectedStop} />
-              </div>
-            )}
-          </TabsContent>
-          <TabsContent value="add">
-            <AddFavoriteStop onAdd={handleAddFavoriteStop} />
-          </TabsContent>
-        </Tabs>
+              ) : (
+                <div className="text-center py-8">
+                  <p className="text-muted-foreground mb-4">
+                    Aucun arrêt sélectionné. Veuillez choisir un arrêt dans la liste ou en ajouter un nouveau.
+                  </p>
+                  <button
+                    onClick={() => setActiveTab("list")}
+                    className="text-primary hover:underline"
+                  >
+                    Voir la liste des arrêts
+                  </button>
+                </div>
+              )}
+            </TabsContent>
+            <TabsContent value="list">
+              {favoriteStops.length > 0 ? (
+                <FavoriteStopsList
+                  stops={favoriteStops}
+                  onSelectStop={setSelectedStop}
+                  onRemoveStop={handleRemoveFavoriteStop}
+                />
+              ) : (
+                <div className="text-center py-8">
+                  <p className="text-muted-foreground mb-4">
+                    Vous n'avez aucun arrêt favori. Ajoutez-en un pour commencer !
+                  </p>
+                  <button
+                    onClick={() => setActiveTab("add")}
+                    className="text-primary hover:underline"
+                  >
+                    Ajouter un arrêt
+                  </button>
+                </div>
+              )}
+            </TabsContent>
+            <TabsContent value="add">
+              <AddFavoriteStop onAdd={handleAddFavoriteStop} />
+            </TabsContent>
+          </Tabs>
+        </div>
       </div>
     </ThemeProvider>
   )

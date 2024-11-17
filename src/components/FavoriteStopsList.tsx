@@ -56,7 +56,7 @@ export function FavoriteStopsList({ stops, onSelectStop, onRemoveStop }: Favorit
     <Card>
       <CardContent className="p-6">
         <h2 className="mb-4 text-2xl font-semibold">Mes arrêts favoris</h2>
-        <ScrollArea className="h-[400px] pr-4">
+        <ScrollArea className="pr-4">
           <ul className="space-y-4">
             {stops.map((stop) => {
               const routeDescription = getRouteDescription(stop);

@@ -129,7 +129,7 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
       </CardHeader>
       <CardContent>
         <form onSubmit={handleSubmit} className="space-y-6">
-          <div className="space-y-2">
+          <div className="space-y-1">
             <Label htmlFor="transport-mode">Mode de transport</Label>
             <Popover open={modeOpen} onOpenChange={setModeOpen}>
               <PopoverTrigger asChild>
@@ -186,7 +186,7 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
           </div>
 
           {transportMode && (
-            <div className="space-y-2">
+            <div className="space-y-1">
               <Label htmlFor="line">Ligne</Label>
               <Popover open={lineOpen} onOpenChange={setLineOpen}>
                 <PopoverTrigger asChild>
@@ -247,7 +247,7 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
           )}
 
           {transportMode && line && (
-            <div className="space-y-2">
+            <div className="space-y-1">
               <Label htmlFor="stop">Arrêt</Label>
               <Popover open={stopOpen} onOpenChange={setStopOpen}>
                 <PopoverTrigger asChild>
@@ -295,7 +295,7 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
           )}
 
           {selectedLineTermini && (
-            <div className="space-y-2">
+            <div className="space-y-1">
               <Label htmlFor="direction">Direction</Label>
               <Popover open={directionOpen} onOpenChange={setDirectionOpen}>
                 <PopoverTrigger asChild>

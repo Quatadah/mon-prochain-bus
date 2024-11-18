@@ -7,6 +7,7 @@ export const extractLineId = (fullId: string): string => {
 };
 
 export const getLinePicto = (lineId: string): string | undefined => {
+  console.log("calling me !");
   // If already in cache, return cached value
   if (pictoCache.has(lineId)) {
     return pictoCache.get(lineId);

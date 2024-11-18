@@ -35,4 +35,6 @@ export interface Line {
   shortname: string;
   mode: TransportMode;
   operatorname: string;
+  terminals: { start: string; end: string } | null;
+  picto: string | null;
 }

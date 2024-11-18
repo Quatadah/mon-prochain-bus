@@ -1,4 +1,4 @@
-# Transit App
+# Mon Prochain Bus
 
 A modern transit application that helps users track their favorite bus/train stops and view upcoming passages in real-time.
 

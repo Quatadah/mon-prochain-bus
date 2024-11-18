@@ -11,7 +11,7 @@ import { getFavoriteStops, removeFavoriteStop, saveFavoriteStop } from './utils/
 export default function App() {
   const [favoriteStops, setFavoriteStops] = useState<FavoriteStop[]>([])
   const [selectedStop, setSelectedStop] = useState<FavoriteStop | null>(null)
-  const [activeTab, setActiveTab] = useState("list")
+  const [activeTab, setActiveTab] = useState("passages")
 
   useEffect(() => {
     setFavoriteStops(getFavoriteStops())
@@ -34,7 +34,7 @@ export default function App() {
 
   return (
     <ThemeProvider>
-      <div className="min-h-screen bg-background flex flex-col items-center">
+      <div className="flex flex-col items-center min-h-screen bg-background">
         <div className="w-full max-w-2xl">
           <header className="flex items-center justify-between p-4">
             <div className="flex items-center gap-2">
@@ -53,8 +53,8 @@ export default function App() {
               {selectedStop ? (
                 <NextPassages stop={selectedStop} />
               ) : (
-                <div className="text-center py-8">
-                  <p className="text-muted-foreground mb-4">
+                <div className="py-8 text-center">
+                  <p className="mb-4 text-muted-foreground">
                     Aucun arrêt sélectionné. Veuillez choisir un arrêt dans la liste ou en ajouter un nouveau.
                   </p>
                   <button
@@ -75,8 +75,8 @@ export default function App() {
                   onSwitchTab={setActiveTab}
                 />
               ) : (
-                <div className="text-center py-8">
-                  <p className="text-muted-foreground mb-4">
+                <div className="py-8 text-center">
+                  <p className="mb-4 text-muted-foreground">
                     Vous n'avez aucun arrêt favori. Ajoutez-en un pour commencer !
                   </p>
                   <button

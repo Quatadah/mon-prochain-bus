@@ -10,10 +10,17 @@ import { Skeleton } from "./ui/skeleton";
 interface Passage {
   destinationName: string;
   expectedArrivalTime: string;
+  direction: string;
+  departureStatus: string;
+  vehicleAtStop: boolean;
+  lastUpdated: string;
 }
 
 export function NextPassages({ stop }: { stop: FavoriteStop }) {
-  const [passages, setPassages] = useState<Passage[]>([])
+  const [passages, setPassages] = useState<Passage[]>(() => {
+    const saved = localStorage.getItem(`passages-${stop.stop_id}`);
+    return saved ? JSON.parse(saved) : [];
+  });
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [showAll, setShowAll] = useState(false)
@@ -25,8 +32,10 @@ export function NextPassages({ stop }: { stop: FavoriteStop }) {
       setError(null)
       try {
         const data = await getNextPassages(stop.stop_id)
+        console.log(data);
         const parsedPassages = parseApiResponse(data)
         setPassages(parsedPassages)
+        localStorage.setItem(`passages-${stop.stop_id}`, JSON.stringify(parsedPassages));
       } catch (err) {
         setError('Erreur lors de la récupération des prochains passages')
         console.error(err)
@@ -49,7 +58,11 @@ export function NextPassages({ stop }: { stop: FavoriteStop }) {
   const parseApiResponse = (data: any): Passage[] => {
     return data.Siri.ServiceDelivery.StopMonitoringDelivery[0].MonitoredStopVisit.map((visit: any) => ({
       destinationName: visit.MonitoredVehicleJourney.DestinationName[0].value,
-      expectedArrivalTime: visit.MonitoredVehicleJourney.MonitoredCall.ExpectedArrivalTime
+      expectedArrivalTime: visit.MonitoredVehicleJourney.MonitoredCall.ExpectedArrivalTime || visit.MonitoredVehicleJourney.MonitoredCall.ExpectedDepartureTime,
+      direction: visit.MonitoredVehicleJourney.DirectionName[0].value,
+      departureStatus: visit.MonitoredVehicleJourney.MonitoredCall.DepartureStatus,
+      vehicleAtStop: visit.MonitoredVehicleJourney.MonitoredCall.VehicleAtStop,
+      lastUpdated: visit.RecordedAtTime
     }))
   }
 
@@ -66,7 +79,7 @@ export function NextPassages({ stop }: { stop: FavoriteStop }) {
   };
 
   const displayedPassages = showAll ? passages : passages.slice(0, 4)
-
+  console.log(displayedPassages);
   return (
     <Card>
       <CardHeader>
@@ -107,7 +120,18 @@ export function NextPassages({ stop }: { stop: FavoriteStop }) {
                       <div>
                         <p className="font-semibold">{passage.destinationName}</p>
                         <p className="text-sm text-muted-foreground">
-                          {new Date(passage.expectedArrivalTime).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
+                          Direction: {passage.direction}
+                        </p>
+                        <div className="flex items-center gap-2 text-xs">
+                          <span className={`${passage.departureStatus === 'onTime' ? 'text-success' : 'text-warning'}`}>
+                            {passage.departureStatus === 'onTime' ? 'À l\'heure' : 'Retardé'}
+                          </span>
+                          {passage.vehicleAtStop && (
+                            <span className="text-primary">• En station</span>
+                          )}
+                        </div>
+                        <p className="text-xs text-muted-foreground">
+                          Dernière mise à jour: {new Date(passage.lastUpdated).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
                         </p>
                       </div>
                     </div>

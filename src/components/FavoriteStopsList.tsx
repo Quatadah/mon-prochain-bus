@@ -18,8 +18,9 @@ interface FavoriteStopsListProps {
 const modeMapping: Record<string, string> = {
   'Metro': 'Métro',
   'Bus': 'Bus',
+  'RapidTransit': 'RER',
   'regionalTrain': 'Transilien',
-  'localTrain': 'RER',
+  'LocalTrain': 'RER',
   'Tramway': 'Tram'
 };
 
@@ -83,7 +84,7 @@ export function FavoriteStopsList({ stops, onSelectStop, onRemoveStop, onSwitchT
                             <img
                               src={getLinePicto(stop.id)}
                               alt={stop.shortname}
-                              className="h-6 w-6"
+                              className="w-6 h-6"
                             />
                           ) : (
                             stop.shortname

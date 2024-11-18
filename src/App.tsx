@@ -1,4 +1,3 @@
-import { Bus } from 'lucide-react'
 import { useEffect, useState } from 'react'
 import { AddFavoriteStop } from './components/AddFavoriteStop'
 import { FavoriteStopsList } from './components/FavoriteStopsList'
@@ -36,10 +35,10 @@ export default function App() {
   return (
     <ThemeProvider>
       <div className="min-h-screen bg-background flex flex-col items-center">
-        <div className="w-full max-w-2xl px-4">
-          <header className="flex items-center justify-between py-4">
-            <div className="flex items-center">
-              <Bus className="w-6 h-6 mr-2" />
+        <div className="w-full max-w-2xl">
+          <header className="flex items-center justify-between p-4">
+            <div className="flex items-center gap-2">
+              <img src="/icon.png" alt="Mon Prochain Bus" width={32} height={32} />
               <h1 className="text-xl font-bold">Mon Prochain Bus</h1>
             </div>
             <ThemeToggle />
@@ -73,6 +72,7 @@ export default function App() {
                   stops={favoriteStops}
                   onSelectStop={setSelectedStop}
                   onRemoveStop={handleRemoveFavoriteStop}
+                  onSwitchTab={setActiveTab}
                 />
               ) : (
                 <div className="text-center py-8">

@@ -4,6 +4,7 @@ import { Button } from "../components/ui/button"
 import { Card, CardContent } from "../components/ui/card"
 import { ScrollArea } from "../components/ui/scroll-area"
 import arretsLignes from '../data/arrets-lignes.json'
+import referentielLignes from '../data/referentiel-des-lignes.json'
 import { FavoriteStop, Stop } from '../types'
 import { calculateDistance } from '../utils/geoUtils'
 
@@ -11,6 +12,7 @@ interface FavoriteStopsListProps {
   stops: FavoriteStop[]
   onSelectStop: (stop: FavoriteStop) => void
   onRemoveStop: (stopId: string) => void
+  onSwitchTab: (tab: string) => void
 }
 
 const modeMapping: Record<string, string> = {
@@ -51,7 +53,18 @@ const getRouteDescription = (stop: FavoriteStop) => {
   return null;
 };
 
-export function FavoriteStopsList({ stops, onSelectStop, onRemoveStop }: FavoriteStopsListProps) {
+const getLinePicto = (lineId: string) => {
+  const id = lineId.split(':')[1];
+  const lineData = referentielLignes.find(line => line.id_line === id);
+  return lineData?.picto?.url;
+};
+
+export function FavoriteStopsList({ stops, onSelectStop, onRemoveStop, onSwitchTab }: FavoriteStopsListProps) {
+  const handleSelectStop = (stop: FavoriteStop) => {
+    onSelectStop(stop);
+    onSwitchTab('passages');
+  };
+
   return (
     <Card>
       <CardContent className="p-6">
@@ -66,9 +79,15 @@ export function FavoriteStopsList({ stops, onSelectStop, onRemoveStop }: Favorit
                     <CardContent className="p-4">
                       <div className="flex items-center justify-between mb-2">
                         <div className="flex items-center space-x-2">
-                          <Badge variant="outline" className="text-lg font-bold">
-                            {stop.shortname}
-                          </Badge>
+                          {getLinePicto(stop.id) ? (
+                            <img
+                              src={getLinePicto(stop.id)}
+                              alt={stop.shortname}
+                              className="h-6 w-6"
+                            />
+                          ) : (
+                            stop.shortname
+                          )}
                           <span className="text-lg font-medium">{stop.stop_name}</span>
                         </div>
                         <Badge>{modeMapping[stop.mode]}</Badge>
@@ -83,11 +102,11 @@ export function FavoriteStopsList({ stops, onSelectStop, onRemoveStop }: Favorit
                         Direction : {stop.direction}
                       </div>
                       <div className="flex justify-between">
-                        <Button onClick={() => onSelectStop(stop)} variant="outline" size="sm">
+                        <Button onClick={() => handleSelectStop(stop)} variant="outline" size="sm">
                           Voir les passages
                         </Button>
                         <Button onClick={() => onRemoveStop(stop.stop_id)} variant="destructive" size="sm">
-                          <Trash2 className="w-4 h-4 mr-2" />
+                          <Trash2 className="w-4 h-4" />
                           Supprimer
                         </Button>
                       </div>

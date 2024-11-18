@@ -10,12 +10,23 @@ import { getFavoriteStops, removeFavoriteStop, saveFavoriteStop } from './utils/
 
 export default function App() {
   const [favoriteStops, setFavoriteStops] = useState<FavoriteStop[]>([])
-  const [selectedStop, setSelectedStop] = useState<FavoriteStop | null>(null)
+  const [selectedStop, setSelectedStop] = useState<FavoriteStop | null>(() => {
+    const saved = localStorage.getItem('selectedStop')
+    return saved ? JSON.parse(saved) : null
+  })
   const [activeTab, setActiveTab] = useState("passages")
 
   useEffect(() => {
     setFavoriteStops(getFavoriteStops())
   }, [])
+
+  useEffect(() => {
+    if (selectedStop) {
+      localStorage.setItem('selectedStop', JSON.stringify(selectedStop))
+    } else {
+      localStorage.removeItem('selectedStop')
+    }
+  }, [selectedStop])
 
   const handleAddFavoriteStop = (stop: FavoriteStop) => {
     const favoriteStop = { ...stop, stop_id: stop.stop_id };

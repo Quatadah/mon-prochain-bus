@@ -17,14 +17,11 @@ interface Passage {
 }
 
 export function NextPassages({ stop }: { stop: FavoriteStop }) {
-  const [passages, setPassages] = useState<Passage[]>(() => {
-    const saved = localStorage.getItem(`passages-${stop.stop_id}`);
-    return saved ? JSON.parse(saved) : [];
-  });
-  const [loading, setLoading] = useState(true)
+  const [passages, setPassages] = useState<Passage[]>([]);
+  const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [showAll, setShowAll] = useState(false)
-  const [, setUpdateTrigger] = useState(0)
+  const [updateTrigger, setUpdateTrigger] = useState(0)
 
   useEffect(() => {
     const fetchPassages = async () => {
@@ -32,20 +29,19 @@ export function NextPassages({ stop }: { stop: FavoriteStop }) {
       setError(null)
       try {
         const data = await getNextPassages(stop.stop_id)
-        console.log(data);
+        console.log('API response:', data);
         const parsedPassages = parseApiResponse(data)
         setPassages(parsedPassages)
-        localStorage.setItem(`passages-${stop.stop_id}`, JSON.stringify(parsedPassages));
       } catch (err) {
         setError('Erreur lors de la récupération des prochains passages')
-        console.error(err)
+        console.error('Error fetching passages:', err)
       } finally {
         setLoading(false)
       }
     }
 
     fetchPassages()
-  }, [stop])
+  }, [stop, updateTrigger])
 
   useEffect(() => {
     const interval = setInterval(() => {

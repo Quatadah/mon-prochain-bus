@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react"
 import { useEffect, useState } from 'react'
 import { AddFavoriteStop } from './components/AddFavoriteStop'
 import { FavoriteStopsList } from './components/FavoriteStopsList'
@@ -44,8 +45,10 @@ export default function App() {
   }
 
   return (
-    <ThemeProvider>
-      <div className="flex flex-col items-center min-h-screen bg-background">
+    <>
+      <Analytics />
+      <ThemeProvider>
+        <div className="flex flex-col items-center min-h-screen bg-background">
         <div className="w-full max-w-2xl">
           <header className="flex items-center justify-between p-4">
             <div className="flex items-center gap-2">
@@ -105,6 +108,7 @@ export default function App() {
           </Tabs>
         </div>
       </div>
-    </ThemeProvider>
+      </ThemeProvider>
+    </>
   )
 }

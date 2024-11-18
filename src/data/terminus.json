@@ -1,0 +1,7930 @@
+{
+  "IDFM:C01378": {
+    "start": "Balard",
+    "end": "Pointe du Lac"
+  },
+  "IDFM:C01379": {
+    "start": "Mairie de Montreuil",
+    "end": "Pont de Sèvres"
+  },
+  "IDFM:C01380": {
+    "start": "Boulogne Pont de Saint-Cloud",
+    "end": "Gare d'Austerlitz"
+  },
+  "IDFM:C01381": {
+    "start": "Rosny-Bois-Perrier",
+    "end": "Châtelet"
+  },
+  "IDFM:C01382": {
+    "start": "Mairie d'Aubervilliers",
+    "end": "Mairie d'Issy"
+  },
+  "IDFM:C01383": {
+    "start": "Saint-Denis - Université",
+    "end": "Châtillon-Montrouge"
+  },
+  "IDFM:C01384": {
+    "start": "Saint-Denis - Pleyel",
+    "end": "Aéroport d'Orly"
+  },
+  "IDFM:C01386": {
+    "start": "Gambetta",
+    "end": "Porte des Lilas"
+  },
+  "IDFM:C01387": {
+    "start": "Pré-Saint-Gervais",
+    "end": "Louis Blanc"
+  },
+  "IDFM:C01371": {
+    "start": "La Défense (Grande Arche)",
+    "end": "Château de Vincennes"
+  },
+  "IDFM:C01372": {
+    "start": "Avron",
+    "end": "Porte Dauphine"
+  },
+  "IDFM:C01373": {
+    "start": "Pont de Levallois - Bécon",
+    "end": "Gallieni"
+  },
+  "IDFM:C01374": {
+    "start": "Bagneux - Lucie Aubrac",
+    "end": "Porte de Clignancourt"
+  },
+  "IDFM:C01375": {
+    "start": "Place d'Italie",
+    "end": "Bobigny Pablo Picasso"
+  },
+  "IDFM:C01376": {
+    "start": "Bel-Air",
+    "end": "Trocadéro"
+  },
+  "IDFM:C01377": {
+    "start": "Villejuif - Louis Aragon",
+    "end": "La Courneuve - 8 Mai 1945"
+  },
+  "IDFM:C01389": {
+    "start": "Asnières - Quatre Routes",
+    "end": "Escadrille Normandie-Niemen"
+  },
+  "IDFM:C01390": {
+    "start": "Meudon-sur-Seine",
+    "end": "Pont de Bezons"
+  },
+  "IDFM:C01391": {
+    "start": "Alexandra David-Néel",
+    "end": "Pont du Garigliano"
+  },
+  "IDFM:C01679": {
+    "start": "Porte de Vincennes",
+    "end": "Porte Dauphine (Avenue Foch)"
+  },
+  "IDFM:C01684": {
+    "start": "Garges - Sarcelles",
+    "end": "Marché de Saint-Denis"
+  },
+  "IDFM:C01774": {
+    "start": "Villejuif - Louis Aragon",
+    "end": "Porte de l'Essonne"
+  },
+  "IDFM:C01794": {
+    "start": "Châtillon - Montrouge",
+    "end": "Viroflay - Rive Droite"
+  },
+  "IDFM:C01795": {
+    "start": "Saint-Denis - Porte de Paris",
+    "end": "Épinay - Orgemont"
+  },
+  "IDFM:C01843": {
+    "start": "Bondy",
+    "end": "Hôpital de Montfermeil"
+  },
+  "IDFM:C01999": {
+    "start": "Épinay-sur-Seine",
+    "end": "Le Bourget"
+  },
+  "IDFM:C02317": {
+    "start": "Porte de Choisy",
+    "end": "Les Saules"
+  },
+  "IDFM:C02344": {
+    "start": "Camp des Loges",
+    "end": "Saint-Cyr"
+  },
+  "IDFM:C02528": {
+    "start": "La Croix de Berny",
+    "end": "Jardin Parisien"
+  },
+  "IDFM:C02529": {
+    "start": "Massy-Palaiseau",
+    "end": "Évry - Courcouronnes"
+  },
+  "IDFM:C01730": {
+    "start": "Château-Thierry",
+    "end": "Gare de l'Est"
+  },
+  "IDFM:C01731": {
+    "start": "Montargis",
+    "end": "Gare de Lyon"
+  },
+  "IDFM:C01736": {
+    "start": "Gare Montparnasse",
+    "end": "Dreux"
+  },
+  "IDFM:C00399": {
+    "start": "Gare de Valmondois",
+    "end": "Chennevières"
+  },
+  "IDFM:C00400": {
+    "start": "Gare de Cergy Préfecture",
+    "end": "Méry Gare SNCF"
+  },
+  "IDFM:C00401": {
+    "start": "Saint-Quentin - Gare routière Paul Delouvrier",
+    "end": "Général de Gaulle"
+  },
+  "IDFM:C00402": {
+    "start": "La Verrière Gare - Quai D",
+    "end": "Gare de Plaisir Grignon - quai 7"
+  },
+  "IDFM:C00403": {
+    "start": "Saint-Quentin - Gare routière Paul Delouvrier",
+    "end": "Gare de Plaisir Grignon - quai 3"
+  },
+  "IDFM:C00408": {
+    "start": "René Clair",
+    "end": "Gare des Chantiers - Gare Routière"
+  },
+  "IDFM:C00409": {
+    "start": "Mairie",
+    "end": "Gare de Plaisir Grignon - quai 7"
+  },
+  "IDFM:C00410": {
+    "start": "Place Foch",
+    "end": "Place de la Gare / Villiers - Neauphle - Pontchartrain"
+  },
+  "IDFM:C00411": {
+    "start": "Parc de Saint-Cloud - T2",
+    "end": "Decaux"
+  },
+  "IDFM:C00413": {
+    "start": "Gare de Plaisir Grignon - quai 1",
+    "end": "Métro Pont de Sèvres"
+  },
+  "IDFM:C00414": {
+    "start": "Collège Maurice Ravel",
+    "end": "Maladrerie"
+  },
+  "IDFM:C00415": {
+    "start": "Château - Campus",
+    "end": "Gare de Plaisir Grignon - quai 7"
+  },
+  "IDFM:C00416": {
+    "start": "Massenet",
+    "end": "Gare de Noisy le Roi"
+  },
+  "IDFM:C00418": {
+    "start": "Gare de Plaisir Grignon - quai 3",
+    "end": "Gare Routière des Clayes"
+  },
+  "IDFM:C00420": {
+    "start": "Gare Versailles Château Rive Gauche",
+    "end": "Collège Passy - Buzenval"
+  },
+  "IDFM:C00421": {
+    "start": "Collège François Rabelais",
+    "end": "Pacaudière"
+  },
+  "IDFM:C00422": {
+    "start": "Collège François Rabelais",
+    "end": "Château"
+  },
+  "IDFM:C00423": {
+    "start": "Villeroy",
+    "end": "La Mare"
+  },
+  "IDFM:C00424": {
+    "start": "Notre Dame du Bel-Air",
+    "end": "Toit et Joie"
+  },
+  "IDFM:C00425": {
+    "start": "Méliès - Croix Bonnet",
+    "end": "Gare de Fontenay-le-Fleury"
+  },
+  "IDFM:C00426": {
+    "start": "Gare Routière de Mantes-la-Ville - Quai 26",
+    "end": "Saint-Quentin - Gare routière Paul Delouvrier"
+  },
+  "IDFM:C00261": {
+    "start": "Les Flanades",
+    "end": "Paul Vaillant Couturier"
+  },
+  "IDFM:C00262": {
+    "start": "Gare Routière",
+    "end": "Henri IV Jardin"
+  },
+  "IDFM:C00263": {
+    "start": "Créteil - L'Échat (Hôpital Henri Mondor)",
+    "end": "Torcy Gare"
+  },
+  "IDFM:C00264": {
+    "start": "Centre Commercial",
+    "end": "ZI Périchet"
+  },
+  "IDFM:C00265": {
+    "start": "Mairie",
+    "end": "Gare de Roissypole Aéroport CDG 1"
+  },
+  "IDFM:C00267": {
+    "start": "Vieille Ferme",
+    "end": "Ronceray"
+  },
+  "IDFM:C00270": {
+    "start": "Gare Routière Nord (B4)",
+    "end": "Gare de Conflans Fin d'Oise"
+  },
+  "IDFM:C00271": {
+    "start": "Gare Routière Nord (A4)",
+    "end": "Gare de Cergy Saint-Christophe"
+  },
+  "IDFM:C00272": {
+    "start": "Gare de Conflans Fin d'Oise - Quai A3",
+    "end": "Quercy"
+  },
+  "IDFM:C00274": {
+    "start": "Église",
+    "end": "Gare Sud de Poissy (1A)"
+  },
+  "IDFM:C00275": {
+    "start": "Gare des Mureaux (B3)",
+    "end": "Place Royale - Lyautey"
+  },
+  "IDFM:C00137": {
+    "start": "Poteau",
+    "end": "Alexandre Bertrand"
+  },
+  "IDFM:C00138": {
+    "start": "Poteau",
+    "end": "Nicot / École Notre-Dame"
+  },
+  "IDFM:C00139": {
+    "start": "Gare de Pontoise (Canrobert)",
+    "end": "Place de la Fontaine"
+  },
+  "IDFM:C00140": {
+    "start": "Cité Judiciaire",
+    "end": "Eglise"
+  },
+  "IDFM:C00141": {
+    "start": "Victor Hugo / Boissy-l'Aillerie",
+    "end": "Place de la Mare"
+  },
+  "IDFM:C00142": {
+    "start": "Saillancourt",
+    "end": "Mairie Gadancourt"
+  },
+  "IDFM:C00143": {
+    "start": "Lycée International",
+    "end": "Gare routière de Versailles Chantiers - Quai A"
+  },
+  "IDFM:C00144": {
+    "start": "Gare Sud de Poissy (1A)",
+    "end": "Châtaigneraie"
+  },
+  "IDFM:C00145": {
+    "start": "Cimetière",
+    "end": "La Frégate"
+  },
+  "IDFM:C00149": {
+    "start": "Lycée International",
+    "end": "Collège Louis Lumière"
+  },
+  "IDFM:C00150": {
+    "start": "Gare de St-Nom-la-Bretèche",
+    "end": "Gare de St-Germain-en-Laye - Rue Thiers"
+  },
+  "IDFM:C00151": {
+    "start": "Saint-Quentin - Gare routière Paul Delouvrier",
+    "end": "Gare De Cergy Prefecture"
+  },
+  "IDFM:C00153": {
+    "start": "Jean Moulin",
+    "end": "Glaxo Rougemonts"
+  },
+  "IDFM:C00154": {
+    "start": "Gare de Marly-le-Roi - Bèque",
+    "end": "Gare du Vésinet - Le Pecq"
+  },
+  "IDFM:C00001": {
+    "start": "Belle Epine Nord",
+    "end": "EDF"
+  },
+  "IDFM:C00003": {
+    "start": "La Fresnaie",
+    "end": "Pierre Curie"
+  },
+  "IDFM:C00004": {
+    "start": "Gare de Choisy-le-Roi",
+    "end": "Saint-Charles"
+  },
+  "IDFM:C00006": {
+    "start": "Gare de Villeneuve-Saint-Georges",
+    "end": "Aéroport Orly 1-2-3"
+  },
+  "IDFM:C00007": {
+    "start": "Institut Grignon",
+    "end": "Pont de Vitry"
+  },
+  "IDFM:C00009": {
+    "start": "Gare de Gretz-Armainvilliers",
+    "end": "Croix Rouge"
+  },
+  "IDFM:C00010": {
+    "start": "Route Ferme d'Arcy",
+    "end": "Maurevert"
+  },
+  "IDFM:C00011": {
+    "start": "ZI Chevalier",
+    "end": "Marquis"
+  },
+  "IDFM:C00012": {
+    "start": "Closeau",
+    "end": "Collège Vermay"
+  },
+  "IDFM:C00014": {
+    "start": "Gare de Marles",
+    "end": "Eglise"
+  },
+  "IDFM:C00015": {
+    "start": "Gare de Tournan",
+    "end": "Ombrages Parc"
+  },
+  "IDFM:C00016": {
+    "start": "Gare d'Ozoir-la-Ferrière",
+    "end": "Lycée Blaise Pascal Parking"
+  },
+  "IDFM:C00276": {
+    "start": "Jules Ferry",
+    "end": "Place Royale - Gambetta"
+  },
+  "IDFM:C00279": {
+    "start": "Pablo Picasso",
+    "end": "Nicot / École Notre-Dame"
+  },
+  "IDFM:C00280": {
+    "start": "Gare de Chanteloup-les-Vignes",
+    "end": "Les Ouches"
+  },
+  "IDFM:C00281": {
+    "start": "Maison Blanche",
+    "end": "Roland Le Nestour"
+  },
+  "IDFM:C00285": {
+    "start": "Gare Routière Nord (A0)",
+    "end": "Hélistation"
+  },
+  "IDFM:C00286": {
+    "start": "Gare Routière Nord (C4)",
+    "end": "Cheverchemont"
+  },
+  "IDFM:C00287": {
+    "start": "Saint-Quentin - Gare routière Paul Delouvrier",
+    "end": "Peugeot"
+  },
+  "IDFM:C00288": {
+    "start": "Le Relais du Nord",
+    "end": "Peugeot"
+  },
+  "IDFM:C00292": {
+    "start": "Gare d'Argenteuil",
+    "end": "Gare de Sartrouville"
+  },
+  "IDFM:C00294": {
+    "start": "Gare d'Argenteuil",
+    "end": "Le Moulin / Jean Gosselin"
+  },
+  "IDFM:C00295": {
+    "start": "Gare d'Argenteuil",
+    "end": "Gare de Houilles - Carrières-sur-Seine"
+  },
+  "IDFM:C00296": {
+    "start": "Jouhaux",
+    "end": "Gare de Sartrouville"
+  },
+  "IDFM:C00297": {
+    "start": "Beethoven",
+    "end": "Gare d'Argenteuil"
+  },
+  "IDFM:C00017": {
+    "start": "Gare de Torcy",
+    "end": "Gare de Tournan"
+  },
+  "IDFM:C00018": {
+    "start": "ZAC Pillet",
+    "end": "Lycée La Tour des Dames"
+  },
+  "IDFM:C00019": {
+    "start": "Grille du Château",
+    "end": "Lycée Clément Ader"
+  },
+  "IDFM:C00020": {
+    "start": "Lycée Ventura",
+    "end": "Gare de Tournan"
+  },
+  "IDFM:C00021": {
+    "start": "La Ferme",
+    "end": "Gare d'Ozoir-la-Ferrière"
+  },
+  "IDFM:C00024": {
+    "start": "Maison des Associations",
+    "end": "Lycée Clément Ader"
+  },
+  "IDFM:C00025": {
+    "start": "Place Saint Jean",
+    "end": "Collège Vermay"
+  },
+  "IDFM:C00026": {
+    "start": "Hameau de Retal",
+    "end": "Collège Vermay"
+  },
+  "IDFM:C00027": {
+    "start": "Gare de Lieusaint Moissy",
+    "end": "Gare de Val d'Europe"
+  },
+  "IDFM:C00028": {
+    "start": "Collège A. de Garlande",
+    "end": "Ferrandière"
+  },
+  "IDFM:C00029": {
+    "start": "Creutzer - Dantzig",
+    "end": "Campus Sainte Thérèse / Ozoir-la-Ferrière Armainvilliers"
+  },
+  "IDFM:C00030": {
+    "start": "Route d'Ozoir",
+    "end": "Collège A. de Garlande"
+  },
+  "IDFM:C00031": {
+    "start": "Rue du Four",
+    "end": "Ferme Pereire"
+  },
+  "IDFM:C00156": {
+    "start": "Collège André Derain",
+    "end": "Gare de Saint-Germain-en-Laye"
+  },
+  "IDFM:C00157": {
+    "start": "Alexandre Bertrand",
+    "end": "Clos Badère"
+  },
+  "IDFM:C00158": {
+    "start": "Réservoir",
+    "end": "Gare de Saint-Germain-en-Laye"
+  },
+  "IDFM:C00159": {
+    "start": "Debussy",
+    "end": "Village d'Hennemont - Lycée International"
+  },
+  "IDFM:C00160": {
+    "start": "Verdi",
+    "end": "Debussy"
+  },
+  "IDFM:C00161": {
+    "start": "Alexandre Bertrand",
+    "end": "Ourches Hôpital"
+  },
+  "IDFM:C00162": {
+    "start": "Ermitage",
+    "end": "Centre Administratif"
+  },
+  "IDFM:C00163": {
+    "start": "Lycée Jean Monnet",
+    "end": "Collège Racinay"
+  },
+  "IDFM:C00164": {
+    "start": "Gare de Dourdan",
+    "end": "Vallée Brun"
+  },
+  "IDFM:C00165": {
+    "start": "Arbouville",
+    "end": "Lycée Jules Verne"
+  },
+  "IDFM:C00166": {
+    "start": "Gare Rambouillet - Prairie",
+    "end": "Gourville"
+  },
+  "IDFM:C01744": {
+    "start": "Gare Montparnasse",
+    "end": "Chartres"
+  },
+  "IDFM:C00563": {
+    "start": "Terminal 2 Gare",
+    "end": "Terminal 1"
+  },
+  "IDFM:C01388": {
+    "start": "Antony",
+    "end": "Orly 4"
+  },
+  "IDFM:C01739": {
+    "start": "Gare Saint-Lazare",
+    "end": "Vernon - Giverny"
+  },
+  "IDFM:C01740": {
+    "start": "Cergy le Haut",
+    "end": "Gare Saint-Lazare"
+  },
+  "IDFM:C01741": {
+    "start": "Rambouillet",
+    "end": "La Défense"
+  },
+  "IDFM:C00536": {
+    "start": "Lycée Franco-Allemand - ML King",
+    "end": "Le Bois Joli"
+  },
+  "IDFM:C00537": {
+    "start": "Grand'Mare",
+    "end": "Collège Saint-François d'Assise"
+  },
+  "IDFM:C00538": {
+    "start": "Collège Hélène Boucher",
+    "end": "Gare de Saint-Rémy-lès-Chevreuse"
+  },
+  "IDFM:C00539": {
+    "start": "Camille Saint-Saëns",
+    "end": "La Bretonnière"
+  },
+  "IDFM:C00540": {
+    "start": "Gare de Saint-Rémy-lès-Chevreuse",
+    "end": "E. Viollet-le-Duc"
+  },
+  "IDFM:C00541": {
+    "start": "Collège Saint-François d'Assise",
+    "end": "Le Buisson"
+  },
+  "IDFM:C00542": {
+    "start": "Mendès France",
+    "end": "Collège Saint-François d'Assise"
+  },
+  "IDFM:C00543": {
+    "start": "Camille Saint-Saëns",
+    "end": "Lycée Franco-Allemand - ML King"
+  },
+  "IDFM:C00544": {
+    "start": "Versailles Chantiers Gare - Quai B",
+    "end": "Chamfleury"
+  },
+  "IDFM:C00545": {
+    "start": "Quai B",
+    "end": "Avenue du Lycée"
+  },
+  "IDFM:C00673": {
+    "start": "Paul Fort",
+    "end": "Thomas"
+  },
+  "IDFM:C00674": {
+    "start": "Gare de Massy-Palaiseau",
+    "end": "Piscine de Sainte-Geneviève-des-Bois"
+  },
+  "IDFM:C00675": {
+    "start": "Gare de Massy-Palaiseau",
+    "end": "Piscine de Sainte-Geneviève-des-Bois"
+  },
+  "IDFM:C00676": {
+    "start": "Massy - Palaiseau RER",
+    "end": "Gare de Gravigny Balizy"
+  },
+  "IDFM:C00677": {
+    "start": "UNM - UTAC",
+    "end": "Gare de Brétigny"
+  },
+  "IDFM:C00678": {
+    "start": "Gare de Sainte Geneviève des Bois",
+    "end": "Bizet"
+  },
+  "IDFM:C00679": {
+    "start": "Gare de Brétigny",
+    "end": "Gare de Saint-Michel-sur-Orge"
+  },
+  "IDFM:C00680": {
+    "start": "Gare d'Epinay-sur-Orge",
+    "end": "Gare du Guichet"
+  },
+  "IDFM:C00681": {
+    "start": "Porte d'Étampes",
+    "end": "Gare de Brétigny Brossolette"
+  },
+  "IDFM:C00682": {
+    "start": "La Mare aux Bourguignons",
+    "end": "Collège la Fontaine aux Bergers"
+  },
+  "IDFM:C00683": {
+    "start": "Les Jonquilles",
+    "end": "Gare de Savigny-sur-Orge"
+  },
+  "IDFM:C00684": {
+    "start": "Sycomores",
+    "end": "Gare de Savigny-sur-Orge"
+  },
+  "IDFM:C00685": {
+    "start": "Le Haricot",
+    "end": "Gare de Savigny-sur-Orge"
+  },
+  "IDFM:C00687": {
+    "start": "Laboratoires",
+    "end": "Massy - Palaiseau RER"
+  },
+  "IDFM:C00688": {
+    "start": "Les Folies",
+    "end": "Les Marsandes"
+  },
+  "IDFM:C00689": {
+    "start": "Porte d'Orléans",
+    "end": "Porte d'Étampes"
+  },
+  "IDFM:C00691": {
+    "start": "Gare de Massy Palaiseau",
+    "end": "Porte d'Étampes"
+  },
+  "IDFM:C00692": {
+    "start": "Gare routière de Versailles Chantiers - Quai A",
+    "end": "Centre Commercial Parly 2"
+  },
+  "IDFM:C00693": {
+    "start": "Hôtel de Ville",
+    "end": "Cisterciens"
+  },
+  "IDFM:C00694": {
+    "start": "Hôpital André Mignot - Accueil",
+    "end": "Guichard"
+  },
+  "IDFM:C00695": {
+    "start": "Pershing",
+    "end": "Gare routière de Versailles Chantiers - Quai F"
+  },
+  "IDFM:C00696": {
+    "start": "Bernard de Jussieu",
+    "end": "Coeur de Bourg"
+  },
+  "IDFM:C00697": {
+    "start": "Grâce de Dieu",
+    "end": "Satory Mobilab"
+  },
+  "IDFM:C00698": {
+    "start": "Grâce de Dieu",
+    "end": "Centre Commercial Parly 2"
+  },
+  "IDFM:C00699": {
+    "start": "Centre Commercial Parly 2",
+    "end": "Les Grands Chênes"
+  },
+  "IDFM:C00546": {
+    "start": "Ambroise Paré",
+    "end": "Gare de Combs-la-Ville Quincy"
+  },
+  "IDFM:C00547": {
+    "start": "Centre Commercial Pince Vent",
+    "end": "Gare de Sucy-Bonneuil"
+  },
+  "IDFM:C00548": {
+    "start": "Hôpital Forcilles",
+    "end": "Préfecture"
+  },
+  "IDFM:C00550": {
+    "start": "Gare de Boissy-Saint-Léger",
+    "end": "Gare de Verneuil l'Etang"
+  },
+  "IDFM:C00551": {
+    "start": "Préfecture",
+    "end": "Stade Lucien Destal"
+  },
+  "IDFM:C00552": {
+    "start": "Sucy - Bonneuil RER",
+    "end": "Centre Commercial"
+  },
+  "IDFM:C00553": {
+    "start": "Pierre Brosselette",
+    "end": "Marché"
+  },
+  "IDFM:C00554": {
+    "start": "Gare de Sucy-Bonneuil",
+    "end": "Mendès France"
+  },
+  "IDFM:C00555": {
+    "start": "Lycée Christophe Colomb",
+    "end": "Place Cauchy"
+  },
+  "IDFM:C00556": {
+    "start": "Chapellerie",
+    "end": "Lycée Guillaume Budé"
+  },
+  "IDFM:C00557": {
+    "start": "Les Boullereaux",
+    "end": "Gaston Roulleau"
+  },
+  "IDFM:C00562": {
+    "start": "Terminal Pw (Résa Parking Eco)",
+    "end": "Aéroport CDG - Terminal 2A"
+  },
+  "IDFM:C00571": {
+    "start": "Prieuré",
+    "end": "Place Mandela"
+  },
+  "IDFM:C00573": {
+    "start": "Paul Casalis / La Gaité",
+    "end": "Gare Routière de Villeneuve-Saint-Georges"
+  },
+  "IDFM:C00574": {
+    "start": "Gare de Boissy-Saint-Léger",
+    "end": "Gare de Villeneuve Place Semard"
+  },
+  "IDFM:C00815": {
+    "start": "Place de L'Ermitage-Melun",
+    "end": "Piscine"
+  },
+  "IDFM:C00817": {
+    "start": "Mairie",
+    "end": "La Fourche"
+  },
+  "IDFM:C00818": {
+    "start": "Place Samois",
+    "end": "Montméry"
+  },
+  "IDFM:C00819": {
+    "start": "L'Etang Sec",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C00820": {
+    "start": "François 1er",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C00821": {
+    "start": "Les Serres",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C00822": {
+    "start": "Gare Carnot",
+    "end": "Eglise Villebéon"
+  },
+  "IDFM:C00823": {
+    "start": "Gare Carnot",
+    "end": "Route de Chevry"
+  },
+  "IDFM:C00824": {
+    "start": "Cité Scolaire",
+    "end": "Petit Ceriseaux"
+  },
+  "IDFM:C00826": {
+    "start": "Place",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C00827": {
+    "start": "Montfort",
+    "end": "Mairie Souppes"
+  },
+  "IDFM:C00436": {
+    "start": "Mairie",
+    "end": "Lycée - Collège Voie des Sports"
+  },
+  "IDFM:C00437": {
+    "start": "Gare de Sartrouville",
+    "end": "Gare de Montigny - Beauchamp"
+  },
+  "IDFM:C00442": {
+    "start": "Denis Papin",
+    "end": "Gare de Montigny - Beauchamp"
+  },
+  "IDFM:C00443": {
+    "start": "Gare de Taverny",
+    "end": "Gare de Montigny - Beauchamp"
+  },
+  "IDFM:C01737": {
+    "start": "Gare du Nord",
+    "end": "Creil"
+  },
+  "IDFM:C01738": {
+    "start": "Crépy-en-Valois",
+    "end": "Gare du Nord"
+  },
+  "IDFM:C01745": {
+    "start": "Laroche - Migennes",
+    "end": "Gare de Lyon"
+  },
+  "IDFM:C01747": {
+    "start": "Château-Thierry",
+    "end": "Gare de l'Est"
+  },
+  "IDFM:C01748": {
+    "start": "Vernon - Giverny",
+    "end": "Paris Saint-Lazare"
+  },
+  "IDFM:C01857": {
+    "start": "Gare d'Austerlitz",
+    "end": "Châteaudun"
+  },
+  "IDFM:C01863": {
+    "start": "Gare du Nord",
+    "end": "Crépy-en-Valois"
+  },
+  "IDFM:C02368": {
+    "start": "Montargis",
+    "end": "Paris-Bercy Bourgogne - Pays d'Auvergne"
+  },
+  "IDFM:C02370": {
+    "start": "Dreux",
+    "end": "Gare Montparnasse"
+  },
+  "IDFM:C02372": {
+    "start": "Beauvais",
+    "end": "Paris Gare du Nord"
+  },
+  "IDFM:C02375": {
+    "start": "Gare Saint-Lazare",
+    "end": "Évreux Normandie"
+  },
+  "IDFM:C00935": {
+    "start": "Nongloire",
+    "end": "Collège Nicolas Tronchon"
+  },
+  "IDFM:C00937": {
+    "start": "La Chaussée",
+    "end": "Chambardy"
+  },
+  "IDFM:C00938": {
+    "start": "Gare de Lizy-sur-Ourcq",
+    "end": "Collège le Champivert"
+  },
+  "IDFM:C00939": {
+    "start": "Fussy",
+    "end": "Manoeuvre"
+  },
+  "IDFM:C00940": {
+    "start": "La Chaussée",
+    "end": "Fussy"
+  },
+  "IDFM:C00941": {
+    "start": "Collège La Rochefoucauld (Dépose)",
+    "end": "Lycée Pierre de Coubertin"
+  },
+  "IDFM:C00942": {
+    "start": "Lycée Pierre de Coubertin",
+    "end": "Collège La Rochefoucauld (Dépose)"
+  },
+  "IDFM:C00943": {
+    "start": "Chessy Nord - Dépose",
+    "end": "Beaux Regards"
+  },
+  "IDFM:C00944": {
+    "start": "Gare de Crécy-la-Chapelle (Dépose)",
+    "end": "Chessy Nord - Dépose"
+  },
+  "IDFM:C00945": {
+    "start": "Philo",
+    "end": "Gare de Val d'Europe"
+  },
+  "IDFM:C00946": {
+    "start": "Sainte Beuve",
+    "end": "Collège Camille Saint Saëns"
+  },
+  "IDFM:C00947": {
+    "start": "Gare de La Ferté-sous-Jouarre (Quai H)",
+    "end": "Chessy Sud - Quai H"
+  },
+  "IDFM:C00948": {
+    "start": "Gare de Meaux (Quai F)",
+    "end": "C.F.A"
+  },
+  "IDFM:C00949": {
+    "start": "Gare de Meaux (Quai 3)",
+    "end": "Les Vendangeuses"
+  },
+  "IDFM:C00951": {
+    "start": "Mairie",
+    "end": "Collège Stéphane Hessel"
+  },
+  "IDFM:C00952": {
+    "start": "Gare de Crécy-la-Chapelle (Quai C)",
+    "end": "Village"
+  },
+  "IDFM:C00953": {
+    "start": "Georges Claude - dépose",
+    "end": "Gare de Meaux (Dépose)"
+  },
+  "IDFM:C00954": {
+    "start": "Berry",
+    "end": "Gare de Meaux (Dépose)"
+  },
+  "IDFM:C00955": {
+    "start": "Gare de Meaux (Dépose)",
+    "end": "Châage"
+  },
+  "IDFM:C00957": {
+    "start": "Musée de La Grande Guerre",
+    "end": "Gare de Meaux (Dépose)"
+  },
+  "IDFM:C00958": {
+    "start": "Les Saisons de Meaux",
+    "end": "Graham Bell"
+  },
+  "IDFM:C00959": {
+    "start": "Gare de Meaux (Dépose)",
+    "end": "Colisée de Meaux"
+  },
+  "IDFM:C00960": {
+    "start": "Roissypole - Aéroport CDG1 (B3)",
+    "end": "Gare de La Ferté-sous-Jouarre (Quai G)"
+  },
+  "IDFM:C00961": {
+    "start": "Marché",
+    "end": "Gare de Val d'Europe"
+  },
+  "IDFM:C00962": {
+    "start": "Teratec",
+    "end": "Gare de Breuillet - Bruyères-le-Châtel"
+  },
+  "IDFM:C01097": {
+    "start": "Manufacture des Tabacs",
+    "end": "Place d'Italie"
+  },
+  "IDFM:C01098": {
+    "start": "Porte de France",
+    "end": "Porte de Saint-Cloud"
+  },
+  "IDFM:C01099": {
+    "start": "Gare de Lyon",
+    "end": "Fondation L. Vuitton"
+  },
+  "IDFM:C01100": {
+    "start": "Porte des Lilas",
+    "end": "Denfert-Rochereau - Saint-Jacques"
+  },
+  "IDFM:C01102": {
+    "start": "Saint-Ouen - Les Docks",
+    "end": "Opéra"
+  },
+  "IDFM:C01103": {
+    "start": "Palais Royal - Musée du Louvre",
+    "end": "Stade Charléty - Porte de Gentilly"
+  },
+  "IDFM:C01104": {
+    "start": "Blanche",
+    "end": "Châtillon - Montrouge - Métro"
+  },
+  "IDFM:C01105": {
+    "start": "Gambetta - Japon",
+    "end": "Champ de Mars"
+  },
+  "IDFM:C01106": {
+    "start": "De Gaulle",
+    "end": "Hôtel de Ville"
+  },
+  "IDFM:C01107": {
+    "start": "Gare de Lyon - Maison de la RATP",
+    "end": "Parc de Saint-Cloud"
+  },
+  "IDFM:C01108": {
+    "start": "Musée d'Orsay",
+    "end": "Charlebourg"
+  },
+  "IDFM:C01109": {
+    "start": "Châtelet",
+    "end": "Berges de Seine"
+  },
+  "IDFM:C01110": {
+    "start": "Porte de Pantin - Marseillaise",
+    "end": "Panthéon"
+  },
+  "IDFM:C01111": {
+    "start": "Montreuil - Hôpital",
+    "end": "Châtelet"
+  },
+  "IDFM:C01112": {
+    "start": "Porte de Versailles",
+    "end": "Mairie du 18e - Jules Joffrin"
+  },
+  "IDFM:C01114": {
+    "start": "Observatoire - Port Royal",
+    "end": "Perronet"
+  },
+  "IDFM:C01115": {
+    "start": "Porte d'Ivry",
+    "end": "Invalides"
+  },
+  "IDFM:C01116": {
+    "start": "Panthéon",
+    "end": "Centre Commercial"
+  },
+  "IDFM:C01206": {
+    "start": "Four Peary / Choisy Sud",
+    "end": "Porte d'Italie - Hélène Boucher"
+  },
+  "IDFM:C01207": {
+    "start": "Porte d'Italie - Métro",
+    "end": "Rond-Point Roosevelt"
+  },
+  "IDFM:C01208": {
+    "start": "Mairie",
+    "end": "Porte d'Orléans"
+  },
+  "IDFM:C01209": {
+    "start": "Porte d'Orléans",
+    "end": "Les Blagis"
+  },
+  "IDFM:C01210": {
+    "start": "Porte de Saint-Cloud - Métro",
+    "end": "Georges Pompidou"
+  },
+  "IDFM:C01211": {
+    "start": "Mairie d'Issy",
+    "end": "Rond-Point du Petit Clamart"
+  },
+  "IDFM:C01212": {
+    "start": "Porte de Vanves",
+    "end": "Val Fleury RER"
+  },
+  "IDFM:C01213": {
+    "start": "Le Cor de Chasse",
+    "end": "Robinson RER"
+  },
+  "IDFM:C01214": {
+    "start": "Sophie Barat",
+    "end": "Porte d'Orléans"
+  },
+  "IDFM:C01215": {
+    "start": "Vallée aux Loups",
+    "end": "Pierre Semard - Châtillon Montrouge"
+  },
+  "IDFM:C01216": {
+    "start": "Pierre Kohlmann",
+    "end": "Les Ruelles"
+  },
+  "IDFM:C01217": {
+    "start": "Avenue Saint-Marc",
+    "end": "Porte d'Orléans"
+  },
+  "IDFM:C01218": {
+    "start": "Hôpital Paris-Saclay",
+    "end": "La Rocade - Lycée"
+  },
+  "IDFM:C01197": {
+    "start": "Pont de Neuilly-Métro",
+    "end": "Petit Gennevilliers"
+  },
+  "IDFM:C01198": {
+    "start": "Place Voltaire",
+    "end": "Place Paul Herbe"
+  },
+  "IDFM:C01199": {
+    "start": "La Défense-Métro-RER-Tramway",
+    "end": "Vieux Chemin de Saint-Denis - Centre Commercial"
+  },
+  "IDFM:C01200": {
+    "start": "Parc de Saint-Cloud",
+    "end": "Robinson RER"
+  },
+  "IDFM:C01201": {
+    "start": "Charenton - Écoles",
+    "end": "Villejuif - Louis Aragon"
+  },
+  "IDFM:C01202": {
+    "start": "Paul Casalis / La Gaité",
+    "end": "Ecole Vétérinaire de Maisons-Alfort"
+  },
+  "IDFM:C01203": {
+    "start": "Villeneuve - Triage RER",
+    "end": "Hôtel de Ville"
+  },
+  "IDFM:C01204": {
+    "start": "Choisy-le-Roi RER",
+    "end": "Aéroport Orly 1-2-3"
+  },
+  "IDFM:C01205": {
+    "start": "Pasteur - Jaurès",
+    "end": "Damesme"
+  },
+  "IDFM:C00230": {
+    "start": "Centre Commercial",
+    "end": "Central Space - Bâtiment E"
+  },
+  "IDFM:C00231": {
+    "start": "Gare de Louvres",
+    "end": "ZI Périchet"
+  },
+  "IDFM:C00232": {
+    "start": "Buisson aux Renards",
+    "end": "Piscine"
+  },
+  "IDFM:C00233": {
+    "start": "Piscine",
+    "end": "Mallein Gerin"
+  },
+  "IDFM:C00234": {
+    "start": "Gare de Louvres",
+    "end": "Ruelle du Puits"
+  },
+  "IDFM:C00235": {
+    "start": "Marie Feuchère",
+    "end": "Ruelle du Puits"
+  },
+  "IDFM:C00236": {
+    "start": "Passerelle",
+    "end": "Les Mitelles"
+  },
+  "IDFM:C00237": {
+    "start": "Piscine",
+    "end": "Poteau de Marly"
+  },
+  "IDFM:C00238": {
+    "start": "Passerelle",
+    "end": "Lycée Léonard de Vinci"
+  },
+  "IDFM:C00239": {
+    "start": "Sécurité Sociale",
+    "end": "Institut Saint-Dominique"
+  },
+  "IDFM:C00240": {
+    "start": "Regnault",
+    "end": "Institut Saint-Dominique"
+  },
+  "IDFM:C00241": {
+    "start": "Calvaire",
+    "end": "Institut Saint-Dominique"
+  },
+  "IDFM:C00242": {
+    "start": "Marie Feuchère",
+    "end": "Institut Saint-Dominique"
+  },
+  "IDFM:C00243": {
+    "start": "Village",
+    "end": "Institut Saint-Dominique"
+  },
+  "IDFM:C00244": {
+    "start": "Institut Saint-Dominique",
+    "end": "Centre"
+  },
+  "IDFM:C00245": {
+    "start": "Roissypole - Aéroport CDG1 (B1)",
+    "end": "Guincourt"
+  },
+  "IDFM:C00246": {
+    "start": "Louvres RER D",
+    "end": "Carrefour"
+  },
+  "IDFM:C00247": {
+    "start": "Lycée Charles de Gaulle",
+    "end": "Centre"
+  },
+  "IDFM:C00167": {
+    "start": "Gare de Dourdan",
+    "end": "Marais"
+  },
+  "IDFM:C00168": {
+    "start": "Place des Fêtes",
+    "end": "Collège Racinay"
+  },
+  "IDFM:C00170": {
+    "start": "Gare de Dourdan",
+    "end": "Arbouville"
+  },
+  "IDFM:C00171": {
+    "start": "Gare de Rambouillet - Prairie",
+    "end": "Jacques Sevestre"
+  },
+  "IDFM:C00172": {
+    "start": "Mairie",
+    "end": "Gare de Montfort l'Amaury - Méré"
+  },
+  "IDFM:C00173": {
+    "start": "Eglise",
+    "end": "Gare de Dourdan"
+  },
+  "IDFM:C00175": {
+    "start": "Haut de Nogent",
+    "end": "Gare de Rambouillet - Prud'homme"
+  },
+  "IDFM:C00176": {
+    "start": "Lenainville",
+    "end": "Gare de Dourdan"
+  },
+  "IDFM:C00177": {
+    "start": "Eglise",
+    "end": "Gare de Rambouillet - Prud'homme"
+  },
+  "IDFM:C00178": {
+    "start": "Gourville",
+    "end": "Collège Brassens"
+  },
+  "IDFM:C00179": {
+    "start": "Eglise",
+    "end": "Collège Brassens"
+  },
+  "IDFM:C00180": {
+    "start": "Gare de Dourdan",
+    "end": "Longchêne Place"
+  },
+  "IDFM:C00181": {
+    "start": "Gare de Rambouillet - Prud'homme",
+    "end": "Chaleine"
+  },
+  "IDFM:C00182": {
+    "start": "Marais",
+    "end": "Rouget de Lisle"
+  },
+  "IDFM:C00183": {
+    "start": "Cutesson",
+    "end": "Clairbois"
+  },
+  "IDFM:C00184": {
+    "start": "Marine",
+    "end": "Le Cerrsy"
+  },
+  "IDFM:C00187": {
+    "start": "Mairie / Village",
+    "end": "Centre"
+  },
+  "IDFM:C00188": {
+    "start": "Le Gradient",
+    "end": "Mairie"
+  },
+  "IDFM:C00189": {
+    "start": "Pasteur",
+    "end": "Gare de Villeparisis Mitry-le-Neuf"
+  },
+  "IDFM:C00191": {
+    "start": "Marché de Saint-Denis",
+    "end": "Cachin Blatreux"
+  },
+  "IDFM:C00194": {
+    "start": "Rue de la Ferme",
+    "end": "Goussainville Gare"
+  },
+  "IDFM:C00196": {
+    "start": "Place Gambetta",
+    "end": "Baillon"
+  },
+  "IDFM:C00197": {
+    "start": "Merisiers",
+    "end": "Gare d'Aulnay-sous-Bois"
+  },
+  "IDFM:C00198": {
+    "start": "Villeparisis - Mitry-le-Neuf",
+    "end": "Calvaire"
+  },
+  "IDFM:C00200": {
+    "start": "Collège Gérard Philipe",
+    "end": "Place Jacques Chirac - Gare"
+  },
+  "IDFM:C00201": {
+    "start": "Bordeaux",
+    "end": "Place Jacques Chirac - Gare"
+  },
+  "IDFM:C00202": {
+    "start": "Shopping Promenade",
+    "end": "Deux Départements"
+  },
+  "IDFM:C00203": {
+    "start": "Fénelon",
+    "end": "Gare de Dammartin Juilly Saint Mard"
+  },
+  "IDFM:C00204": {
+    "start": "Les Deux Cèdres",
+    "end": "Collège Gérard Philipe"
+  },
+  "IDFM:C00205": {
+    "start": "Les Olympiades",
+    "end": "Descartes - Malcolm X"
+  },
+  "IDFM:C00206": {
+    "start": "Pablo Picasso",
+    "end": "Gare de Goussainville"
+  },
+  "IDFM:C00207": {
+    "start": "Regnault",
+    "end": "Goussainville Gare"
+  },
+  "IDFM:C00208": {
+    "start": "Parc Commercial Pont de Pierre",
+    "end": "Garges - Sarcelles RER"
+  },
+  "IDFM:C00209": {
+    "start": "Aéroport CDG - Terminal 2 (Route de service)",
+    "end": "Chapellerie"
+  },
+  "IDFM:C00211": {
+    "start": "Gendarmerie - La Motte Picquet",
+    "end": "Gare de Les Noues"
+  },
+  "IDFM:C00213": {
+    "start": "Vert Galant",
+    "end": "Roissypole - Aéroport CDG1 (C2)"
+  },
+  "IDFM:C00214": {
+    "start": "Gare d'Aulnay-sous-Bois",
+    "end": "Gare de Roissypole - Aéroport CDG1 Terminal 3 (C4)"
+  },
+  "IDFM:C00216": {
+    "start": "Gare du Vert Galant",
+    "end": "Anatole Sigonneau - Centre d'Affaires"
+  },
+  "IDFM:C00217": {
+    "start": "Collège A. de Noailles - Lycée G. de Nerval",
+    "end": "Blancs Manteaux"
+  },
+  "IDFM:C00218": {
+    "start": "Mairie",
+    "end": "La Tour"
+  },
+  "IDFM:C00219": {
+    "start": "Centre de Fontenay-en-Parisis",
+    "end": "Rue de Paris"
+  },
+  "IDFM:C00220": {
+    "start": "Fréchot",
+    "end": "Institut Saint-Dominique"
+  },
+  "IDFM:C00221": {
+    "start": "Gare de Villeparisis Mitry-le-Neuf",
+    "end": "Germain"
+  },
+  "IDFM:C00223": {
+    "start": "Gare de Roissypole - Aéroport CDG1 (C3)",
+    "end": "Bobigny - Pablo Picasso"
+  },
+  "IDFM:C00224": {
+    "start": "Ecole Jean Jaurès",
+    "end": "Michel Simon"
+  },
+  "IDFM:C00225": {
+    "start": "La Villette aux Aulnes",
+    "end": "Collège Langevin / Lycée Balzac"
+  },
+  "IDFM:C00226": {
+    "start": "Bergerie",
+    "end": "Collège A. de Noailles - Lycée G. de Nerval"
+  },
+  "IDFM:C00228": {
+    "start": "Gare de Louvres",
+    "end": "Beaumont"
+  },
+  "IDFM:C00229": {
+    "start": "Survilliers - Fosses",
+    "end": "Village"
+  },
+  "IDFM:C00248": {
+    "start": "Mairie",
+    "end": "Henri IV Jardin"
+  },
+  "IDFM:C00250": {
+    "start": "Église",
+    "end": "Lycée Charles de Gaulle"
+  },
+  "IDFM:C00251": {
+    "start": "Saint Laurent",
+    "end": "Gare de Dammartin Juilly Saint Mard"
+  },
+  "IDFM:C00252": {
+    "start": "Gare de Dammartin Juilly Saint Mard",
+    "end": "Centre Médical"
+  },
+  "IDFM:C00253": {
+    "start": "Centre",
+    "end": "Gare de Dammartin Juilly Saint Mard"
+  },
+  "IDFM:C00254": {
+    "start": "Collège Georges Brassens",
+    "end": "La Fortelle"
+  },
+  "IDFM:C00260": {
+    "start": "Eglise Saint-Etienne",
+    "end": "Rond-Point de l'Etang"
+  },
+  "IDFM:C00199": {
+    "start": "Centre Ville",
+    "end": "Place Jacques Chirac - Gare"
+  },
+  "IDFM:C02721": {
+    "start": "Le Prieure",
+    "end": "Stade de la Faisanderie"
+  },
+  "IDFM:C02723": {
+    "start": "Paris La Villette",
+    "end": "Aéroport Paris Beauvais"
+  },
+  "IDFM:C01949": {
+    "start": "Croms",
+    "end": "Gare de Rosny-sur-Seine"
+  },
+  "IDFM:C01950": {
+    "start": "Lycée",
+    "end": "Brèche aux Loups"
+  },
+  "IDFM:C01951": {
+    "start": "Saint-Quentin - Gare Routière des Prés",
+    "end": "Gare de Rambouillet - Prairie"
+  },
+  "IDFM:C01952": {
+    "start": "Eglise",
+    "end": "Lycée Jean Monnet"
+  },
+  "IDFM:C01953": {
+    "start": "Gare des Essarts le Roi",
+    "end": "Lycée Jean Monnet"
+  },
+  "IDFM:C01954": {
+    "start": "Roseau",
+    "end": "Collège"
+  },
+  "IDFM:C01955": {
+    "start": "Collège Racinay",
+    "end": "Lycée Violet le Duc"
+  },
+  "IDFM:C01956": {
+    "start": "Gare de Grigny Centre",
+    "end": "Grand Vaux"
+  },
+  "IDFM:C01957": {
+    "start": "Mairie",
+    "end": "Gare de Montfort l'Amaury - Méré"
+  },
+  "IDFM:C01958": {
+    "start": "Cité Scolaire",
+    "end": "Jacques Durand"
+  },
+  "IDFM:C01960": {
+    "start": "Place Parodi",
+    "end": "Gare Nemours / Carnot"
+  },
+  "IDFM:C01961": {
+    "start": "Lycée Fontaineroux",
+    "end": "Gare Carnot"
+  },
+  "IDFM:C01962": {
+    "start": "Gare Carnot",
+    "end": "Le Bouloy / Ecole"
+  },
+  "IDFM:C01963": {
+    "start": "Le Clos",
+    "end": "Gare Carnot"
+  },
+  "IDFM:C01964": {
+    "start": "Mairie Diant",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C01965": {
+    "start": "Quai Victor Hugo",
+    "end": "Pont de Dordives"
+  },
+  "IDFM:C01966": {
+    "start": "Cité Scolaire",
+    "end": "Rue en Pente"
+  },
+  "IDFM:C01967": {
+    "start": "Aristide Briand",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C01969": {
+    "start": "Collège Vasco",
+    "end": "Laveaux"
+  },
+  "IDFM:C01970": {
+    "start": "Centre Beaumont",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C01971": {
+    "start": "Le Roulis",
+    "end": "Le Coudray"
+  },
+  "IDFM:C01973": {
+    "start": "Lycée Fontaineroux",
+    "end": "Gare Souppes Parvis"
+  },
+  "IDFM:C01974": {
+    "start": "Grands Taillis",
+    "end": "André Malraux"
+  },
+  "IDFM:C01975": {
+    "start": "Gillevoisin",
+    "end": "Château de Frémigny"
+  },
+  "IDFM:C02131": {
+    "start": "Collège Goscinny",
+    "end": "Skate Park"
+  },
+  "IDFM:C02132": {
+    "start": "Digoy",
+    "end": "Collège Corot"
+  },
+  "IDFM:C02133": {
+    "start": "Chilpéric - Adolphe Besson",
+    "end": "Sources"
+  },
+  "IDFM:C02135": {
+    "start": "Haute Borne",
+    "end": "Goulet"
+  },
+  "IDFM:C02136": {
+    "start": "Mairie",
+    "end": "Gare de Chelles Gournay"
+  },
+  "IDFM:C02137": {
+    "start": "Mairie",
+    "end": "Gare de Chelles Gournay"
+  },
+  "IDFM:C02138": {
+    "start": "Cité Scolaire",
+    "end": "Mairie"
+  },
+  "IDFM:C02139": {
+    "start": "Avenue des Martyrs",
+    "end": "Carrefour des Déportés"
+  },
+  "IDFM:C02142": {
+    "start": "Maupassant",
+    "end": "Gare de Houilles - Carrières-sur-Seine"
+  },
+  "IDFM:C02144": {
+    "start": "Gare de Chatou - Croissy",
+    "end": "Renoir"
+  },
+  "IDFM:C02145": {
+    "start": "Cormeilles",
+    "end": "Rue du Port"
+  },
+  "IDFM:C02146": {
+    "start": "Monceau",
+    "end": "Collège des Amandiers"
+  },
+  "IDFM:C02147": {
+    "start": "Gare de Sartrouville",
+    "end": "Théophile Roussel"
+  },
+  "IDFM:C02148": {
+    "start": "Gare de Sartrouville",
+    "end": "Collège Pablo Picasso"
+  },
+  "IDFM:C02149": {
+    "start": "Gare de Sartrouville",
+    "end": "Gare de Rueil-Malmaison"
+  },
+  "IDFM:C02150": {
+    "start": "La Tour",
+    "end": "Gare du Vésinet - Le Pecq"
+  },
+  "IDFM:C02151": {
+    "start": "Piscine de Carrières",
+    "end": "Z.I. des Amandiers"
+  },
+  "IDFM:C02152": {
+    "start": "Gabriel Péri",
+    "end": "Gare de Houilles - Carrières-sur-Seine"
+  },
+  "IDFM:C02153": {
+    "start": "Berges de Montesson",
+    "end": "Lycée Evariste Galois"
+  },
+  "IDFM:C02154": {
+    "start": "Gare de Coulommiers",
+    "end": "Gare de La Ferté-sous-Jouarre (Quai I)"
+  },
+  "IDFM:C02155": {
+    "start": "Gare de Massy-Palaiseau",
+    "end": "Vélizy 2"
+  },
+  "IDFM:C02156": {
+    "start": "Les Patis",
+    "end": "Gare de Melun"
+  },
+  "IDFM:C02159": {
+    "start": "Guiche",
+    "end": "Les Chênes"
+  },
+  "IDFM:C02160": {
+    "start": "Gare de La Ferté-sous-Jouarre (Quai I)",
+    "end": "Les Groseilliers"
+  },
+  "IDFM:C02161": {
+    "start": "Géo André",
+    "end": "Place du Prieuré"
+  },
+  "IDFM:C01976": {
+    "start": "Collège Tillon",
+    "end": "20 rue Panserot"
+  },
+  "IDFM:C01977": {
+    "start": "HLM Bas",
+    "end": "Gare de Bouray"
+  },
+  "IDFM:C01978": {
+    "start": "Collège le Roussay",
+    "end": "La Boissière"
+  },
+  "IDFM:C01979": {
+    "start": "Mésanges",
+    "end": "Lycée Saint-Exupéry"
+  },
+  "IDFM:C01980": {
+    "start": "Collège François Rabelais",
+    "end": "Maladrerie"
+  },
+  "IDFM:C01981": {
+    "start": "Collège Maurice Ravel",
+    "end": "Rue de la Piquette"
+  },
+  "IDFM:C01982": {
+    "start": "Collège François Rabelais",
+    "end": "Eglise"
+  },
+  "IDFM:C01983": {
+    "start": "Ferranville",
+    "end": "Collège Maurice Ravel"
+  },
+  "IDFM:C01984": {
+    "start": "Collège Maurice Ravel",
+    "end": "La Picotière"
+  },
+  "IDFM:C01985": {
+    "start": "Mairie",
+    "end": "Collège Saint-Simon"
+  },
+  "IDFM:C01986": {
+    "start": "Mairie",
+    "end": "Collège François Rabelais"
+  },
+  "IDFM:C01987": {
+    "start": "Saint Léonard",
+    "end": "Collège Maurice Ravel"
+  },
+  "IDFM:C01988": {
+    "start": "Rue de la Gare",
+    "end": "Le Pavé"
+  },
+  "IDFM:C01989": {
+    "start": "Basse Pissotte",
+    "end": "Collège François Rabelais"
+  },
+  "IDFM:C01990": {
+    "start": "Gare de Beynes",
+    "end": "Gare d'Orgerus Béhoust"
+  },
+  "IDFM:C01991": {
+    "start": "Les Templiers",
+    "end": "Notre Dame du Bel-Air"
+  },
+  "IDFM:C01992": {
+    "start": "Gare de Montfort l'Amaury - Méré",
+    "end": "Bois Renoult"
+  },
+  "IDFM:C01993": {
+    "start": "Villaré",
+    "end": "Le Pont"
+  },
+  "IDFM:C01994": {
+    "start": "Centre",
+    "end": "Collège de la Dhuis"
+  },
+  "IDFM:C01995": {
+    "start": "Ségy",
+    "end": "Gare d'Esbly - Quai A"
+  },
+  "IDFM:C02000": {
+    "start": "Esplanade Charles de Gaulle",
+    "end": "Saint-Germain-en-Laye RER"
+  },
+  "IDFM:C02005": {
+    "start": "Marché",
+    "end": "Pont Buissonnier"
+  },
+  "IDFM:C02006": {
+    "start": "Place Charles de Gaulle",
+    "end": "Chaufferie"
+  },
+  "IDFM:C02007": {
+    "start": "Roger Semât",
+    "end": "My Place"
+  },
+  "IDFM:C02008": {
+    "start": "Landy - Fruitiers",
+    "end": "Saint-Denis - Université"
+  },
+  "IDFM:C02162": {
+    "start": "Eglise",
+    "end": "Bonnières-sur-Seine Gare Routière - Quai 7"
+  },
+  "IDFM:C02164": {
+    "start": "Ecole Pasteur",
+    "end": "Ecole Jean Jaurès"
+  },
+  "IDFM:C02165": {
+    "start": "Collège Philippe Auguste",
+    "end": "Collège Montaigne"
+  },
+  "IDFM:C02166": {
+    "start": "ZAE G. Monmousseau",
+    "end": "Goussainville Gare"
+  },
+  "IDFM:C02167": {
+    "start": "Collège A. de Noailles - Lycée G. de Nerval",
+    "end": "Rue de la Ferme"
+  },
+  "IDFM:C02168": {
+    "start": "Place Gambetta",
+    "end": "Baillon"
+  },
+  "IDFM:C02169": {
+    "start": "Gare de Plaisir Grignon - quai 3",
+    "end": "Blaise Pascal"
+  },
+  "IDFM:C02170": {
+    "start": "Gare de Plaisir Grignon - quai 3",
+    "end": "Marché"
+  },
+  "IDFM:C02172": {
+    "start": "Lamartine",
+    "end": "Lycée Jean Vilar"
+  },
+  "IDFM:C02174": {
+    "start": "Mare aux Saules (Avenue de Dreux)",
+    "end": "Lycée Jean Vilar"
+  },
+  "IDFM:C02175": {
+    "start": "Eglise",
+    "end": "Commissariat - François Mitterrand"
+  },
+  "IDFM:C02180": {
+    "start": "Escadrille Normandie-Niemen - Stalingrad Tramway",
+    "end": "Baudin"
+  },
+  "IDFM:C02183": {
+    "start": "Gare de Saint-Cyr-l'Ecole",
+    "end": "Aérostation Maritime"
+  },
+  "IDFM:C02184": {
+    "start": "Ferme de Gally",
+    "end": "Droits de l'Homme"
+  },
+  "IDFM:C02185": {
+    "start": "Lycée Jules Verne",
+    "end": "La Forêt"
+  },
+  "IDFM:C02186": {
+    "start": "Bel Air",
+    "end": "La Forêt"
+  },
+  "IDFM:C02187": {
+    "start": "Gare de Combs-la-Ville Quincy",
+    "end": "14 Juillet"
+  },
+  "IDFM:C02188": {
+    "start": "Château du Jard",
+    "end": "Gare de Combs-la-Ville Quincy"
+  },
+  "IDFM:C02191": {
+    "start": "Institution Nazareth",
+    "end": "La Chesnaie"
+  },
+  "IDFM:C02192": {
+    "start": "Médiathèque",
+    "end": "Institution Nazareth"
+  },
+  "IDFM:C02193": {
+    "start": "Lycée Sonia Delaunay",
+    "end": "Clairière"
+  },
+  "IDFM:C02194": {
+    "start": "Gambetta",
+    "end": "Carré Trait d'Union"
+  },
+  "IDFM:C02195": {
+    "start": "Mairie",
+    "end": "Collège Les Creusottes"
+  },
+  "IDFM:C02118": {
+    "start": "Champcormolin",
+    "end": "Gambetta"
+  },
+  "IDFM:C02120": {
+    "start": "Rendez-Vous Château - Jean-Claude Barigot",
+    "end": "Centre Culturel / Melun"
+  },
+  "IDFM:C02121": {
+    "start": "Gare de Tournan",
+    "end": "Gare de Melun - Place de l'Ermitage"
+  },
+  "IDFM:C02122": {
+    "start": "Centre de réadaptation (CRRA)",
+    "end": "Gare de Melun - Place de l'Ermitage"
+  },
+  "IDFM:C02124": {
+    "start": "Victor Hugo",
+    "end": "Gare de Noisiel"
+  },
+  "IDFM:C02125": {
+    "start": "Bagneaux",
+    "end": "Pécqueux"
+  },
+  "IDFM:C02126": {
+    "start": "Eglise",
+    "end": "Collège Nicolas Fouquet"
+  },
+  "IDFM:C02127": {
+    "start": "Rue de la Poste",
+    "end": "Collège Nicolas Fouquet"
+  },
+  "IDFM:C02128": {
+    "start": "Mairie",
+    "end": "Abri"
+  },
+  "IDFM:C02129": {
+    "start": "Chilpéric - Adolphe Besson",
+    "end": "Gare de Villeparisis Mitry-le-Neuf"
+  },
+  "IDFM:C02130": {
+    "start": "Cité Scolaire",
+    "end": "Mairie"
+  },
+  "IDFM:C02395": {
+    "start": "Porte d'Orléans",
+    "end": "Porte d'Étampes"
+  },
+  "IDFM:C02396": {
+    "start": "Paul Fort",
+    "end": "Lycée René Cassin"
+  },
+  "IDFM:C02397": {
+    "start": "La Greffière",
+    "end": "Gare de Juvisy"
+  },
+  "IDFM:C02398": {
+    "start": "Collège Paul Eluard",
+    "end": "La Greffière"
+  },
+  "IDFM:C02399": {
+    "start": "Les Echassons",
+    "end": "Place Hausen"
+  },
+  "IDFM:C02400": {
+    "start": "Busserolles",
+    "end": "Sainte Beuve"
+  },
+  "IDFM:C02401": {
+    "start": "Place de la Mairie",
+    "end": "Gouffre du Biercy"
+  },
+  "IDFM:C02403": {
+    "start": "Général de Gaulle",
+    "end": "Les Renondaines"
+  },
+  "IDFM:C02412": {
+    "start": "Calmette",
+    "end": "Mairie"
+  },
+  "IDFM:C02413": {
+    "start": "Route Pierrrelaye",
+    "end": "Église"
+  },
+  "IDFM:C02414": {
+    "start": "Place du 19 mars 1962",
+    "end": "Gare Routière"
+  },
+  "IDFM:C02415": {
+    "start": "Wenings",
+    "end": "Gare Routière"
+  },
+  "IDFM:C02418": {
+    "start": "Gare Place",
+    "end": "ZI Bordes Sud"
+  },
+  "IDFM:C02422": {
+    "start": "Hôpital Simone Veil",
+    "end": "Gare de Domont"
+  },
+  "IDFM:C02423": {
+    "start": "Mail Pierre Potier",
+    "end": "Croix de Fer"
+  },
+  "IDFM:C02425": {
+    "start": "gif sur yvette - Févrie",
+    "end": "Madrid"
+  },
+  "IDFM:C02426": {
+    "start": "Rond-Point",
+    "end": "Gare de Sucy-Bonneuil"
+  },
+  "IDFM:C02427": {
+    "start": "Collège du Parc",
+    "end": "Alexandre Milard"
+  },
+  "IDFM:C02428": {
+    "start": "Petit Caporal",
+    "end": "Lycée Champlain"
+  },
+  "IDFM:C02429": {
+    "start": "Moulin à vent",
+    "end": "Moulin Vert"
+  },
+  "IDFM:C02430": {
+    "start": "Pont de Chennevières",
+    "end": "Lycée Champlain"
+  },
+  "IDFM:C02431": {
+    "start": "Gare d'Étampes",
+    "end": "Collège Hubert Robert"
+  },
+  "IDFM:C02432": {
+    "start": "Ville Haute Quai 3",
+    "end": "Toulotte"
+  },
+  "IDFM:C02433": {
+    "start": "Fontaine Montaiguillon",
+    "end": "Ville Haute Quai 3"
+  },
+  "IDFM:C02435": {
+    "start": "Collège Barthélémy",
+    "end": "Abri"
+  },
+  "IDFM:C00104": {
+    "start": "Lycée Marie Laurencin",
+    "end": "Gare de Ballancourt"
+  },
+  "IDFM:C00105": {
+    "start": "Brigeollet",
+    "end": "Porte d'Étampes"
+  },
+  "IDFM:C00106": {
+    "start": "Gare de Cergy-le-Haut",
+    "end": "Gare des Mureaux (C1)"
+  },
+  "IDFM:C00107": {
+    "start": "Rue de l'Aulnaie",
+    "end": "Lycée François Villon - Quai 2"
+  },
+  "IDFM:C00108": {
+    "start": "Gare d'Epône Mézières",
+    "end": "Lycée Van Gogh"
+  },
+  "IDFM:C00109": {
+    "start": "Eglise",
+    "end": "Lycée Van Gogh"
+  },
+  "IDFM:C00110": {
+    "start": "Route de Brezolles",
+    "end": "Lycée Van Gogh"
+  },
+  "IDFM:C00111": {
+    "start": "Rue de Verdun",
+    "end": "ESAT"
+  },
+  "IDFM:C00112": {
+    "start": "Place Lamant",
+    "end": "Bel Air"
+  },
+  "IDFM:C00113": {
+    "start": "Pré Saint-Nom Sud",
+    "end": "Gare de Versailles - Rive Droite"
+  },
+  "IDFM:C00114": {
+    "start": "Europe",
+    "end": "Aérospatiale"
+  },
+  "IDFM:C00115": {
+    "start": "Peugeot",
+    "end": "Gare d'Aubergenville Élisabethville - Quai 4"
+  },
+  "IDFM:C00116": {
+    "start": "Centre Cardiologique",
+    "end": "Rue de Tessancourt"
+  },
+  "IDFM:C00117": {
+    "start": "Hautes Groux",
+    "end": "Gare des Mureaux (A1)"
+  },
+  "IDFM:C00118": {
+    "start": "Notre-Dame Chemin Vert",
+    "end": "Paul Barré"
+  },
+  "IDFM:C00119": {
+    "start": "Gaston Jouillerat",
+    "end": "Mairie / Bailly"
+  },
+  "IDFM:C00120": {
+    "start": "Gare d'Aubergenville Elisabethville",
+    "end": "Bout du Monde"
+  },
+  "IDFM:C00121": {
+    "start": "Bout du Monde",
+    "end": "Rue des Mureaux"
+  },
+  "IDFM:C00122": {
+    "start": "Tuilerie Bignon",
+    "end": "Lycée Pierre Corneille"
+  },
+  "IDFM:C00124": {
+    "start": "Chemin aux Boeufs",
+    "end": "Abreuvoir"
+  },
+  "IDFM:C00125": {
+    "start": "Tuilerie Bignon",
+    "end": "Croix Marie"
+  },
+  "IDFM:C00126": {
+    "start": "Croix Marie",
+    "end": "Collège La Quintinie"
+  },
+  "IDFM:C00128": {
+    "start": "Rue de Tessancourt",
+    "end": "Port Maron"
+  },
+  "IDFM:C00129": {
+    "start": "Port Maron",
+    "end": "Hautes Groux"
+  },
+  "IDFM:C00130": {
+    "start": "Rue de Tessancourt",
+    "end": "Port Maron"
+  },
+  "IDFM:C01565": {
+    "start": "Institut de Biologie",
+    "end": "Gare autoroutière"
+  },
+  "IDFM:C01566": {
+    "start": "Université Paris Saclay",
+    "end": "Institut de Biologie"
+  },
+  "IDFM:C01567": {
+    "start": "Gare de Massy-Palaiseau",
+    "end": "Saint-Aubin"
+  },
+  "IDFM:C01568": {
+    "start": "Lycée",
+    "end": "Gare d'Étampes"
+  },
+  "IDFM:C01569": {
+    "start": "Mairie des Ulis - Place de la Liberté",
+    "end": "Vélizy 2"
+  },
+  "IDFM:C01570": {
+    "start": "Gare Routière",
+    "end": "Gare de Yerres"
+  },
+  "IDFM:C01571": {
+    "start": "Lycée Emilie de Breteuil",
+    "end": "Aéroport Orly 4"
+  },
+  "IDFM:C01574": {
+    "start": "Gare du Raincy Villemomble Montfermeil",
+    "end": "Rond-Point des Sciences"
+  },
+  "IDFM:C01575": {
+    "start": "Rond-Point Île-de-France",
+    "end": "Gare du Raincy Villemomble Montfermeil"
+  },
+  "IDFM:C01576": {
+    "start": "Gare de Gagny",
+    "end": "Fontaine Jean Valjean"
+  },
+  "IDFM:C01577": {
+    "start": "Gare du Raincy Villemomble Montfermeil",
+    "end": "Cimetière de Sevran"
+  },
+  "IDFM:C01578": {
+    "start": "Hôpital Ballanger",
+    "end": "La Courneuve 8 mai 1945"
+  },
+  "IDFM:C01579": {
+    "start": "Gare de Villepinte",
+    "end": "Fort d'Aubervilliers"
+  },
+  "IDFM:C01580": {
+    "start": "Gare de Sevran Beaudottes",
+    "end": "Gare de Dugny La Courneuve"
+  },
+  "IDFM:C01581": {
+    "start": "Gare d'Aulnay-sous-Bois",
+    "end": "Rue Duchesne"
+  },
+  "IDFM:C01583": {
+    "start": "Gare de Villepinte",
+    "end": "Bobigny Pablo Picasso"
+  },
+  "IDFM:C01584": {
+    "start": "Garonor - Porte Sud",
+    "end": "Gare de Bondy"
+  },
+  "IDFM:C01585": {
+    "start": "Gare d'Aulnay-sous-Bois",
+    "end": "Hôpital Ballanger"
+  },
+  "IDFM:C01586": {
+    "start": "Jacques Decour",
+    "end": "Gare d'Aulnay-sous-Bois"
+  },
+  "IDFM:C01587": {
+    "start": "Gare de Sevran Beaudottes",
+    "end": "Cottages"
+  },
+  "IDFM:C01588": {
+    "start": "Bobigny Pablo Picasso",
+    "end": "Colonel Fabien"
+  },
+  "IDFM:C01589": {
+    "start": "Gare de Gagny",
+    "end": "Poudrerie"
+  },
+  "IDFM:C01591": {
+    "start": "Condé Circulaire",
+    "end": "Gare d'Aulnay-sous-Bois"
+  },
+  "IDFM:C01594": {
+    "start": "Segro Logistics Park",
+    "end": "Albert David"
+  },
+  "IDFM:C00032": {
+    "start": "Pavé",
+    "end": "Collège Delacroix"
+  },
+  "IDFM:C00033": {
+    "start": "Les 4 Chênes",
+    "end": "Gare de Pontault (Rue de l'Est)"
+  },
+  "IDFM:C00034": {
+    "start": "Pavé",
+    "end": "Noisiel RER"
+  },
+  "IDFM:C00038": {
+    "start": "Campus HEC",
+    "end": "Gare de Chaville Rive Droite"
+  },
+  "IDFM:C00039": {
+    "start": "Mairie - Tarron",
+    "end": "Ursine"
+  },
+  "IDFM:C00040": {
+    "start": "Victor Hugo",
+    "end": "Mairie - Tarron"
+  },
+  "IDFM:C00042": {
+    "start": "Gare de Bièvres",
+    "end": "Gare de Chaville Rive Droite"
+  },
+  "IDFM:C00043": {
+    "start": "Vergennes",
+    "end": "Centre Commercial"
+  },
+  "IDFM:C00046": {
+    "start": "Gare de Massy-Palaiseau Vilmorin",
+    "end": "Le Bois"
+  },
+  "IDFM:C00048": {
+    "start": "Pont de Sèvres",
+    "end": "Europe Sud / Traité de Rome"
+  },
+  "IDFM:C00049": {
+    "start": "Burospace",
+    "end": "Pont de Sèvres"
+  },
+  "IDFM:C00050": {
+    "start": "Europe",
+    "end": "Centre Commercial"
+  },
+  "IDFM:C00051": {
+    "start": "Mairie de Vélizy",
+    "end": "Musée de Sèvres"
+  },
+  "IDFM:C00052": {
+    "start": "Burospace",
+    "end": "Gare des Chantiers - Abbé Rousseaux"
+  },
+  "IDFM:C00054": {
+    "start": "Grande Rue / Mairie",
+    "end": "Collège Maurice Ravel"
+  },
+  "IDFM:C00057": {
+    "start": "Millerus La Croix",
+    "end": "Collège Maurice Ravel"
+  },
+  "IDFM:C00060": {
+    "start": "Gare de Nézel - Aulnay",
+    "end": "Collège Maurice Ravel"
+  },
+  "IDFM:C00061": {
+    "start": "Saint-Quentin - Gare Routière des Prés",
+    "end": "Gare Routière de Mantes-la-Ville - Quai 25"
+  },
+  "IDFM:C00062": {
+    "start": "Arbouville",
+    "end": "Gare Routière de Mantes-la-Ville - Quai 25"
+  },
+  "IDFM:C00063": {
+    "start": "Gare de Houdan",
+    "end": "Mairie"
+  },
+  "IDFM:C00064": {
+    "start": "Saint-Quentin - Gare routière Paul Delouvrier",
+    "end": "ZAC La Prévôté"
+  },
+  "IDFM:C00066": {
+    "start": "8 mai 1945",
+    "end": "Rue Neuve"
+  },
+  "IDFM:C00067": {
+    "start": "Massy - Palaiseau RER",
+    "end": "Lycée Essouriau"
+  },
+  "IDFM:C00068": {
+    "start": "Lycée Essouriau",
+    "end": "Mairie d'Orsay"
+  },
+  "IDFM:C00069": {
+    "start": "Collège de la Guyonnerie",
+    "end": "Lycée Essouriau"
+  },
+  "IDFM:C00070": {
+    "start": "Centre Commercial Ulis 2 - Aubrac",
+    "end": "Gare d'Orsay Ville"
+  },
+  "IDFM:C00072": {
+    "start": "Plateau de Moulon - Corbeville",
+    "end": "Gare d'Orsay - L'Yvette"
+  },
+  "IDFM:C00073": {
+    "start": "Châteaufort",
+    "end": "Square"
+  },
+  "IDFM:C00074": {
+    "start": "Gare d'Igny",
+    "end": "Chartres"
+  },
+  "IDFM:C00075": {
+    "start": "Ferme de la Vauve",
+    "end": "Place du Grand Ouest"
+  },
+  "IDFM:C00076": {
+    "start": "Porte Jaune",
+    "end": "Collège Emile Zola"
+  },
+  "IDFM:C00078": {
+    "start": "Gare d'Igny",
+    "end": "Razel"
+  },
+  "IDFM:C00079": {
+    "start": "Centre Commercial Villebon 2",
+    "end": "Stade de Rugby"
+  },
+  "IDFM:C00082": {
+    "start": "Château de Frémigny",
+    "end": "Carrefour Berger"
+  },
+  "IDFM:C00083": {
+    "start": "Mésanges",
+    "end": "Mairie"
+  },
+  "IDFM:C00084": {
+    "start": "CCial Les 4 Chênes",
+    "end": "Mairie"
+  },
+  "IDFM:C00085": {
+    "start": "Lycée Champlain",
+    "end": "La Varenne - Chennevières RER"
+  },
+  "IDFM:C00086": {
+    "start": "ZI Croix Blanche",
+    "end": "Gare de Sainte Geneviève des Bois"
+  },
+  "IDFM:C00087": {
+    "start": "Charlie Chaplin",
+    "end": "Allée de l'Orge"
+  },
+  "IDFM:C00089": {
+    "start": "ZI Croix Blanche",
+    "end": "Gare de Sainte Geneviève des Bois"
+  },
+  "IDFM:C00090": {
+    "start": "ZI Croix Blanche",
+    "end": "Chemin des Femmes"
+  },
+  "IDFM:C00092": {
+    "start": "Gendarmerie",
+    "end": "Gare de Bouray"
+  },
+  "IDFM:C00093": {
+    "start": "Perray Vaucluse",
+    "end": "Gare d'Epinay-sur-Orge"
+  },
+  "IDFM:C00094": {
+    "start": "Gare d'Epinay-sur-Orge",
+    "end": "Place Stalingrad"
+  },
+  "IDFM:C00097": {
+    "start": "Rotonde",
+    "end": "Lycée Montmirault"
+  },
+  "IDFM:C00098": {
+    "start": "Gare d'Etampes",
+    "end": "Gare de la Ferté-Alais"
+  },
+  "IDFM:C00100": {
+    "start": "Gare de la Ferté-Alais",
+    "end": "La Montagne - Lycée Belmondo"
+  },
+  "IDFM:C00101": {
+    "start": "Lycée Robert Doisneau",
+    "end": "Avenue du Général Leclerc"
+  },
+  "IDFM:C00102": {
+    "start": "Stade",
+    "end": "Collège Le Saussay"
+  },
+  "IDFM:C00103": {
+    "start": "Gare de Sainte Geneviève des Bois",
+    "end": "Maison d'Arrêt des Femmes"
+  },
+  "IDFM:C02542": {
+    "start": "Hautes Garennes",
+    "end": "Gare Routière Nord (B4)"
+  },
+  "IDFM:C02543": {
+    "start": "La Coudraie",
+    "end": "Peugeot"
+  },
+  "IDFM:C02544": {
+    "start": "Rouillard - Bords de Seine",
+    "end": "Peugeot"
+  },
+  "IDFM:C02545": {
+    "start": "Vieille Ferme",
+    "end": "La Fourche"
+  },
+  "IDFM:C02547": {
+    "start": "Port Saint-Louis",
+    "end": "Cimetière"
+  },
+  "IDFM:C02548": {
+    "start": "Lycée Le Corbusier",
+    "end": "La Fourche"
+  },
+  "IDFM:C02549": {
+    "start": "Lycée Le Corbusier",
+    "end": "La Chapelle"
+  },
+  "IDFM:C02550": {
+    "start": "La Coudraie",
+    "end": "Notre-Dame"
+  },
+  "IDFM:C02551": {
+    "start": "Lycée Le Corbusier",
+    "end": "Roland Le Nestour"
+  },
+  "IDFM:C02552": {
+    "start": "Rond-Point de l'Île",
+    "end": "Ursulines"
+  },
+  "IDFM:C02553": {
+    "start": "Boulevard Rose",
+    "end": "Lycée Le Corbusier"
+  },
+  "IDFM:C02554": {
+    "start": "Gare des Mureaux (D3)",
+    "end": "Lycée François Villon - Quai 1"
+  },
+  "IDFM:C02555": {
+    "start": "Lycée Léonard de Vinci",
+    "end": "La Belle Heaumière"
+  },
+  "IDFM:C02556": {
+    "start": "Gare de Vaux-sur-Seine",
+    "end": "Les Garennes"
+  },
+  "IDFM:C02557": {
+    "start": "Cimetière",
+    "end": "Arquebuse"
+  },
+  "IDFM:C02558": {
+    "start": "Senet / Triel-sur-Seine",
+    "end": "Arquebuse / La Poste"
+  },
+  "IDFM:C02559": {
+    "start": "Place Royale - Lyautey",
+    "end": "Rouillard - Bords de Seine"
+  },
+  "IDFM:C02560": {
+    "start": "Rouillard - Bords de Seine",
+    "end": "Ursulines"
+  },
+  "IDFM:C02561": {
+    "start": "Gare Routière Nord (A1)",
+    "end": "Notre-Dame Chemin Vert"
+  },
+  "IDFM:C02562": {
+    "start": "Lycée Louise Weiss",
+    "end": "Notre-Dame Chemin Vert"
+  },
+  "IDFM:C02563": {
+    "start": "Collège Saint-Exupéry",
+    "end": "Gare de Conflans Fin d'Oise"
+  },
+  "IDFM:C02564": {
+    "start": "Charles d'Orléans",
+    "end": "Notre-Dame Chemin Vert"
+  },
+  "IDFM:C02565": {
+    "start": "Gare de Saint-Germain-en-Laye",
+    "end": "Place Marcel Pagnol"
+  },
+  "IDFM:C02566": {
+    "start": "Les Ouches",
+    "end": "Collège André Derain"
+  },
+  "IDFM:C02567": {
+    "start": "Gare Sud de Poissy (3D)",
+    "end": "Simonet"
+  },
+  "IDFM:C02686": {
+    "start": "Cité des Peupliers",
+    "end": "Square Le Kain"
+  },
+  "IDFM:C02687": {
+    "start": "Stade de la Faisanderie",
+    "end": "Boulevard Briand Barbeau"
+  },
+  "IDFM:C02692": {
+    "start": "Lycée Charles de Gaulle",
+    "end": "Église"
+  },
+  "IDFM:C02693": {
+    "start": "Collège Georges Brassens",
+    "end": "Centre"
+  },
+  "IDFM:C02694": {
+    "start": "Église",
+    "end": "Collège Georges Brassens"
+  },
+  "IDFM:C02695": {
+    "start": "Henri IV Jardin",
+    "end": "Gare de Dammartin Juilly Saint Mard"
+  },
+  "IDFM:C02696": {
+    "start": "Gare de Dammartin Juilly Saint Mard",
+    "end": "Henri IV Jardin"
+  },
+  "IDFM:C02697": {
+    "start": "Centre",
+    "end": "Lessart"
+  },
+  "IDFM:C02698": {
+    "start": "Lycée Charlotte Delbo",
+    "end": "Centre"
+  },
+  "IDFM:C02699": {
+    "start": "Henri IV Cinéma",
+    "end": "Mairie"
+  },
+  "IDFM:C02700": {
+    "start": "Les Frênes",
+    "end": "Jean Vilar Avenue Foch"
+  },
+  "IDFM:C02701": {
+    "start": "Gare de Meaux (Quai B)",
+    "end": "Collège Nicolas Tronchon"
+  },
+  "IDFM:C02702": {
+    "start": "Mairie",
+    "end": "Rue Barre"
+  },
+  "IDFM:C02703": {
+    "start": "Saule Madame",
+    "end": "Mairie"
+  },
+  "IDFM:C02704": {
+    "start": "Institut Saint-Dominique",
+    "end": "Canada"
+  },
+  "IDFM:C02705": {
+    "start": "Gare de Conflans Fin d'Oise",
+    "end": "Bois d'Aulne"
+  },
+  "IDFM:C02706": {
+    "start": "Institut Saint-Dominique",
+    "end": "La Jalaise"
+  },
+  "IDFM:C02707": {
+    "start": "Église",
+    "end": "Institut Saint-Dominique"
+  },
+  "IDFM:C02708": {
+    "start": "Haute Garenne",
+    "end": "Collège Jean des Barres"
+  },
+  "IDFM:C02709": {
+    "start": "Paris Gare de l'Est",
+    "end": "Gare de Taverny"
+  },
+  "IDFM:C02713": {
+    "start": "Alsace - Lorraine",
+    "end": "Église de Pantin - Métro"
+  },
+  "IDFM:C02714": {
+    "start": "Porte de Montreuil",
+    "end": "Montreuil-Boissière-Acacia"
+  },
+  "IDFM:C02715": {
+    "start": "Lycée Saint-Adjutor",
+    "end": "Gare routière"
+  },
+  "IDFM:C02720": {
+    "start": "Chemin des Coureurs",
+    "end": "Avenue du 23 Août"
+  },
+  "IDFM:C01306": {
+    "start": "Olympe de Gouges",
+    "end": "Eglise de Colombes"
+  },
+  "IDFM:C01307": {
+    "start": "Edouard Belin",
+    "end": "Pont de Bezons"
+  },
+  "IDFM:C01308": {
+    "start": "Place du Souvenir Français",
+    "end": "Suzanne Valadon"
+  },
+  "IDFM:C01309": {
+    "start": "Église / Marché de Saint-Brice",
+    "end": "Les Marronniers"
+  },
+  "IDFM:C01310": {
+    "start": "Quai de Marne",
+    "end": "Le Vert de Maison RER"
+  },
+  "IDFM:C01311": {
+    "start": "Jules Quentin",
+    "end": "Les Courtilles"
+  },
+  "IDFM:C01313": {
+    "start": "Epinay-sur-Orge",
+    "end": "Juvisy RER"
+  },
+  "IDFM:C01314": {
+    "start": "Jean Moulin",
+    "end": "Bourg-la-Reine RER"
+  },
+  "IDFM:C01315": {
+    "start": "Hôtel de Ville",
+    "end": "Paul Demange"
+  },
+  "IDFM:C01316": {
+    "start": "Europe Sud",
+    "end": "Rue du 8 Mai 1945"
+  },
+  "IDFM:C01317": {
+    "start": "Clémenceau",
+    "end": "Gare de Vanves - Malakoff"
+  },
+  "IDFM:C01318": {
+    "start": "Sucy - Bonneuil RER",
+    "end": "Carrefour de la Résistance"
+  },
+  "IDFM:C01319": {
+    "start": "Bourg-la-Reine RER",
+    "end": "Issy - Val de Seine RER"
+  },
+  "IDFM:C01320": {
+    "start": "Antony RER",
+    "end": "Pavé Blanc"
+  },
+  "IDFM:C01321": {
+    "start": "Rue du Puits Dixme",
+    "end": "Gare de la Croix de Berny"
+  },
+  "IDFM:C01322": {
+    "start": "Coubertin",
+    "end": "Massy - Palaiseau RER"
+  },
+  "IDFM:C01323": {
+    "start": "Gare d'Emerainville Pontault-Combault RER",
+    "end": "Chelles Gournay RER / Gasnier Guy"
+  },
+  "IDFM:C01324": {
+    "start": "Pont de Sèvres",
+    "end": "Rueil-Malmaison RER"
+  },
+  "IDFM:C01326": {
+    "start": "Les Oiseaux",
+    "end": "Delalande Pasteur"
+  },
+  "IDFM:C01328": {
+    "start": "Prés Saint-Martin",
+    "end": "Place de la Libération"
+  },
+  "IDFM:C01329": {
+    "start": "Porte de Vincennes",
+    "end": "Pelleport - Gambetta"
+  },
+  "IDFM:C01330": {
+    "start": "Maison Blanche",
+    "end": "Alésia - Général Leclerc"
+  },
+  "IDFM:C01331": {
+    "start": "Rue du Président Schuman",
+    "end": "Place du Vel'd'Hiv"
+  },
+  "IDFM:C01332": {
+    "start": "Mairie du 17e",
+    "end": "Porte de Saint-Ouen - Hôpital Bichat"
+  },
+  "IDFM:C01693": {
+    "start": "Place",
+    "end": "Noailles"
+  },
+  "IDFM:C01695": {
+    "start": "Garonor",
+    "end": "Lycée Eugène Delacroix"
+  },
+  "IDFM:C01696": {
+    "start": "Stade Charles Sage",
+    "end": "Fort d'Aubervilliers"
+  },
+  "IDFM:C01697": {
+    "start": "Québec 25",
+    "end": "Thomas"
+  },
+  "IDFM:C01698": {
+    "start": "Massy - Palaiseau RER",
+    "end": "Lycée Essouriau"
+  },
+  "IDFM:C01699": {
+    "start": "Lycée Essouriau",
+    "end": "Massy - Palaiseau RER"
+  },
+  "IDFM:C01700": {
+    "start": "Gare des Chantiers - Abbé Rousseaux",
+    "end": "Gare de Jouy-en-Josas"
+  },
+  "IDFM:C01701": {
+    "start": "Roland Garros",
+    "end": "Hôtel de Ville"
+  },
+  "IDFM:C01702": {
+    "start": "Hôtel de Ville",
+    "end": "Gare de Saint-Rémy-lès-Chevreuse"
+  },
+  "IDFM:C01703": {
+    "start": "Gare de Sainte Geneviève des Bois",
+    "end": "Lycée Einstein"
+  },
+  "IDFM:C01704": {
+    "start": "Rue de Liers",
+    "end": "Gare de Sainte Geneviève des Bois"
+  },
+  "IDFM:C01705": {
+    "start": "Charlie Chaplin",
+    "end": "Gare de Sainte Geneviève des Bois"
+  },
+  "IDFM:C01706": {
+    "start": "Lycée Einstein",
+    "end": "Allée de l'Orge"
+  },
+  "IDFM:C01707": {
+    "start": "Marché",
+    "end": "Lycée Einstein"
+  },
+  "IDFM:C01708": {
+    "start": "Porte d'Étampes",
+    "end": "Petit Mesnil"
+  },
+  "IDFM:C01709": {
+    "start": "Gare d'Herblay",
+    "end": "Alouettes"
+  },
+  "IDFM:C01710": {
+    "start": "Marché de Juvisy",
+    "end": "Château d'Ablon"
+  },
+  "IDFM:C01711": {
+    "start": "Piscine de Sainte-Geneviève-des-Bois",
+    "end": "Gare de Massy-Palaiseau"
+  },
+  "IDFM:C01712": {
+    "start": "Gare de Roissypole - Aéroport CDG1 (C3)",
+    "end": "Beaumont"
+  },
+  "IDFM:C01713": {
+    "start": "Gare de Torcy",
+    "end": "Les Pléïades"
+  },
+  "IDFM:C01714": {
+    "start": "Parc Robinson",
+    "end": "Vieux Corbeil"
+  },
+  "IDFM:C01715": {
+    "start": "Collège Mon Plaisir",
+    "end": "Du Chêne"
+  },
+  "IDFM:C01716": {
+    "start": "Gare de Crécy-la-Chapelle (Dépose)",
+    "end": "Collège Stéphane Hessel"
+  },
+  "IDFM:C01717": {
+    "start": "Avenue des Martyrs",
+    "end": "Base Olympique"
+  },
+  "IDFM:C01718": {
+    "start": "Bouc Etourdi",
+    "end": "Clairière"
+  },
+  "IDFM:C01849": {
+    "start": "Cergy Le Haut RER",
+    "end": "Gare Saint-Lazare"
+  },
+  "IDFM:C01850": {
+    "start": "Gare de l'Est",
+    "end": "Mitry - Claye"
+  },
+  "IDFM:C01851": {
+    "start": "Saint-Martin d'Étampes",
+    "end": "Paris Austerlitz"
+  },
+  "IDFM:C01852": {
+    "start": "Creil",
+    "end": "Gare de Malesherbes"
+  },
+  "IDFM:C01853": {
+    "start": "Gare de Tournan",
+    "end": "Rosa Parks"
+  },
+  "IDFM:C01866": {
+    "start": "Maison des Associations / Compans",
+    "end": "Marguilliers"
+  },
+  "IDFM:C01867": {
+    "start": "Gare de Villiers-le-Bel Gonesse Arnouville",
+    "end": "Parc des Expositions"
+  },
+  "IDFM:C01868": {
+    "start": "Gare routière de Versailles Chantiers - Quai K",
+    "end": "Gare de Fontenay-le-Fleury"
+  },
+  "IDFM:C01869": {
+    "start": "Gare de Plaisir Grignon - quai 3",
+    "end": "Versailles Chantiers Gare - Quai J"
+  },
+  "IDFM:C01870": {
+    "start": "Champ du Caillou",
+    "end": "Villepreux-Les Clayes Gare Nord"
+  },
+  "IDFM:C01871": {
+    "start": "Les Quadrants",
+    "end": "Gare de Plaisir Grignon - quai 3"
+  },
+  "IDFM:C01872": {
+    "start": "La Ratelle",
+    "end": "Gare de Fontenay-le-Fleury"
+  },
+  "IDFM:C01873": {
+    "start": "Hôpital André Mignot",
+    "end": "Chemin Vert"
+  },
+  "IDFM:C01874": {
+    "start": "Clos Salibert",
+    "end": "Lycée Franco-Allemand - ML King"
+  },
+  "IDFM:C01875": {
+    "start": "Comédie Française",
+    "end": "Rue Jean Leclaire"
+  },
+  "IDFM:C01876": {
+    "start": "Gare de Cormeilles en Parisis",
+    "end": "Robert Capa"
+  },
+  "IDFM:C01878": {
+    "start": "Gare d'Herblay",
+    "end": "Buttes Blanches"
+  },
+  "IDFM:C01879": {
+    "start": "Verdun",
+    "end": "Gare de Val d'Europe"
+  },
+  "IDFM:C01886": {
+    "start": "Jean Moulin",
+    "end": "Gare de Montgeron"
+  },
+  "IDFM:C01902": {
+    "start": "Centre Commercial Villebon 2",
+    "end": "Avenue de l'Europe - Centre Commercial"
+  },
+  "IDFM:C01903": {
+    "start": "Guynemer",
+    "end": "Centre Commercial"
+  },
+  "IDFM:C01904": {
+    "start": "Centre Commercial Villebon 2",
+    "end": "Cimetière d'Orsay"
+  },
+  "IDFM:C01934": {
+    "start": "Charles Devos / Place Simone Veil",
+    "end": "Collège M.L.-King / Lycée Franco-Allemand"
+  },
+  "IDFM:C01937": {
+    "start": "Port Saint-Louis",
+    "end": "Gare Routière Nord (B3)"
+  },
+  "IDFM:C01947": {
+    "start": "Hôpital Verdun",
+    "end": "Le Prieure"
+  },
+  "IDFM:C02196": {
+    "start": "Mairie",
+    "end": "Le Tilleul"
+  },
+  "IDFM:C02201": {
+    "start": "Lycée Emilie de Breteuil",
+    "end": "Gare de Massy-Palaiseau"
+  },
+  "IDFM:C02202": {
+    "start": "Espinard / Fontaineroux",
+    "end": "Abreuvoir"
+  },
+  "IDFM:C02204": {
+    "start": "Rue Thiers",
+    "end": "Gare de Cergy Préfecture (G)"
+  },
+  "IDFM:C02205": {
+    "start": "Porte Maillot",
+    "end": "Porte de Saint-Cloud - Murat"
+  },
+  "IDFM:C02206": {
+    "start": "Palette",
+    "end": "Église"
+  },
+  "IDFM:C02207": {
+    "start": "Gare de Crécy-la-Chapelle (Quai D)",
+    "end": "Eglise"
+  },
+  "IDFM:C02209": {
+    "start": "Sainte Assise",
+    "end": "Cesson Gare"
+  },
+  "IDFM:C02216": {
+    "start": "La Verrière Gare - Quai B",
+    "end": "Les Louveries"
+  },
+  "IDFM:C02217": {
+    "start": "Les Louveries",
+    "end": "La Verrière Gare"
+  },
+  "IDFM:C02218": {
+    "start": "France Miniature",
+    "end": "La Verrière Gare"
+  },
+  "IDFM:C02219": {
+    "start": "Gare de Saint-Cyr-l'Ecole",
+    "end": "Aérostation Maritime"
+  },
+  "IDFM:C02221": {
+    "start": "Les Chatries",
+    "end": "Terminal David Douillet"
+  },
+  "IDFM:C02222": {
+    "start": "Notre-Dame",
+    "end": "Allée des Clairières"
+  },
+  "IDFM:C02224": {
+    "start": "Gymnase de Favreuse",
+    "end": "Fournier"
+  },
+  "IDFM:C02225": {
+    "start": "Lycée Léonard de Vinci",
+    "end": "Pompiers"
+  },
+  "IDFM:C02226": {
+    "start": "Piscine S. Weil",
+    "end": "Gare de Saint-Germain-en-Laye"
+  },
+  "IDFM:C02229": {
+    "start": "Centre",
+    "end": "Château du Vignois"
+  },
+  "IDFM:C02230": {
+    "start": "Les Bruyères",
+    "end": "Jean Rose"
+  },
+  "IDFM:C02231": {
+    "start": "Collège Louis Braille",
+    "end": "Rue des Prés"
+  },
+  "IDFM:C02232": {
+    "start": "Jean Rose",
+    "end": "Château du Vignois"
+  },
+  "IDFM:C02234": {
+    "start": "Centre Pénitentiaire",
+    "end": "P.A.P.M. Sud"
+  },
+  "IDFM:C02235": {
+    "start": "Institut des Métiers",
+    "end": "Gare de Meaux (Quai 1)"
+  },
+  "IDFM:C01089": {
+    "start": "Gare du Nord",
+    "end": "Romainville - Vassou"
+  },
+  "IDFM:C01090": {
+    "start": "Opéra - Rue Halevy",
+    "end": "Parc de Saint-Cloud"
+  },
+  "IDFM:C01092": {
+    "start": "Crimée",
+    "end": "Gabriel Péri - Métro"
+  },
+  "IDFM:C01093": {
+    "start": "Château de Vincennes",
+    "end": "Porte de Clignancourt"
+  },
+  "IDFM:C01094": {
+    "start": "Laplace RER",
+    "end": "Porte de Bagnolet - Louis Ganne"
+  },
+  "IDFM:C01095": {
+    "start": "Vanves - Lycée Michelet",
+    "end": "Châtelet"
+  },
+  "IDFM:C01096": {
+    "start": "Porte de Montmartre",
+    "end": "Gambetta - Japon"
+  },
+  "IDFM:C00828": {
+    "start": "Gare Morêt / Veneux-les-Sablons",
+    "end": "Ecole Villemer"
+  },
+  "IDFM:C00830": {
+    "start": "Gare Nemours / Carnot",
+    "end": "Lycée Fontaineroux"
+  },
+  "IDFM:C00831": {
+    "start": "Puiselet",
+    "end": "Lycée Flora Tristan"
+  },
+  "IDFM:C00832": {
+    "start": "Gare de Bagneaux-sur-Loing",
+    "end": "Collège Vasco"
+  },
+  "IDFM:C00833": {
+    "start": "Cité Scolaire",
+    "end": "Longs Réages"
+  },
+  "IDFM:C00834": {
+    "start": "Rond-Point Bois Minard",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C00835": {
+    "start": "Rue d'Egreville",
+    "end": "Gare Carnot"
+  },
+  "IDFM:C00836": {
+    "start": "Gare de Savigny-Nandy (Z.I. Industrie)",
+    "end": "Gare d'Evry Courcouronnes"
+  },
+  "IDFM:C00837": {
+    "start": "Gare de Lieusaint Moissy",
+    "end": "Villaroche Nord"
+  },
+  "IDFM:C00838": {
+    "start": "Massy - Palaiseau RER",
+    "end": "Centre Aéronautique"
+  },
+  "IDFM:C00839": {
+    "start": "Michel-Ange - Varize",
+    "end": "Centre Aéronautique"
+  },
+  "IDFM:C00840": {
+    "start": "Petit Sénart",
+    "end": "Lycée Robert Doisneau"
+  },
+  "IDFM:C00841": {
+    "start": "Les Prés Hauts",
+    "end": "Petit Sénart"
+  },
+  "IDFM:C00842": {
+    "start": "Collège La Tuilerie",
+    "end": "Petit Sénart"
+  },
+  "IDFM:C01219": {
+    "start": "Verdun - La Plage",
+    "end": "Porte Dorée"
+  },
+  "IDFM:C01220": {
+    "start": "Bougainville",
+    "end": "Neuilly-Plaisance RER"
+  },
+  "IDFM:C01221": {
+    "start": "Place de Verdun",
+    "end": "Noisy-le-Grand - Mont d'Est RER"
+  },
+  "IDFM:C02015": {
+    "start": "Chessy Nord - Dépose",
+    "end": "Boulevard des Artisans"
+  },
+  "IDFM:C02016": {
+    "start": "Chessy Sud - Quai A (dépose)",
+    "end": "Villages Nature"
+  },
+  "IDFM:C02020": {
+    "start": "Gare Évry Courcouronnes",
+    "end": "Cols Verts"
+  },
+  "IDFM:C02021": {
+    "start": "Château",
+    "end": "Château"
+  },
+  "IDFM:C02022": {
+    "start": "Les Rochers",
+    "end": "Les Chatries"
+  },
+  "IDFM:C02023": {
+    "start": "Château",
+    "end": "Collège Villeroy"
+  },
+  "IDFM:C02024": {
+    "start": "Les Chatries",
+    "end": "Terminal David Douillet"
+  },
+  "IDFM:C02025": {
+    "start": "Place Adeline",
+    "end": "Lycée"
+  },
+  "IDFM:C02026": {
+    "start": "Lycée Notre-Dame de Sion",
+    "end": "Place Adeline"
+  },
+  "IDFM:C02027": {
+    "start": "Rhin et Danube - Musée Albert Kahn",
+    "end": "Suzanne Lenglen"
+  },
+  "IDFM:C02030": {
+    "start": "Mallein Gerin",
+    "end": "Ecole Delacroix"
+  },
+  "IDFM:C02031": {
+    "start": "Cité Scolaire",
+    "end": "Eglise"
+  },
+  "IDFM:C02032": {
+    "start": "Gare Carnot",
+    "end": "Place Lepesme"
+  },
+  "IDFM:C02033": {
+    "start": "Liberté",
+    "end": "Collège A. de Noailles - Lycée G. de Nerval"
+  },
+  "IDFM:C02035": {
+    "start": "Vaux Avenue Robert Elvert",
+    "end": "Hôpital"
+  },
+  "IDFM:C02036": {
+    "start": "Vaux Avenue Robert Elvert",
+    "end": "Hôpital"
+  },
+  "IDFM:C02039": {
+    "start": "Mare des Champs",
+    "end": "La Mare aux Bourguignons"
+  },
+  "IDFM:C02040": {
+    "start": "Eglise Saint-Martin",
+    "end": "Maupassant - Charcot"
+  },
+  "IDFM:C02041": {
+    "start": "Centre Commercial",
+    "end": "De Lattre"
+  },
+  "IDFM:C02049": {
+    "start": "Alsace",
+    "end": "Côte Saint Rémy - Champs Druets"
+  },
+  "IDFM:C02056": {
+    "start": "Ville Haute",
+    "end": "La Borne Blanche"
+  },
+  "IDFM:C02057": {
+    "start": "Emmaüs Bas",
+    "end": "Rue Reverseleux"
+  },
+  "IDFM:C02059": {
+    "start": "La Cerisaie",
+    "end": "Roissypole - Aéroport CDG1 (D2)"
+  },
+  "IDFM:C02060": {
+    "start": "Division Leclerc Langevin",
+    "end": "Van Gogh"
+  },
+  "IDFM:C02062": {
+    "start": "Rond-Point des Sciences",
+    "end": "Roissypole - Aéroport CDG1 (D1)"
+  },
+  "IDFM:C00298": {
+    "start": "Hôtel de Ville",
+    "end": "Gare d'Argenteuil"
+  },
+  "IDFM:C00299": {
+    "start": "Clinique des Orchidées",
+    "end": "Bouquinvilles"
+  },
+  "IDFM:C00301": {
+    "start": "Gare de Domont",
+    "end": "Stade Michel Hidalgo"
+  },
+  "IDFM:C00302": {
+    "start": "Gare d'Enghien-les-Bains",
+    "end": "La Chênée"
+  },
+  "IDFM:C00303": {
+    "start": "Gare d'Argenteuil",
+    "end": "Champagne Roussillon"
+  },
+  "IDFM:C00304": {
+    "start": "Gilbert Bonnemaison",
+    "end": "Clinique des Orchidées"
+  },
+  "IDFM:C00305": {
+    "start": "Gare de Champ de Courses d'Enghien",
+    "end": "Parc des Sources"
+  },
+  "IDFM:C00306": {
+    "start": "Pâture",
+    "end": "Douce Fève"
+  },
+  "IDFM:C00307": {
+    "start": "Mozart - Malesherbes",
+    "end": "Épinay - Orgemont"
+  },
+  "IDFM:C00308": {
+    "start": "Aristide Briand",
+    "end": "Gare de Houilles - Carrières-sur-Seine"
+  },
+  "IDFM:C00309": {
+    "start": "Romain Rolland",
+    "end": "Lycée Evariste Galois"
+  },
+  "IDFM:C00310": {
+    "start": "Lycée Evariste Galois",
+    "end": "Barian"
+  },
+  "IDFM:C00311": {
+    "start": "Lycée Evariste Galois",
+    "end": "Condorcet"
+  },
+  "IDFM:C00312": {
+    "start": "Gare d'Argenteuil",
+    "end": "Gare d'Enghien-les-Bains"
+  },
+  "IDFM:C00315": {
+    "start": "Jeanne d'Arc",
+    "end": "Gare d'Enghien-les-Bains"
+  },
+  "IDFM:C00316": {
+    "start": "Gare de Sartrouville",
+    "end": "Gare de Houilles - Carrières-sur-Seine"
+  },
+  "IDFM:C00317": {
+    "start": "Lycée Les Pierres Vives",
+    "end": "Plateau"
+  },
+  "IDFM:C00319": {
+    "start": "Gare de Ballancourt",
+    "end": "Gare de Marolles"
+  },
+  "IDFM:C00322": {
+    "start": "Gare de Ballancourt",
+    "end": "Mille Club"
+  },
+  "IDFM:C00323": {
+    "start": "Hôtel de Ville",
+    "end": "Gare Place"
+  },
+  "IDFM:C00324": {
+    "start": "Église Réveil Matin",
+    "end": "Lycée International"
+  },
+  "IDFM:C00325": {
+    "start": "Route de Croissy",
+    "end": "Collège Passy - Buzenval"
+  },
+  "IDFM:C00327": {
+    "start": "Lycée International",
+    "end": "Vindé Berthet"
+  },
+  "IDFM:C00328": {
+    "start": "Pont de Bougival",
+    "end": "Place Laboulaye"
+  },
+  "IDFM:C01785": {
+    "start": "Préfecture",
+    "end": "Place du Carrouge"
+  },
+  "IDFM:C01786": {
+    "start": "Préfecture",
+    "end": "Lavoir"
+  },
+  "IDFM:C01787": {
+    "start": "Place du Carrouge",
+    "end": "Collège les Hautiers"
+  },
+  "IDFM:C01788": {
+    "start": "Abri des Vignes",
+    "end": "Collège les Hautiers"
+  },
+  "IDFM:C01789": {
+    "start": "Collège les Hautiers",
+    "end": "Rue des Fossettes"
+  },
+  "IDFM:C01790": {
+    "start": "Saillancourt",
+    "end": "Collège les Hautiers"
+  },
+  "IDFM:C01791": {
+    "start": "Place de la Fontaine",
+    "end": "Collège les Hautiers"
+  },
+  "IDFM:C01793": {
+    "start": "SQY Ouest",
+    "end": "Paul Éluard"
+  },
+  "IDFM:C01796": {
+    "start": "Bonnières-sur-Seine Gare routière - Quai 2",
+    "end": "Sangle"
+  },
+  "IDFM:C01797": {
+    "start": "Collège Marcel Pagnol",
+    "end": "Gare de Mantes-la-Jolie - Quai 2"
+  },
+  "IDFM:C01798": {
+    "start": "Criquets",
+    "end": "Collège Sully"
+  },
+  "IDFM:C01799": {
+    "start": "Gare des Chantiers - Abbé Rousseaux",
+    "end": "Place"
+  },
+  "IDFM:C01801": {
+    "start": "Saint-Exupéry",
+    "end": "Gare de Mitry-Claye"
+  },
+  "IDFM:C01802": {
+    "start": "Gare d'Argenteuil",
+    "end": "Gare d'Enghien-les-Bains"
+  },
+  "IDFM:C01804": {
+    "start": "La Chênée",
+    "end": "Gare d'Epinay Villetaneuse"
+  },
+  "IDFM:C01805": {
+    "start": "Centre Commercial",
+    "end": "Gare de Chaville Rive Droite"
+  },
+  "IDFM:C01806": {
+    "start": "Carré Citoyenneté",
+    "end": "Gare Routière Mail"
+  },
+  "IDFM:C01807": {
+    "start": "Gare Montparnasse",
+    "end": "L'Onde (Maison des Arts)"
+  },
+  "IDFM:C01808": {
+    "start": "Gare de Saint-Denis RER",
+    "end": "Gare d'Enghien-les-Bains"
+  },
+  "IDFM:C01809": {
+    "start": "Villejuif - Louis Aragon",
+    "end": "Vache Noire - Centre Commercial"
+  },
+  "IDFM:C01810": {
+    "start": "ZI Croix Blanche",
+    "end": "Porte d'Orléans"
+  },
+  "IDFM:C01811": {
+    "start": "Gare de Bouray",
+    "end": "Orveau"
+  },
+  "IDFM:C01476": {
+    "start": "Gare de Maisons-Laffitte",
+    "end": "Cité Grands Champs"
+  },
+  "IDFM:C01477": {
+    "start": "Place Coutisson",
+    "end": "Buttes Blanches"
+  },
+  "IDFM:C01478": {
+    "start": "Square Le Kain",
+    "end": "Clos Fleuri"
+  },
+  "IDFM:C01479": {
+    "start": "Gaillon",
+    "end": "Gare de Fin d'Oise"
+  },
+  "IDFM:C01480": {
+    "start": "Gare de Fin d'Oise",
+    "end": "Place de la Liberté"
+  },
+  "IDFM:C01481": {
+    "start": "Puits d'Angle",
+    "end": "Pont de Sèvres"
+  },
+  "IDFM:C01482": {
+    "start": "Gare de La Celle Saint Cloud",
+    "end": "Gare de Rueil Malmaison"
+  },
+  "IDFM:C01484": {
+    "start": "Rousseau",
+    "end": "Gare de La Celle Saint Cloud"
+  },
+  "IDFM:C01485": {
+    "start": "Gare de Saint-Cloud",
+    "end": "Henri Regnault"
+  },
+  "IDFM:C01488": {
+    "start": "Avenue de Suresnes",
+    "end": "Gare de Versailles - Rive Droite Bd de la Reine"
+  },
+  "IDFM:C01489": {
+    "start": "Gare de Louveciennes",
+    "end": "Les Demeures"
+  },
+  "IDFM:C01490": {
+    "start": "Plainchamp",
+    "end": "Saint-Quentin - Gare Routière des Prés - dépose"
+  },
+  "IDFM:C01491": {
+    "start": "Saint-Cucufa",
+    "end": "Fausses Reposes"
+  },
+  "IDFM:C01492": {
+    "start": "Saint-Cucufa",
+    "end": "Commandant Rivière"
+  },
+  "IDFM:C01493": {
+    "start": "Gare de Louveciennes",
+    "end": "Garches Marquis de Mores"
+  },
+  "IDFM:C01494": {
+    "start": "Chemin des Ranges",
+    "end": "Gare Routière Quai 4"
+  },
+  "IDFM:C01495": {
+    "start": "ZI Cochets",
+    "end": "Diderot"
+  },
+  "IDFM:C01497": {
+    "start": "Gare de Brétigny",
+    "end": "Base Aérienne 217"
+  },
+  "IDFM:C01498": {
+    "start": "Gare Place",
+    "end": "Hôtel de Ville"
+  },
+  "IDFM:C01499": {
+    "start": "Gare SNCF Place de l'Ermitage",
+    "end": "Lycée Les Pannevelles"
+  },
+  "IDFM:C01500": {
+    "start": "Chessy Sud - Quai A (dépose)",
+    "end": "Gare SNCF Quai 6"
+  },
+  "IDFM:C01501": {
+    "start": "Ecole",
+    "end": "Ville Haute Quai 3"
+  },
+  "IDFM:C01502": {
+    "start": "Ville Haute Quai 4",
+    "end": "Gare de Coulommiers"
+  },
+  "IDFM:C01503": {
+    "start": "Lycée H. Becquerel",
+    "end": "Le Corbier"
+  },
+  "IDFM:C01504": {
+    "start": "Collège Barthélémy",
+    "end": "Gare de Champagne-sur-Seine"
+  },
+  "IDFM:C01537": {
+    "start": "Mail de l'Europe",
+    "end": "Saint-Quentin - Gare Routière des Prés - dépose"
+  },
+  "IDFM:C01538": {
+    "start": "Gare de Saint-Rémy-lès-Chevreuse",
+    "end": "Saint-Quentin -Gare"
+  },
+  "IDFM:C01539": {
+    "start": "Villaroy",
+    "end": "SQY Ouest"
+  },
+  "IDFM:C01540": {
+    "start": "Villaroy Sud",
+    "end": "Saint-Quentin - Gare Routière des Prés"
+  },
+  "IDFM:C01541": {
+    "start": "SQY Ouest",
+    "end": "Villaroy"
+  },
+  "IDFM:C01542": {
+    "start": "Saint-Quentin - Gare Routière des Prés - dépose",
+    "end": "Villaroy"
+  },
+  "IDFM:C01543": {
+    "start": "Porte d'Orléans",
+    "end": "Prague"
+  },
+  "IDFM:C01544": {
+    "start": "Villages Nature",
+    "end": "Terminal 2EF"
+  },
+  "IDFM:C01545": {
+    "start": "Newport Bay Club",
+    "end": "Terminal 2EF"
+  },
+  "IDFM:C01548": {
+    "start": "Mairie",
+    "end": "Gare de Chelles Gournay"
+  },
+  "IDFM:C01549": {
+    "start": "Val de Fontenay RER - Louison Bobet",
+    "end": "La Sablière"
+  },
+  "IDFM:C01550": {
+    "start": "Jean Jaurès - Division Leclerc",
+    "end": "Hôpital Privé de la Seine-Saint-Denis"
+  },
+  "IDFM:C01552": {
+    "start": "Église",
+    "end": "Préfecture RER"
+  },
+  "IDFM:C01553": {
+    "start": "Place du 19 mars 1962",
+    "end": "Lycée Condorcet"
+  },
+  "IDFM:C01554": {
+    "start": "Gare Routière",
+    "end": "Place du Général de Gaulle - Gare"
+  },
+  "IDFM:C01555": {
+    "start": "Route de Gasny",
+    "end": "Blamécourt"
+  },
+  "IDFM:C01556": {
+    "start": "Etrez",
+    "end": "Église"
+  },
+  "IDFM:C01557": {
+    "start": "Le Relais du Nord",
+    "end": "Blamécourt"
+  },
+  "IDFM:C01558": {
+    "start": "Mairie",
+    "end": "Gare Routière"
+  },
+  "IDFM:C01559": {
+    "start": "Porte de Rouen",
+    "end": "Collège les Hautiers"
+  },
+  "IDFM:C01560": {
+    "start": "Place",
+    "end": "Breuil"
+  },
+  "IDFM:C01561": {
+    "start": "Lycée Essouriau",
+    "end": "Gare de Jouy-en-Josas"
+  },
+  "IDFM:C01562": {
+    "start": "Gare Routière",
+    "end": "La Plaine / Epinay sous Sénart"
+  },
+  "IDFM:C01563": {
+    "start": "Hôpital",
+    "end": "Gare du Guichet"
+  },
+  "IDFM:C01368": {
+    "start": "Les Blagis",
+    "end": "Division Leclerc"
+  },
+  "IDFM:C01369": {
+    "start": "La Boursidière",
+    "end": "Robinson RER"
+  },
+  "IDFM:C01370": {
+    "start": "Marthe Fonteneau",
+    "end": "Depinoy"
+  },
+  "IDFM:C01392": {
+    "start": "Gare de Sartrouville - RER",
+    "end": "Châtelet"
+  },
+  "IDFM:C01393": {
+    "start": "Gare de Cormeilles en Parisis",
+    "end": "Gare Saint-Lazare"
+  },
+  "IDFM:C01394": {
+    "start": "Gare Saint-Lazare",
+    "end": "Gare d'Enghien-les-Bains"
+  },
+  "IDFM:C01395": {
+    "start": "Paul Valéry",
+    "end": "Gare de l'est"
+  },
+  "IDFM:C01396": {
+    "start": "Garonor",
+    "end": "Gare de l'Est"
+  },
+  "IDFM:C01356": {
+    "start": "Gennevilliers RER",
+    "end": "River Plaza"
+  },
+  "IDFM:C01357": {
+    "start": "Maison de Quartier - André Charré",
+    "end": "Gare de Clamart"
+  },
+  "IDFM:C01359": {
+    "start": "Cité Jardins - Pierre Curie",
+    "end": "Le Coteau - Defait"
+  },
+  "IDFM:C01360": {
+    "start": "Cimetière de Choisy-le-Roi",
+    "end": "Eglise Saint-Martin"
+  },
+  "IDFM:C01361": {
+    "start": "Domaine Chérioux",
+    "end": "8 mai 1945"
+  },
+  "IDFM:C01362": {
+    "start": "Verdun - Victor Hugo",
+    "end": "Centre de santé - Place Marcel Cachin"
+  },
+  "IDFM:C01363": {
+    "start": "Youri Gagarine",
+    "end": "Dauphin - RN7"
+  },
+  "IDFM:C01365": {
+    "start": "Sainte Eudoxie",
+    "end": "Maurice Hartmann"
+  },
+  "IDFM:C01366": {
+    "start": "Lasègue",
+    "end": "Châtillon-Montrouge-Métro"
+  },
+  "IDFM:C01367": {
+    "start": "Mairie",
+    "end": "Léo Lagrange"
+  },
+  "IDFM:C00330": {
+    "start": "Gare du Vésinet - Le Pecq",
+    "end": "Gare de Houilles - Carrières-sur-Seine"
+  },
+  "IDFM:C01812": {
+    "start": "Ecole Vieilles Vignes",
+    "end": "Gare de Bouray"
+  },
+  "IDFM:C01815": {
+    "start": "Marcel Cerdan",
+    "end": "Gare de Roissypole - Aéroport CDG1 Terminal 3 (C4)"
+  },
+  "IDFM:C01816": {
+    "start": "Treize Saules",
+    "end": "Collège Anne-Marie Javouhey"
+  },
+  "IDFM:C01818": {
+    "start": "Jean-Baptiste Clément",
+    "end": "Place de Verdun"
+  },
+  "IDFM:C01819": {
+    "start": "Marché",
+    "end": "Bois l'Abbé"
+  },
+  "IDFM:C01820": {
+    "start": "Gare de Meaux (Quai 1)",
+    "end": "Place Saint-Jean"
+  },
+  "IDFM:C01821": {
+    "start": "Porte de l'Essonne",
+    "end": "Piver"
+  },
+  "IDFM:C01822": {
+    "start": "L'Angoumois",
+    "end": "Gare du Val d'Argenteuil"
+  },
+  "IDFM:C01823": {
+    "start": "Gros Merisier",
+    "end": "Gare de Roissypole - Aéroport CDG1 Terminal 3 (C4)"
+  },
+  "IDFM:C01824": {
+    "start": "Les Vergers",
+    "end": "Bergerie Nationale"
+  },
+  "IDFM:C01826": {
+    "start": "Montreuil - Hôpital / Hôpital André Grégoire",
+    "end": "Missak Manouchian"
+  },
+  "IDFM:C01827": {
+    "start": "Avenue de l'Ouest",
+    "end": "Gabriel Péri - De Gaulle"
+  },
+  "IDFM:C01830": {
+    "start": "Gare RER Longjumeau",
+    "end": "Rouillon"
+  },
+  "IDFM:C01831": {
+    "start": "Hauts-Fresnais",
+    "end": "Collège M.Vignaud"
+  },
+  "IDFM:C01832": {
+    "start": "Centre Commercial",
+    "end": "Gare RER Longjumeau"
+  },
+  "IDFM:C01833": {
+    "start": "Baron de Nivière",
+    "end": "Gare de Palaiseau Villebon"
+  },
+  "IDFM:C01836": {
+    "start": "Général de Gaulle",
+    "end": "Lycée de Morangis"
+  },
+  "IDFM:C01837": {
+    "start": "Rond-Point du Pileu",
+    "end": "Périgord - Languedoc"
+  },
+  "IDFM:C01838": {
+    "start": "Gare autoroutière",
+    "end": "Centre"
+  },
+  "IDFM:C01839": {
+    "start": "Gare du Stade",
+    "end": "Champs Fourgons"
+  },
+  "IDFM:C01840": {
+    "start": "La Verrière Gare - Quai B",
+    "end": "La Défense (Terminal Jules Verne)"
+  },
+  "IDFM:C01841": {
+    "start": "Verdun / Paris Est",
+    "end": "Château-Thierry"
+  },
+  "IDFM:C01842": {
+    "start": "Gare de l'Est",
+    "end": "Persan - Beaumont"
+  },
+  "IDFM:C01845": {
+    "start": "Dreux",
+    "end": "Gare Montparnasse"
+  },
+  "IDFM:C01846": {
+    "start": "Gare Saint-Lazare",
+    "end": "Gisors"
+  },
+  "IDFM:C01847": {
+    "start": "Cergy Le Haut RER",
+    "end": "Gare Saint-Lazare"
+  },
+  "IDFM:C01848": {
+    "start": "Montargis",
+    "end": "Gare de Lyon - Van Gogh"
+  },
+  "IDFM:C01628": {
+    "start": "Évry - Courcouronnes",
+    "end": "Centre Commercial"
+  },
+  "IDFM:C01629": {
+    "start": "Gare de Ris-Orangis Bois de l'Epine",
+    "end": "Gare Ris-Orangis Val de Ris"
+  },
+  "IDFM:C01630": {
+    "start": "Cimetière",
+    "end": "Gutenberg"
+  },
+  "IDFM:C01631": {
+    "start": "Les Meillottes",
+    "end": "Imprimerie Nationale"
+  },
+  "IDFM:C01633": {
+    "start": "Gare de Lyon - Van Gogh",
+    "end": "Gare de Melun"
+  },
+  "IDFM:C01634": {
+    "start": "Gare de Lyon - Van Gogh",
+    "end": "Chessy Nord - Quai G"
+  },
+  "IDFM:C01635": {
+    "start": "Gare Routière Mantes-la-Jolie - Quai 9",
+    "end": "Paris Saint-Lazare"
+  },
+  "IDFM:C01636": {
+    "start": "Gare Place",
+    "end": "Gare de Lyon - Van Gogh"
+  },
+  "IDFM:C01637": {
+    "start": "Gare de St Lazare",
+    "end": "Gare de Cergy-le-Haut"
+  },
+  "IDFM:C01638": {
+    "start": "Gare de l'Est",
+    "end": "Aéroport CDG T2"
+  },
+  "IDFM:C01639": {
+    "start": "Gare de Meaux (Quai 1)",
+    "end": "Gare de l'est"
+  },
+  "IDFM:C01640": {
+    "start": "Gare de l'Est",
+    "end": "Gare de Tournan"
+  },
+  "IDFM:C01641": {
+    "start": "Gare de Cergy-le-Haut",
+    "end": "Gare de St Lazare"
+  },
+  "IDFM:C01642": {
+    "start": "Gare de Combs-la-Ville Quincy",
+    "end": "Gare de Lyon - Van Gogh"
+  },
+  "IDFM:C01643": {
+    "start": "Gare De Boissy-Saint-Léger",
+    "end": "Gare de Corbeil-Essonnes"
+  },
+  "IDFM:C01659": {
+    "start": "La Soie",
+    "end": "Rue de Boran"
+  },
+  "IDFM:C01660": {
+    "start": "Felix Millet",
+    "end": "Avenue de Paris"
+  },
+  "IDFM:C01662": {
+    "start": "Persan Beaumont Gare",
+    "end": "Centre AFPA"
+  },
+  "IDFM:C01663": {
+    "start": "Maison d'Arrêt des Femmes",
+    "end": "Porte d'Orléans"
+  },
+  "IDFM:C01664": {
+    "start": "Corps de Garde",
+    "end": "Gare de Longueville"
+  },
+  "IDFM:C01668": {
+    "start": "Collège Saint-François d'Assise",
+    "end": "Place"
+  },
+  "IDFM:C01669": {
+    "start": "Point de Vue",
+    "end": "Alizés"
+  },
+  "IDFM:C01672": {
+    "start": "Évry - Courcouronnes",
+    "end": "Data Center"
+  },
+  "IDFM:C01673": {
+    "start": "Gare de Savigny-sur-Orge",
+    "end": "La Gribelette"
+  },
+  "IDFM:C01674": {
+    "start": "Achères Ville",
+    "end": "Charles-Édouard Jeanneret"
+  },
+  "IDFM:C01675": {
+    "start": "Roissypole - Aéroport CDG1 (D2)",
+    "end": "Persan Beaumont Train H"
+  },
+  "IDFM:C01676": {
+    "start": "Circuit Automobile",
+    "end": "Albert Camus"
+  },
+  "IDFM:C01677": {
+    "start": "Observatoire",
+    "end": "Circuit Automobile"
+  },
+  "IDFM:C01678": {
+    "start": "Gare de Rambouillet - Prud'homme",
+    "end": "Conservatoire"
+  },
+  "IDFM:C01680": {
+    "start": "Mairie d'Aubervilliers",
+    "end": "Gare du Nord"
+  },
+  "IDFM:C01681": {
+    "start": "Pont de Bezons",
+    "end": "Gare de Cormeilles-en-Parisis"
+  },
+  "IDFM:C01644": {
+    "start": "Aéroport CDG T2",
+    "end": "Gare de l'Est"
+  },
+  "IDFM:C01645": {
+    "start": "Ambroise Croizat",
+    "end": "Gare de Lyon - Diderot"
+  },
+  "IDFM:C01646": {
+    "start": "La Verrière Gare - Quai C",
+    "end": "Gare Montparnasse"
+  },
+  "IDFM:C01647": {
+    "start": "Gare de St Lazare",
+    "end": "Gare de Montigny - Beauchamp"
+  },
+  "IDFM:C01648": {
+    "start": "Gare de Lyon - Van Gogh",
+    "end": "Gare de Juvisy RER"
+  },
+  "IDFM:C01651": {
+    "start": "Conservatoire",
+    "end": "Village - Collège IDF"
+  },
+  "IDFM:C01653": {
+    "start": "Village - Collège IDF",
+    "end": "Grand Dôme"
+  },
+  "IDFM:C01654": {
+    "start": "Collège Jules Verne",
+    "end": "Butte Sainte Catherine"
+  },
+  "IDFM:C01657": {
+    "start": "Sophie Barat",
+    "end": "Jean Moulin"
+  },
+  "IDFM:C01658": {
+    "start": "Sophie Barat",
+    "end": "Collège Romain Rolland"
+  },
+  "IDFM:C01683": {
+    "start": "Hôpital de Montfermeil",
+    "end": "Varsovie / Bondy"
+  },
+  "IDFM:C01685": {
+    "start": "Gare d'Achères",
+    "end": "Olympe de Gouges"
+  },
+  "IDFM:C01686": {
+    "start": "Gare de Montereau Quai 7",
+    "end": "Le Maulny 2"
+  },
+  "IDFM:C01687": {
+    "start": "Robert Wagner",
+    "end": "Doumer Lafontaine"
+  },
+  "IDFM:C01688": {
+    "start": "Collège M.L.-King / Lycée Franco-Allemand",
+    "end": "Robinson RER"
+  },
+  "IDFM:C01689": {
+    "start": "Gare de Saint-Rémy-lès-Chevreuse",
+    "end": "Collège M.L.-King / Lycée Franco-Allemand"
+  },
+  "IDFM:C01690": {
+    "start": "Lycée Franco-Allemand - ML King",
+    "end": "Moxouris"
+  },
+  "IDFM:C01691": {
+    "start": "Lycée Franco-Allemand - ML King",
+    "end": "Gare de Montreuil"
+  },
+  "IDFM:C01692": {
+    "start": "Trinité",
+    "end": "Collège M.L.-King / Lycée Franco-Allemand"
+  },
+  "IDFM:C01397": {
+    "start": "Gare de Chelles - Gournay RER",
+    "end": "Châtelet"
+  },
+  "IDFM:C01398": {
+    "start": "Cités Unies",
+    "end": "Gare de Lyon - Diderot"
+  },
+  "IDFM:C01399": {
+    "start": "Les Mordacs",
+    "end": "Gare de Lyon - Diderot"
+  },
+  "IDFM:C01400": {
+    "start": "Quai de la Rapée",
+    "end": "Aéroport Orly 4"
+  },
+  "IDFM:C01401": {
+    "start": "Châtelet",
+    "end": "Les Côteaux / Pasteur"
+  },
+  "IDFM:C01402": {
+    "start": "Gare Montparnasse",
+    "end": "Le Lac"
+  },
+  "IDFM:C01403": {
+    "start": "Parc Médicis",
+    "end": "Sèvres-Lecourbe"
+  },
+  "IDFM:C01170": {
+    "start": "Eglise de Pantin",
+    "end": "Avron"
+  },
+  "IDFM:C01171": {
+    "start": "Les Bosquets",
+    "end": "Le Bourget RER"
+  },
+  "IDFM:C01172": {
+    "start": "Avenue Ronsard",
+    "end": "Église de Pantin - Métro"
+  },
+  "IDFM:C01173": {
+    "start": "Maurice Thorez",
+    "end": "Cosmonautes"
+  },
+  "IDFM:C01174": {
+    "start": "Gare de Pierrefitte - Stains RER",
+    "end": "Porte de la Villette"
+  },
+  "IDFM:C01175": {
+    "start": "Porte de Pantin",
+    "end": "Jouhaux - Blum"
+  },
+  "IDFM:C01176": {
+    "start": "ZAC Les Tulipes Nord",
+    "end": "Porte de la Villette"
+  },
+  "IDFM:C01177": {
+    "start": "Moulin Neuf",
+    "end": "Porte de la Chapelle"
+  },
+  "IDFM:C01180": {
+    "start": "Pont de Neuilly-Métro",
+    "end": "Boulevard de la Seine"
+  },
+  "IDFM:C01181": {
+    "start": "Pont de Neuilly-Métro",
+    "end": "Rueil-Malmaison RER"
+  },
+  "IDFM:C01182": {
+    "start": "Route de Chatou",
+    "end": "La Défense (Calder - Miro)"
+  },
+  "IDFM:C01183": {
+    "start": "Gounod",
+    "end": "Pont de Saint-Cloud - Albert Kahn"
+  },
+  "IDFM:C01184": {
+    "start": "Parc Maison Blanche",
+    "end": "Guynemer - Maxime Gorki"
+  },
+  "IDFM:C01185": {
+    "start": "Brochant - Cardinet",
+    "end": "Centre Madeleine Daniélou"
+  },
+  "IDFM:C01186": {
+    "start": "Collège Claude Monet",
+    "end": "Porte de Champerret"
+  },
+  "IDFM:C01187": {
+    "start": "Porte de Champerret",
+    "end": "Mourinoux"
+  },
+  "IDFM:C01188": {
+    "start": "Poissonniers - Cocteau",
+    "end": "Champs Fourgons"
+  },
+  "IDFM:C01189": {
+    "start": "Piscine - Patinoire",
+    "end": "Pont de Levallois - Bécon"
+  },
+  "IDFM:C01190": {
+    "start": "Trivaux - Vertugadins",
+    "end": "Rue Leblanc"
+  },
+  "IDFM:C01191": {
+    "start": "Gare de Saint-Denis RER",
+    "end": "Porte des Lilas"
+  },
+  "IDFM:C01192": {
+    "start": "Pont de Sèvres",
+    "end": "Château"
+  },
+  "IDFM:C01193": {
+    "start": "Bourg-la-Reine RER",
+    "end": "Hôpital Henri Mondor"
+  },
+  "IDFM:C01194": {
+    "start": "Porte de Clichy",
+    "end": "La Courneuve - 8 Mai 1945"
+  },
+  "IDFM:C01195": {
+    "start": "Saint-Ouen RER",
+    "end": "La Défense (voie Perronet Sud)"
+  },
+  "IDFM:C01196": {
+    "start": "Olympe de Gouges",
+    "end": "La Colline"
+  },
+  "IDFM:C01274": {
+    "start": "Noisy-le-Grand - Mont d'Est RER",
+    "end": "René Camier (Palais de justice)"
+  },
+  "IDFM:C01275": {
+    "start": "Place de la Boule - Clémenceau",
+    "end": "Les Courtilles"
+  },
+  "IDFM:C01276": {
+    "start": "Noisy-le-Grand - Mont d'Est RER",
+    "end": "Saint-Maur - Créteil RER"
+  },
+  "IDFM:C01277": {
+    "start": "Préfecture du Val-de-Marne",
+    "end": "Villiers-sur-Marne - Le Plessis-Trévise RER"
+  },
+  "IDFM:C01278": {
+    "start": "Mairie",
+    "end": "Les Yvris Noisy-le-Grand RER"
+  },
+  "IDFM:C01279": {
+    "start": "Les Yvris Noisy-le-Grand",
+    "end": "Albert Berthelot"
+  },
+  "IDFM:C01280": {
+    "start": "Nogent-le-Perreux RER",
+    "end": "Hôtel de Ville"
+  },
+  "IDFM:C01281": {
+    "start": "Château de Vincennes",
+    "end": "Raymond Queneau - Route de Noisy"
+  },
+  "IDFM:C01282": {
+    "start": "Massy Palaiseau RER",
+    "end": "Le Cor de Chasse"
+  },
+  "IDFM:C01283": {
+    "start": "Mairie",
+    "end": "Collège des Yvris"
+  },
+  "IDFM:C01285": {
+    "start": "Aérodrome",
+    "end": "Torcy RER"
+  },
+  "IDFM:C01286": {
+    "start": "Bobigny - Pablo Picasso",
+    "end": "Mairie de Montreuil"
+  },
+  "IDFM:C01287": {
+    "start": "Issy - Val de Seine",
+    "end": "Gambetta"
+  },
+  "IDFM:C01288": {
+    "start": "Château de Vincennes",
+    "end": "Bibliothèque Nationale de France"
+  },
+  "IDFM:C01289": {
+    "start": "Rue Marcelle",
+    "end": "Fort d'Aubervilliers"
+  },
+  "IDFM:C01292": {
+    "start": "Hôtel de Ville",
+    "end": "Gabriel Péri - Métro"
+  },
+  "IDFM:C01294": {
+    "start": "Poissonniers - Cocteau",
+    "end": "Charles de Gaulle - Etoile - Mac Mahon"
+  },
+  "IDFM:C01295": {
+    "start": "Bois Perrier RER - Rosny 2",
+    "end": "Les Lycées"
+  },
+  "IDFM:C01298": {
+    "start": "Gare TGV-SNCF",
+    "end": "Porte de la Chapelle"
+  },
+  "IDFM:C01299": {
+    "start": "Roissypole - Aéroport CDG1 (E2)",
+    "end": "Nation - Trone"
+  },
+  "IDFM:C01302": {
+    "start": "Lycée Jean-Jacques Rousseau",
+    "end": "Bel Air - Gosserots"
+  },
+  "IDFM:C01303": {
+    "start": "Place de la Barre",
+    "end": "Cité Floréal"
+  },
+  "IDFM:C01304": {
+    "start": "La Défense (Calder - Miro)",
+    "end": "Hôpital de Garches"
+  },
+  "IDFM:C01305": {
+    "start": "Aristide Briand",
+    "end": "Gare de Pierrefitte - Stains RER"
+  },
+  "IDFM:C01414": {
+    "start": "Les Gobelins",
+    "end": "Place de Clichy - Caulaincourt"
+  },
+  "IDFM:C01415": {
+    "start": "Pont de Neuilly",
+    "end": "Château de Vincennes"
+  },
+  "IDFM:C01416": {
+    "start": "Mairie de Montreuil",
+    "end": "Picasso"
+  },
+  "IDFM:C01417": {
+    "start": "Villejuif - Louis Aragon",
+    "end": "Gabriel Péri - Métro"
+  },
+  "IDFM:C01418": {
+    "start": "La Croix de Berny RER",
+    "end": "Mairie de Saint-Ouen - République"
+  },
+  "IDFM:C01419": {
+    "start": "Pierre Sémard",
+    "end": "Mairie d'Issy"
+  },
+  "IDFM:C01420": {
+    "start": "Pont de Sèvres",
+    "end": "Romainville - Carnot"
+  },
+  "IDFM:C01421": {
+    "start": "Gare de Saint-Rémy-lès-Chevreuse",
+    "end": "Châtelet"
+  },
+  "IDFM:C01422": {
+    "start": "Gare Saint-Lazare",
+    "end": "Saint-Germain-en-Laye RER"
+  },
+  "IDFM:C01423": {
+    "start": "Rond-Point Nord",
+    "end": "Haute Futaie"
+  },
+  "IDFM:C01426": {
+    "start": "Gare de Chelles Gournay",
+    "end": "Collège Goscinny"
+  },
+  "IDFM:C01427": {
+    "start": "Hôpital de Montfermeil",
+    "end": "Gare de Lagny Thorigny"
+  },
+  "IDFM:C01428": {
+    "start": "Collège Arthur Rimbaud",
+    "end": "Place Louvain"
+  },
+  "IDFM:C01429": {
+    "start": "Guincourt",
+    "end": "Gare de Roissypole - Aéroport CDG1 Terminal 3 (C4)"
+  },
+  "IDFM:C01431": {
+    "start": "Gare de Roissypole - Aéroport CDG1 (C3)",
+    "end": "Albert Camus / Les Cholettes"
+  },
+  "IDFM:C01432": {
+    "start": "Aéroport CDG - Terminal 2 (Route de service)",
+    "end": "Pablo Picasso"
+  },
+  "IDFM:C01433": {
+    "start": "La Cerisaie",
+    "end": "Gare de Roissypole - Aéroport CDG1 (C3)"
+  },
+  "IDFM:C01435": {
+    "start": "Gare de Montereau Quai 9",
+    "end": "Piscine"
+  },
+  "IDFM:C01436": {
+    "start": "Maison Rouge",
+    "end": "Château"
+  },
+  "IDFM:C01437": {
+    "start": "Bois de Chatillon",
+    "end": "Gare de Montereau Quai 8"
+  },
+  "IDFM:C01438": {
+    "start": "Lycée Gustave Eiffel",
+    "end": "Hameau de Chevinois"
+  },
+  "IDFM:C01439": {
+    "start": "Tavers",
+    "end": "Collège Paul Eluard"
+  },
+  "IDFM:C01440": {
+    "start": "Place des Erables",
+    "end": "Gare de Montereau Quai 1"
+  },
+  "IDFM:C01441": {
+    "start": "Place des Erables",
+    "end": "Châtelet"
+  },
+  "IDFM:C01442": {
+    "start": "Gare de Montereau Quai 10",
+    "end": "Le Maulny 2"
+  },
+  "IDFM:C02065": {
+    "start": "Collège Jean Moulin",
+    "end": "Les Ormes"
+  },
+  "IDFM:C02066": {
+    "start": "Lycée Saint Hilaire",
+    "end": "Montreau"
+  },
+  "IDFM:C02067": {
+    "start": "Estouches / Eglise",
+    "end": "Lycée Saint Hilaire"
+  },
+  "IDFM:C02068": {
+    "start": "Lycée Saint Hilaire",
+    "end": "Estouches / Eglise"
+  },
+  "IDFM:C02069": {
+    "start": "Gare de Meaux (Dépose)",
+    "end": "Gare de Coulommiers"
+  },
+  "IDFM:C02070": {
+    "start": "Gare de Coulommiers",
+    "end": "Gare de Meaux (Dépose)"
+  },
+  "IDFM:C02071": {
+    "start": "Eglise",
+    "end": "Collège George Sand"
+  },
+  "IDFM:C02072": {
+    "start": "Voisins",
+    "end": "Mitheuil RD934"
+  },
+  "IDFM:C02074": {
+    "start": "Cité Scolaire",
+    "end": "Place de la Mairie"
+  },
+  "IDFM:C02076": {
+    "start": "Forêt de Cruye",
+    "end": "Gare de Vaucresson"
+  },
+  "IDFM:C02077": {
+    "start": "Charnoy Lotissement",
+    "end": "Mairie"
+  },
+  "IDFM:C02078": {
+    "start": "Lavoir",
+    "end": "Mairie"
+  },
+  "IDFM:C02079": {
+    "start": "Cascade",
+    "end": "Ecole Primaire"
+  },
+  "IDFM:C02080": {
+    "start": "Verdun",
+    "end": "Gabriel Péri"
+  },
+  "IDFM:C02081": {
+    "start": "Gabriel Péri",
+    "end": "Soufflot"
+  },
+  "IDFM:C02082": {
+    "start": "Place Foch",
+    "end": "Chemin de l'Ile"
+  },
+  "IDFM:C02085": {
+    "start": "Gare de Neuville Université",
+    "end": "Gare de Liesse - Quai C"
+  },
+  "IDFM:C02086": {
+    "start": "Gare Place Romagné",
+    "end": "Gare de Liesse - Quai A"
+  },
+  "IDFM:C02087": {
+    "start": "Eglise",
+    "end": "Pont"
+  },
+  "IDFM:C02088": {
+    "start": "Eglise",
+    "end": "Mirvaux"
+  },
+  "IDFM:C02089": {
+    "start": "8 Grande Rue",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C02090": {
+    "start": "Cité Scolaire",
+    "end": "Collège Barthélémy"
+  },
+  "IDFM:C02091": {
+    "start": "Hôpital",
+    "end": "Gare de Tournan"
+  },
+  "IDFM:C02092": {
+    "start": "Château d'Eau",
+    "end": "Gare du Vert Galant"
+  },
+  "IDFM:C02093": {
+    "start": "Église",
+    "end": "Silos D209"
+  },
+  "IDFM:C02094": {
+    "start": "La Villeneuve",
+    "end": "Villers"
+  },
+  "IDFM:C02095": {
+    "start": "Mairie",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C02096": {
+    "start": "Lavoir",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C02097": {
+    "start": "Monthérand",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C02098": {
+    "start": "Monthérand",
+    "end": "Cité Scolaire"
+  },
+  "IDFM:C02100": {
+    "start": "Grosbois",
+    "end": "Rond-Point Pasteur"
+  },
+  "IDFM:C02107": {
+    "start": "Gare de Melun - Place de l'Ermitage",
+    "end": "Eglise"
+  },
+  "IDFM:C02108": {
+    "start": "Mairie",
+    "end": "Centre Culturel / Melun"
+  },
+  "IDFM:C02109": {
+    "start": "Eglise",
+    "end": "Moustier"
+  },
+  "IDFM:C02111": {
+    "start": "Antoine Baron",
+    "end": "Collège du Fort"
+  },
+  "IDFM:C02112": {
+    "start": "Les Berges",
+    "end": "Collège du Fort"
+  },
+  "IDFM:C02116": {
+    "start": "Champcormolin",
+    "end": "Gambetta"
+  },
+  "IDFM:C02117": {
+    "start": "Gambetta",
+    "end": "Launoy"
+  },
+  "IDFM:C02270": {
+    "start": "Gare de la Ferté-Alais",
+    "end": "Moulin"
+  },
+  "IDFM:C02271": {
+    "start": "Ecole Vieilles Vignes",
+    "end": "Lycée Montmirault"
+  },
+  "IDFM:C02272": {
+    "start": "Caporal Petit",
+    "end": "Joliot Curie"
+  },
+  "IDFM:C02273": {
+    "start": "Joliot Curie 5",
+    "end": "Guiche"
+  },
+  "IDFM:C02274": {
+    "start": "Gare Ponthierry-Pringy",
+    "end": "Caporal Petit"
+  },
+  "IDFM:C02275": {
+    "start": "Jonville",
+    "end": "L'Orme Brisé"
+  },
+  "IDFM:C02276": {
+    "start": "Brinville",
+    "end": "Gare SNCF - Rue de l'Industrie"
+  },
+  "IDFM:C02277": {
+    "start": "Ecole",
+    "end": "Gare de Melun"
+  },
+  "IDFM:C02278": {
+    "start": "Route de Corbeil",
+    "end": "Lycée Uruguay"
+  },
+  "IDFM:C02279": {
+    "start": "Piscine",
+    "end": "Lycée Uruguay"
+  },
+  "IDFM:C02280": {
+    "start": "Etrelles",
+    "end": "Place"
+  },
+  "IDFM:C02281": {
+    "start": "Cesson Gare",
+    "end": "Caporal Petit"
+  },
+  "IDFM:C02282": {
+    "start": "Place",
+    "end": "Gare de Melun"
+  },
+  "IDFM:C02283": {
+    "start": "GMF",
+    "end": "14 Juillet"
+  },
+  "IDFM:C02284": {
+    "start": "Gare de Melun",
+    "end": "Aubigny Mairie"
+  },
+  "IDFM:C02286": {
+    "start": "Prés aux Bois",
+    "end": "Notre Dame"
+  },
+  "IDFM:C02287": {
+    "start": "Collège de Perthes",
+    "end": "Fay"
+  },
+  "IDFM:C02288": {
+    "start": "Mairie",
+    "end": "Jean Jaurès"
+  },
+  "IDFM:C02289": {
+    "start": "Collège de Perthes",
+    "end": "Domaine de Montgermont"
+  },
+  "IDFM:C02290": {
+    "start": "La Rionnerie",
+    "end": "Longues Raies"
+  },
+  "IDFM:C02291": {
+    "start": "Gare de La Ferté-sous-Jouarre (Quai E)",
+    "end": "Centre Rue de Paris"
+  },
+  "IDFM:C02293": {
+    "start": "Collège F. Villon",
+    "end": "Guiche"
+  },
+  "IDFM:C02294": {
+    "start": "ZI René Cassin",
+    "end": "École des Roches"
+  },
+  "IDFM:C02295": {
+    "start": "Mairie",
+    "end": "Gare SNCF / Nangis"
+  },
+  "IDFM:C02296": {
+    "start": "Champ de Courses",
+    "end": "Cimetière"
+  },
+  "IDFM:C02236": {
+    "start": "Gare de Meaux (Quai 1)",
+    "end": "Rue de Lagny"
+  },
+  "IDFM:C02237": {
+    "start": "Rue de Lagny",
+    "end": "Chemin de Velours"
+  },
+  "IDFM:C02239": {
+    "start": "Gambetta",
+    "end": "Bel Air"
+  },
+  "IDFM:C02240": {
+    "start": "Belle Croix",
+    "end": "Collège A. de Garlande"
+  },
+  "IDFM:C02243": {
+    "start": "Duras",
+    "end": "Pont de Tolbiac"
+  },
+  "IDFM:C02244": {
+    "start": "Concorde",
+    "end": "France - Asie"
+  },
+  "IDFM:C02245": {
+    "start": "Place d'Italie",
+    "end": "Gare de Clamart"
+  },
+  "IDFM:C02246": {
+    "start": "Bibliothèque Francois Mitterrand",
+    "end": "Porte de la Villette"
+  },
+  "IDFM:C02249": {
+    "start": "Hôpital François Quesnay",
+    "end": "La Défense (Terminal Jules Verne)"
+  },
+  "IDFM:C02251": {
+    "start": "Quai de la Rapée",
+    "end": "Joinville-le-Pont RER"
+  },
+  "IDFM:C02252": {
+    "start": "Jean Rose",
+    "end": "Les Lignères"
+  },
+  "IDFM:C02254": {
+    "start": "Mairie du 18e - Jules Joffrin",
+    "end": "Le Peletier"
+  },
+  "IDFM:C02255": {
+    "start": "Mairie Annexe",
+    "end": "Les Grands Prés"
+  },
+  "IDFM:C02257": {
+    "start": "Gare de Sannois",
+    "end": "Gare de Montigny - Beauchamp"
+  },
+  "IDFM:C02258": {
+    "start": "Clos de la Mulatière",
+    "end": "Grands Champs"
+  },
+  "IDFM:C02260": {
+    "start": "Juvisy Gare Routière Seine",
+    "end": "Parc de Champrosay"
+  },
+  "IDFM:C02261": {
+    "start": "Clos de la Régale",
+    "end": "Gare de Vigneux-sur-Seine"
+  },
+  "IDFM:C02262": {
+    "start": "Réveil Matin",
+    "end": "Dumay Delille"
+  },
+  "IDFM:C02264": {
+    "start": "Jean Jaurès",
+    "end": "IRSN"
+  },
+  "IDFM:C02265": {
+    "start": "Entretien Nord",
+    "end": "Gare du Vert Galant"
+  },
+  "IDFM:C02266": {
+    "start": "Gare du Parc des Expositions",
+    "end": "Jaurès"
+  },
+  "IDFM:C02267": {
+    "start": "Cottages",
+    "end": "Bretagne"
+  },
+  "IDFM:C02268": {
+    "start": "Nation - Trone",
+    "end": "Docteur Goujon - Reuilly / Daumesnil"
+  },
+  "IDFM:C02269": {
+    "start": "La Défense (Terminal Jules Verne)",
+    "end": "Collège André Derain"
+  },
+  "IDFM:C02466": {
+    "start": "Gare de Brétigny",
+    "end": "UNM - UTAC"
+  },
+  "IDFM:C02467": {
+    "start": "Centre Commercial",
+    "end": "Mascadées"
+  },
+  "IDFM:C02468": {
+    "start": "Fontaine Mansart",
+    "end": "Leuville"
+  },
+  "IDFM:C02469": {
+    "start": "Kennedy / Camp des Loges",
+    "end": "Saint-Cyr"
+  },
+  "IDFM:C02470": {
+    "start": "Lycée Nelson Mandela",
+    "end": "La Briche"
+  },
+  "IDFM:C02472": {
+    "start": "Venant",
+    "end": "Libération"
+  },
+  "IDFM:C02473": {
+    "start": "Mairie",
+    "end": "Hôpital"
+  },
+  "IDFM:C02474": {
+    "start": "Hôpital",
+    "end": "Emmaüs Haut"
+  },
+  "IDFM:C02476": {
+    "start": "Place Jacques Chirac - Gare",
+    "end": "Faux Quonins"
+  },
+  "IDFM:C02478": {
+    "start": "Pointe Ouest",
+    "end": "Lycée Jules Ferry"
+  },
+  "IDFM:C02479": {
+    "start": "Gare Place Romagné",
+    "end": "Gare Routière Mantes-la-Jolie - Quai 9"
+  },
+  "IDFM:C02480": {
+    "start": "Huguenot",
+    "end": "Gare d'Aubergenville Elisabethville"
+  },
+  "IDFM:C02481": {
+    "start": "Chemin aux Boeufs",
+    "end": "Gare de Saint-Nom-la-Bretèche - Forêt de Marly"
+  },
+  "IDFM:C02482": {
+    "start": "Ferme de Gally",
+    "end": "Saint-Exupéry"
+  },
+  "IDFM:C02485": {
+    "start": "Louvois",
+    "end": "Gare de Chaville - Vélizy"
+  },
+  "IDFM:C02491": {
+    "start": "Alexandre Bertrand",
+    "end": "Clos Badère"
+  },
+  "IDFM:C02494": {
+    "start": "Olympiades",
+    "end": "Gare de Lyon"
+  },
+  "IDFM:C02495": {
+    "start": "Château",
+    "end": "Lotissement"
+  },
+  "IDFM:C02496": {
+    "start": "Gare Place",
+    "end": "Les Plantes"
+  },
+  "IDFM:C02497": {
+    "start": "Docteur Schweitzer",
+    "end": "Gare de Massy Palaiseau"
+  },
+  "IDFM:C02498": {
+    "start": "La Hunière - Joncherettes",
+    "end": "Place du Grand Ouest"
+  },
+  "IDFM:C02499": {
+    "start": "Gare de Lozère",
+    "end": "Ancienne Gare Militaire"
+  },
+  "IDFM:C02500": {
+    "start": "Montjay",
+    "end": "Andes - Cap-Horn"
+  },
+  "IDFM:C02297": {
+    "start": "Champ de Courses",
+    "end": "Rue des Sources"
+  },
+  "IDFM:C02298": {
+    "start": "Froëlicher",
+    "end": "Place du Clos"
+  },
+  "IDFM:C02300": {
+    "start": "Porte des Hauts-de-Seine",
+    "end": "Les Binelles"
+  },
+  "IDFM:C02301": {
+    "start": "Gambetta - Gare",
+    "end": "Résistance"
+  },
+  "IDFM:C02304": {
+    "start": "Charles Alby",
+    "end": "Ursine"
+  },
+  "IDFM:C02311": {
+    "start": "Gare d'Ozoir-la-Ferrière",
+    "end": "Rue de l'Avenue"
+  },
+  "IDFM:C02313": {
+    "start": "Gare de Saint-Nom-la-Bretèche - Forêt de Marly",
+    "end": "Gare de Plaisir Grignon - quai 7"
+  },
+  "IDFM:C02314": {
+    "start": "Place De La Boule - Joffre",
+    "end": "Suresnes - Pasteur- Val D'Or"
+  },
+  "IDFM:C02316": {
+    "start": "L'Isles",
+    "end": "Gare d'Orsay - L'Yvette"
+  },
+  "IDFM:C02318": {
+    "start": "Mairie",
+    "end": "Gare de Crécy la Chapelle (Quai B)"
+  },
+  "IDFM:C02351": {
+    "start": "Amédée Dunois",
+    "end": "Henri Legros"
+  },
+  "IDFM:C02355": {
+    "start": "Gare de Palaiseau Villebon",
+    "end": "Baron de Nivière"
+  },
+  "IDFM:C02360": {
+    "start": "Pont de Bougival",
+    "end": "Lycée International"
+  },
+  "IDFM:C02361": {
+    "start": "Hôpital André Mignot - Les Chênes d'Or",
+    "end": "Marly Soleil"
+  },
+  "IDFM:C02365": {
+    "start": "La Ferté Gaucher Centre",
+    "end": "Gare de Coulommiers"
+  },
+  "IDFM:C02366": {
+    "start": "Gare SNCF Quai 3",
+    "end": "Gare SNCF"
+  },
+  "IDFM:C02382": {
+    "start": "Cimetière d'Orsay",
+    "end": "Lycée Camille Claudel"
+  },
+  "IDFM:C02385": {
+    "start": "Croix de Berny",
+    "end": "Denfert-Rochereau"
+  },
+  "IDFM:C02387": {
+    "start": "Collège Olympe de Gouges",
+    "end": "Rue de la Ferté"
+  },
+  "IDFM:C02389": {
+    "start": "Gare de Cormeilles en Parisis",
+    "end": "Ibis"
+  },
+  "IDFM:C02390": {
+    "start": "Résidence la Vallée",
+    "end": "Parc de Sénart"
+  },
+  "IDFM:C02393": {
+    "start": "Eglise",
+    "end": "Lycée A. Denis"
+  },
+  "IDFM:C02394": {
+    "start": "Bernard Bataille",
+    "end": "Gare de Rambouillet - Prud'homme"
+  },
+  "IDFM:C02501": {
+    "start": "Les Vignes",
+    "end": "Bosquet"
+  },
+  "IDFM:C02502": {
+    "start": "Hôpital Jacques Cartier",
+    "end": "Croix Belle Avoine"
+  },
+  "IDFM:C02509": {
+    "start": "Gare de Boussy Saint-Antoine",
+    "end": "Fontaine Cornaille"
+  },
+  "IDFM:C02511": {
+    "start": "Gare d'Epinay-sur-Orge",
+    "end": "Chemin de Villiers"
+  },
+  "IDFM:C02513": {
+    "start": "Gare de Bièvres",
+    "end": "Gare routière de Versailles Chantiers - Quai G"
+  },
+  "IDFM:C02517": {
+    "start": "Gymnase",
+    "end": "Gare d'Ermont-Eaubonne"
+  },
+  "IDFM:C02520": {
+    "start": "Gare de Tournan",
+    "end": "Place Clément Ader"
+  },
+  "IDFM:C02521": {
+    "start": "Ombrages Parc",
+    "end": "Gare de Tournan"
+  },
+  "IDFM:C02522": {
+    "start": "Gare de Gretz-Armainvilliers",
+    "end": "Gare de Tournan"
+  },
+  "IDFM:C02526": {
+    "start": "Gare de Maurecourt",
+    "end": "Gare Saint-Lazare"
+  },
+  "IDFM:C02534": {
+    "start": "La Fourche",
+    "end": "Asnières - Gabriel Péri"
+  },
+  "IDFM:C02536": {
+    "start": "Église",
+    "end": "Peugeot"
+  },
+  "IDFM:C02537": {
+    "start": "Maison de l'Enfance",
+    "end": "Rond-Point Zola"
+  },
+  "IDFM:C02538": {
+    "start": "Noisiel RER",
+    "end": "Carnot"
+  },
+  "IDFM:C02539": {
+    "start": "Épinettes",
+    "end": "Notre-Dame Chemin Vert"
+  },
+  "IDFM:C02541": {
+    "start": "Gare des Mureaux (D3)",
+    "end": "Centre Cardiologique"
+  },
+  "IDFM:C01404": {
+    "start": "Gare de Lyon - Diderot",
+    "end": "Gare de Boissy-Saint-Léger"
+  },
+  "IDFM:C01405": {
+    "start": "Gare de l'Est",
+    "end": "Hôpital de Montfermeil"
+  },
+  "IDFM:C01406": {
+    "start": "Galvani - Voltaire",
+    "end": "Gare de l'est"
+  },
+  "IDFM:C01407": {
+    "start": "Piver",
+    "end": "Châtelet"
+  },
+  "IDFM:C01408": {
+    "start": "Ferme de la Vauve",
+    "end": "Gare Montparnasse"
+  },
+  "IDFM:C01409": {
+    "start": "Gare Saint-Lazare",
+    "end": "Place Richelieu"
+  },
+  "IDFM:C01410": {
+    "start": "Marché International de Rungis",
+    "end": "Rond-Point du Général Leclerc"
+  },
+  "IDFM:C01411": {
+    "start": "Gare de l'Est",
+    "end": "Villeparisis - Mitry-le-Neuf"
+  },
+  "IDFM:C01412": {
+    "start": "Gare de Lyon - Diderot",
+    "end": "Bois l'Abbé"
+  },
+  "IDFM:C01413": {
+    "start": "Les Gobelins",
+    "end": "Place de Clichy"
+  },
+  "IDFM:C01505": {
+    "start": "Gare de Montereau Quai 6",
+    "end": "Gare SNCF Quai 5"
+  },
+  "IDFM:C01506": {
+    "start": "Gare SNCF / Nangis",
+    "end": "Collège du Montois"
+  },
+  "IDFM:C01507": {
+    "start": "Gare de Longueville",
+    "end": "Théâtre"
+  },
+  "IDFM:C01509": {
+    "start": "La Borne Blanche",
+    "end": "Chessy Sud - Quai A (dépose)"
+  },
+  "IDFM:C01510": {
+    "start": "Lotissement",
+    "end": "Gare de Tournan"
+  },
+  "IDFM:C01511": {
+    "start": "Lycée Gustave Eiffel",
+    "end": "Les Repentailles"
+  },
+  "IDFM:C01512": {
+    "start": "Ravin de Rumini",
+    "end": "Les Frelons"
+  },
+  "IDFM:C01513": {
+    "start": "Ville Haute Quai 5",
+    "end": "Lycée H. Becquerel"
+  },
+  "IDFM:C01517": {
+    "start": "Terrier Rouge",
+    "end": "Marcel Mougenot"
+  },
+  "IDFM:C01518": {
+    "start": "Centre",
+    "end": "Ville Haute Quai 2"
+  },
+  "IDFM:C01519": {
+    "start": "Mairie",
+    "end": "Ville Haute Quai 2"
+  },
+  "IDFM:C01520": {
+    "start": "Mairie",
+    "end": "Ville Haute Quai 2"
+  },
+  "IDFM:C01521": {
+    "start": "Rond-Point Schwartz",
+    "end": "Versailles Chantiers Gare - Quai D"
+  },
+  "IDFM:C01522": {
+    "start": "Technocentre - L'Étang",
+    "end": "Grand'Mare"
+  },
+  "IDFM:C01523": {
+    "start": "Observatoire",
+    "end": "Rond-Point de Chasse"
+  },
+  "IDFM:C01524": {
+    "start": "Diderot",
+    "end": "La Verrière Gare - Quai D"
+  },
+  "IDFM:C01526": {
+    "start": "Les Côtes",
+    "end": "La Verrière Gare - Quai A"
+  },
+  "IDFM:C01527": {
+    "start": "Saint-Exupéry",
+    "end": "Jean Goujon"
+  },
+  "IDFM:C01528": {
+    "start": "Pas du Lac",
+    "end": "Collège Philippe de Champaigne / Porte Henry IV"
+  },
+  "IDFM:C01530": {
+    "start": "Trappes Gare",
+    "end": "La Verrière Gare - Quai E"
+  },
+  "IDFM:C01531": {
+    "start": "Trappes Gare",
+    "end": "Jacques Monod"
+  },
+  "IDFM:C01532": {
+    "start": "Vieil Etang",
+    "end": "Mérantais"
+  },
+  "IDFM:C01533": {
+    "start": "Le Buisson",
+    "end": "Saint-Quentin -Gare"
+  },
+  "IDFM:C01535": {
+    "start": "Place",
+    "end": "Saint-Quentin - Gare Routière des Prés - dépose"
+  },
+  "IDFM:C00641": {
+    "start": "Fauveau",
+    "end": "Clémenterie"
+  },
+  "IDFM:C00642": {
+    "start": "Gare de Villennes-sur-Seine",
+    "end": "Château"
+  },
+  "IDFM:C00643": {
+    "start": "Ursulines",
+    "end": "Monument"
+  },
+  "IDFM:C00644": {
+    "start": "Rouillard - Bords de Seine",
+    "end": "Lycée Charles de Gaulle"
+  },
+  "IDFM:C00649": {
+    "start": "Les Pins",
+    "end": "Centre Commercial"
+  },
+  "IDFM:C00651": {
+    "start": "Rue de la Garenne",
+    "end": "Gare de Vernouillet-Verneuil (2B)"
+  },
+  "IDFM:C00652": {
+    "start": "Gare Routière de Mantes-la-Ville - Quai 25",
+    "end": "Université des Chênes - Préfecture RER"
+  },
+  "IDFM:C00654": {
+    "start": "Gare de Cergy Préfecture (G)",
+    "end": "Koenig"
+  },
+  "IDFM:C00655": {
+    "start": "Gare des Mureaux (B3)",
+    "end": "Saint-Quentin - Gare Routière des Prés"
+  },
+  "IDFM:C00656": {
+    "start": "Gare de Bondy",
+    "end": "Église de Claye-Souilly"
+  },
+  "IDFM:C00658": {
+    "start": "Poste",
+    "end": "Gare de Mitry-Claye"
+  },
+  "IDFM:C00659": {
+    "start": "Gare de Mitry-Claye",
+    "end": "Les Fortes Terres"
+  },
+  "IDFM:C00660": {
+    "start": "Poste",
+    "end": "Le Champ de Claye"
+  },
+  "IDFM:C00661": {
+    "start": "Roissypôle Aéroport CDG T3",
+    "end": "Gare de Meaux (Quai D)"
+  },
+  "IDFM:C00662": {
+    "start": "ZI Croix Blanche",
+    "end": "Gare de Saint-Michel-sur-Orge"
+  },
+  "IDFM:C00663": {
+    "start": "Chemin de Brétigny",
+    "end": "Marché"
+  },
+  "IDFM:C00664": {
+    "start": "François Mitterrand",
+    "end": "Gare de Juvisy"
+  },
+  "IDFM:C00665": {
+    "start": "Gare de Juvisy",
+    "end": "Le Damier"
+  },
+  "IDFM:C00666": {
+    "start": "Petits Champs",
+    "end": "Gare de Juvisy"
+  },
+  "IDFM:C00667": {
+    "start": "Mort Rû",
+    "end": "Collège Blaise Pascal"
+  },
+  "IDFM:C00668": {
+    "start": "Gare de Sainte Geneviève des Bois",
+    "end": "Fontaine Mansart"
+  },
+  "IDFM:C00669": {
+    "start": "Centre Commercial Aunettes",
+    "end": "Place de l'Europe"
+  },
+  "IDFM:C00670": {
+    "start": "Les Jonquilles",
+    "end": "Porte de l'Essonne"
+  },
+  "IDFM:C00671": {
+    "start": "L'Aubette",
+    "end": "Carrère d'Encausse"
+  },
+  "IDFM:C00672": {
+    "start": "Etang Neuf",
+    "end": "Gare d'Orsay Ville"
+  },
+  "IDFM:C00576": {
+    "start": "Clos de la Régale",
+    "end": "Gare de Villeneuve Place Semard"
+  },
+  "IDFM:C00577": {
+    "start": "Grosbois",
+    "end": "Corneille"
+  },
+  "IDFM:C00579": {
+    "start": "Collège Pasteur",
+    "end": "Lilas"
+  },
+  "IDFM:C00580": {
+    "start": "Pyramide",
+    "end": "Pont de Choisy - Piscine"
+  },
+  "IDFM:C00581": {
+    "start": "Hôpital Henri Mondor",
+    "end": "Place de l'arrivée - Gare"
+  },
+  "IDFM:C00582": {
+    "start": "Gare de Boussy Saint-Antoine",
+    "end": "Yvonne Madeleine"
+  },
+  "IDFM:C00586": {
+    "start": "Grosbois",
+    "end": "Corneille"
+  },
+  "IDFM:C00590": {
+    "start": "Aristide Briand",
+    "end": "Varennes / Marché"
+  },
+  "IDFM:C00591": {
+    "start": "Rue du Réveillon",
+    "end": "Eden"
+  },
+  "IDFM:C00592": {
+    "start": "Gare de Yerres",
+    "end": "Bois d'Auteuil"
+  },
+  "IDFM:C00594": {
+    "start": "Hôpital Henri Mondor",
+    "end": "Gare de Villeneuve"
+  },
+  "IDFM:C00597": {
+    "start": "Pigeonnier",
+    "end": "Lycée Guillaume Budé"
+  },
+  "IDFM:C00598": {
+    "start": "Gare de Boussy",
+    "end": "Marx Dormoy"
+  },
+  "IDFM:C00599": {
+    "start": "Saint Joseph",
+    "end": "Gare de Boissy-Saint-Léger"
+  },
+  "IDFM:C00600": {
+    "start": "Lycée de Montgeron",
+    "end": "Salvador Allende"
+  },
+  "IDFM:C00601": {
+    "start": "Collège Pompidou",
+    "end": "Poste"
+  },
+  "IDFM:C00602": {
+    "start": "Bizet",
+    "end": "Bois Cerdon"
+  },
+  "IDFM:C00603": {
+    "start": "Persan Beaumont Gare",
+    "end": "Mairie"
+  },
+  "IDFM:C00606": {
+    "start": "Mairie - Gare",
+    "end": "Persan Beaumont Gare"
+  },
+  "IDFM:C00607": {
+    "start": "Gare de Montsoult Maffliers",
+    "end": "Carrefour Bouffémont"
+  },
+  "IDFM:C00609": {
+    "start": "Gare de Roissypole - Aéroport CDG1 (G3)",
+    "end": "Gare de Villiers-le-Bel Gonesse Arnouville"
+  },
+  "IDFM:C00610": {
+    "start": "Gare de Villiers-le-Bel Gonesse Arnouville",
+    "end": "Mairie"
+  },
+  "IDFM:C00611": {
+    "start": "Gay Lussac",
+    "end": "Gare de Villiers-le-Bel Gonesse Arnouville"
+  },
+  "IDFM:C00612": {
+    "start": "Gare de Villiers-le-Bel Gonesse Arnouville",
+    "end": "Raymond Poincaré"
+  },
+  "IDFM:C00613": {
+    "start": "Saint Blin (Lycée René Cassin)",
+    "end": "Raymond Poincaré"
+  },
+  "IDFM:C00366": {
+    "start": "Juvisy Gare Routière Seine",
+    "end": "Lycée de Montgeron"
+  },
+  "IDFM:C00367": {
+    "start": "Collège Delacroix",
+    "end": "Ermitage"
+  },
+  "IDFM:C00369": {
+    "start": "Juvisy Gare Routière Seine",
+    "end": "Henri Wallon"
+  },
+  "IDFM:C00370": {
+    "start": "Charles Mory - Aqua Sénart",
+    "end": "Juvisy Gare Routière Seine"
+  },
+  "IDFM:C00371": {
+    "start": "Henri Wallon",
+    "end": "Juvisy Gare Routière Seine"
+  },
+  "IDFM:C00372": {
+    "start": "Juvisy Gare Routière Seine",
+    "end": "Gare de Vigneux-sur-Seine"
+  },
+  "IDFM:C00373": {
+    "start": "Gare de Vigneux-sur-Seine",
+    "end": "Juvisy Gare Routière Seine"
+  },
+  "IDFM:C00374": {
+    "start": "Juvisy Gare Routière Seine",
+    "end": "LP Nadar"
+  },
+  "IDFM:C00376": {
+    "start": "Bergeries Saint Hubert",
+    "end": "Rue de Seine"
+  },
+  "IDFM:C00377": {
+    "start": "Juvisy Gare Routière Seine",
+    "end": "Charles Mory - Aqua Sénart"
+  },
+  "IDFM:C00378": {
+    "start": "Lycée Marcel Pagnol",
+    "end": "Parc de Champrosay"
+  },
+  "IDFM:C00379": {
+    "start": "Marché International de Rungis",
+    "end": "Place Gambetta"
+  },
+  "IDFM:C00380": {
+    "start": "Lycée Notre-Dame de Sion",
+    "end": "Mairie"
+  },
+  "IDFM:C00382": {
+    "start": "Cols Verts",
+    "end": "Lycée"
+  },
+  "IDFM:C00385": {
+    "start": "Gauguin",
+    "end": "Terminal David Douillet"
+  },
+  "IDFM:C00386": {
+    "start": "Gare de Corbeil-Essonnes",
+    "end": "Mairie"
+  },
+  "IDFM:C00387": {
+    "start": "Lycée Robert Doisneau",
+    "end": "Mairie"
+  },
+  "IDFM:C00388": {
+    "start": "Gare de Moulin Galant",
+    "end": "Cimetière"
+  },
+  "IDFM:C00389": {
+    "start": "Gare de Moulin Galant",
+    "end": "Lycée Robert Doisneau"
+  },
+  "IDFM:C00390": {
+    "start": "Parking Crété",
+    "end": "Centre Commercial"
+  },
+  "IDFM:C00391": {
+    "start": "Château",
+    "end": "Lycée Robert Doisneau"
+  },
+  "IDFM:C00392": {
+    "start": "Résidence la Vallée",
+    "end": "Juvisy Gare Routière Seine"
+  },
+  "IDFM:C00393": {
+    "start": "Préfecture",
+    "end": "Place du Carrouge"
+  },
+  "IDFM:C00394": {
+    "start": "Préfecture",
+    "end": "Église"
+  },
+  "IDFM:C00395": {
+    "start": "Centre Ville / Chars",
+    "end": "Préfecture"
+  },
+  "IDFM:C00332": {
+    "start": "Cultures Lorraine",
+    "end": "Gare de Chatou - Croissy"
+  },
+  "IDFM:C00334": {
+    "start": "Z.I. des Amandiers",
+    "end": "Gare de Houilles - Carrières-sur-Seine"
+  },
+  "IDFM:C00335": {
+    "start": "Gare du Vésinet - Le Pecq",
+    "end": "Gare de Houilles - Carrières-sur-Seine"
+  },
+  "IDFM:C00336": {
+    "start": "Chanorier",
+    "end": "Gare du Vésinet - Le Pecq"
+  },
+  "IDFM:C00337": {
+    "start": "République",
+    "end": "Gare de Sartrouville"
+  },
+  "IDFM:C00339": {
+    "start": "Concorde",
+    "end": "Gare d'Antony"
+  },
+  "IDFM:C00340": {
+    "start": "ZAC du Moulin",
+    "end": "Gare d'Antony"
+  },
+  "IDFM:C00341": {
+    "start": "Pierre Gilles de Gennes",
+    "end": "Centre Commercial Noyer Doré"
+  },
+  "IDFM:C00342": {
+    "start": "Montgolfier",
+    "end": "Gare d'Antony"
+  },
+  "IDFM:C00343": {
+    "start": "Fontenay - Houdan",
+    "end": "Vergers"
+  },
+  "IDFM:C00344": {
+    "start": "Port Galand",
+    "end": "Pierre Kohlmann"
+  },
+  "IDFM:C00345": {
+    "start": "Gare d'Antony",
+    "end": "Verrières Mairie"
+  },
+  "IDFM:C00346": {
+    "start": "Massy-Verrières",
+    "end": "Gare d'Antony"
+  },
+  "IDFM:C00350": {
+    "start": "La Croix de Berny RER",
+    "end": "Division Leclerc"
+  },
+  "IDFM:C00351": {
+    "start": "Parc de Champrosay",
+    "end": "Centre Hospitalier"
+  },
+  "IDFM:C00354": {
+    "start": "Collège Pompidou",
+    "end": "Gare de Vigneux-sur-Seine"
+  },
+  "IDFM:C00355": {
+    "start": "Bleuets",
+    "end": "Gare de Vigneux-sur-Seine"
+  },
+  "IDFM:C00356": {
+    "start": "Maurice Garin",
+    "end": "Mairie / Hôtel de Ville"
+  },
+  "IDFM:C00357": {
+    "start": "Valdoly",
+    "end": "Gare de Vigneux-sur-Seine"
+  },
+  "IDFM:C00358": {
+    "start": "Gare de Vigneux-sur-Seine",
+    "end": "Le Petit et Vergeat"
+  },
+  "IDFM:C00359": {
+    "start": "Gare de Vigneux-sur-Seine",
+    "end": "Maurice Garin"
+  },
+  "IDFM:C00360": {
+    "start": "Gare de Vigneux-sur-Seine",
+    "end": "Collège Pompidou"
+  },
+  "IDFM:C00363": {
+    "start": "LP Nadar",
+    "end": "Gare de Vigneux-sur-Seine"
+  },
+  "IDFM:C00364": {
+    "start": "Préfecture / Cité Administrative",
+    "end": "Hautes Mardelles"
+  },
+  "IDFM:C00365": {
+    "start": "Parc de Champrosay",
+    "end": "Gare de Vigneux-sur-Seine"
+  },
+  "IDFM:C00509": {
+    "start": "Collège Jean Monnet",
+    "end": "Quincampoix"
+  },
+  "IDFM:C00510": {
+    "start": "Monument",
+    "end": "Mairie"
+  },
+  "IDFM:C00511": {
+    "start": "Collège Vignaud",
+    "end": "Roussigny - Clos Tavin"
+  },
+  "IDFM:C00512": {
+    "start": "Villevert",
+    "end": "Collège Vignaud"
+  },
+  "IDFM:C00513": {
+    "start": "Gare autoroutière",
+    "end": "Collège Vignaud"
+  },
+  "IDFM:C00514": {
+    "start": "Place",
+    "end": "La Mare aux Puits"
+  },
+  "IDFM:C00515": {
+    "start": "Adelaïau",
+    "end": "Villevert"
+  },
+  "IDFM:C00516": {
+    "start": "Mairie",
+    "end": "Lycée Jules Verne"
+  },
+  "IDFM:C00517": {
+    "start": "Mulleron",
+    "end": "Gruerie"
+  },
+  "IDFM:C00518": {
+    "start": "Gare de Saint-Rémy-lès-Chevreuse",
+    "end": "Gare de Rambouillet - Prairie"
+  },
+  "IDFM:C00519": {
+    "start": "Collège Saint-François d'Assise",
+    "end": "Collège P. de Coubertin"
+  },
+  "IDFM:C00520": {
+    "start": "Rond-Point de Villiers - Maison Foujita",
+    "end": "Gruerie"
+  },
+  "IDFM:C00521": {
+    "start": "Technocentre Trou Berger",
+    "end": "Place Jules Guesde"
+  },
+  "IDFM:C00522": {
+    "start": "Collège P. de Coubertin",
+    "end": "Saint-Robert"
+  },
+  "IDFM:C00523": {
+    "start": "Courcelle",
+    "end": "Centre"
+  },
+  "IDFM:C00524": {
+    "start": "Collège de Vivonne",
+    "end": "Saint-Benoist"
+  },
+  "IDFM:C00525": {
+    "start": "Lycée Franco-Allemand - ML King",
+    "end": "Robinson RER"
+  },
+  "IDFM:C00527": {
+    "start": "Petits Ponts",
+    "end": "Collège M.L.-King / Lycée Franco-Allemand"
+  },
+  "IDFM:C00528": {
+    "start": "Port Royal",
+    "end": "Place"
+  },
+  "IDFM:C00529": {
+    "start": "Arbouville",
+    "end": "Les Cottages"
+  },
+  "IDFM:C00531": {
+    "start": "Les Ormes",
+    "end": "Collège Vignaud"
+  },
+  "IDFM:C00532": {
+    "start": "SQY Ouest",
+    "end": "Vélizy 2 - T6"
+  },
+  "IDFM:C00533": {
+    "start": "Petits Ponts",
+    "end": "Place du 14 Juillet"
+  },
+  "IDFM:C00535": {
+    "start": "Collège Saint-François d'Assise",
+    "end": "Rond-Point de Chasse"
+  },
+  "IDFM:C00478": {
+    "start": "Docteur Roux",
+    "end": "Collège Montesquieu"
+  },
+  "IDFM:C00479": {
+    "start": "Eglise",
+    "end": "Gare de Bouffémont Moisselles"
+  },
+  "IDFM:C00480": {
+    "start": "Epinémerie",
+    "end": "Courtes Terres"
+  },
+  "IDFM:C00481": {
+    "start": "Grands Bains",
+    "end": "Port aux Vins"
+  },
+  "IDFM:C00482": {
+    "start": "Collège",
+    "end": "Gare du Perray"
+  },
+  "IDFM:C00484": {
+    "start": "Route des Parquets",
+    "end": "Gare d'Ermont-Eaubonne"
+  },
+  "IDFM:C00485": {
+    "start": "Mairie / Hôtel de Ville",
+    "end": "Mairie"
+  },
+  "IDFM:C00486": {
+    "start": "Marché",
+    "end": "Léon Cordier"
+  },
+  "IDFM:C00487": {
+    "start": "Rue de Saint-Prix",
+    "end": "Edouard Vaillant"
+  },
+  "IDFM:C00488": {
+    "start": "Gare de Saint-Rémy-lès-Chevreuse",
+    "end": "Courcelle"
+  },
+  "IDFM:C00489": {
+    "start": "Place du 14 Juillet",
+    "end": "Arbouville"
+  },
+  "IDFM:C00490": {
+    "start": "Abbaye 1",
+    "end": "Lycée Franco-allemand - ML King"
+  },
+  "IDFM:C00494": {
+    "start": "Longchêne Place",
+    "end": "Mairie"
+  },
+  "IDFM:C00495": {
+    "start": "Feuillarde",
+    "end": "Parc Orsay Université"
+  },
+  "IDFM:C00497": {
+    "start": "Gare Rive Gauche - Sceaux",
+    "end": "Mérantais"
+  },
+  "IDFM:C00498": {
+    "start": "Lycée Jules Verne",
+    "end": "Gare de Saint-Rémy-lès-Chevreuse"
+  },
+  "IDFM:C00500": {
+    "start": "Gare de Saint-Rémy-lès-Chevreuse",
+    "end": "Gare de La Verrière"
+  },
+  "IDFM:C00502": {
+    "start": "La Mare aux Puits",
+    "end": "Lycée René Cassin"
+  },
+  "IDFM:C00503": {
+    "start": "Gare de Courcelle - Lycée de la Vallée",
+    "end": "Centre Commercial Ulis 2"
+  },
+  "IDFM:C00504": {
+    "start": "Gare de Saint-Rémy-lès-Chevreuse",
+    "end": "Gare des Essarts le Roi"
+  },
+  "IDFM:C00505": {
+    "start": "Collège Jean Monnet",
+    "end": "La Belle Étoile"
+  },
+  "IDFM:C00506": {
+    "start": "Mairie",
+    "end": "Collège Jean Monnet"
+  },
+  "IDFM:C00507": {
+    "start": "Les Ormes",
+    "end": "Bajolet"
+  },
+  "IDFM:C00508": {
+    "start": "Bel Air",
+    "end": "La Brosse"
+  },
+  "IDFM:C00444": {
+    "start": "Gare d'Ermont-Eaubonne",
+    "end": "Claude Debussy"
+  },
+  "IDFM:C00445": {
+    "start": "Gare de Cormeilles en Parisis",
+    "end": "Mare des Noues"
+  },
+  "IDFM:C00446": {
+    "start": "Mairie de Piscop",
+    "end": "Gare de Sarcelles - Saint-Brice"
+  },
+  "IDFM:C00447": {
+    "start": "Gare de Saint-Leu-la-Forêt",
+    "end": "Gare de Franconville"
+  },
+  "IDFM:C00448": {
+    "start": "Gare de Montigny - Beauchamp",
+    "end": "Gare de Bessancourt"
+  },
+  "IDFM:C00451": {
+    "start": "Gare de Cernay",
+    "end": "Joffre / Résidence du Moulin"
+  },
+  "IDFM:C00452": {
+    "start": "Rue du Général Leclerc",
+    "end": "Gare de Montigny - Beauchamp"
+  },
+  "IDFM:C00454": {
+    "start": "Vignes",
+    "end": "Vieux Colombier"
+  },
+  "IDFM:C00455": {
+    "start": "Gare de Pierrelaye",
+    "end": "Lycée Edmond Rostand"
+  },
+  "IDFM:C00456": {
+    "start": "Lycée Edmond Rostand",
+    "end": "Mairie"
+  },
+  "IDFM:C00458": {
+    "start": "Lycée - Collège Voie des Sports",
+    "end": "Lycée Montesquieu - Collège Duhamel"
+  },
+  "IDFM:C00459": {
+    "start": "Lycée Montesquieu - Collège Duhamel",
+    "end": "Place des Arts"
+  },
+  "IDFM:C00460": {
+    "start": "Gare de Montigny - Beauchamp",
+    "end": "Collège Camille Claudel"
+  },
+  "IDFM:C00461": {
+    "start": "Alsace",
+    "end": "Lycée Montesquieu - Collège Duhamel"
+  },
+  "IDFM:C00462": {
+    "start": "Collège Marcel Pagnol",
+    "end": "Collège"
+  },
+  "IDFM:C00463": {
+    "start": "Square de l'Europe",
+    "end": "De Gaulle"
+  },
+  "IDFM:C00464": {
+    "start": "Gare de Montigny - Beauchamp",
+    "end": "Gare de Cormeilles en Parisis"
+  },
+  "IDFM:C00465": {
+    "start": "Gare de Sarcelles - Saint-Brice",
+    "end": "Rougemonts Égalité"
+  },
+  "IDFM:C00466": {
+    "start": "Gare d'Argenteuil",
+    "end": "Le Moulin / Jean Gosselin"
+  },
+  "IDFM:C00471": {
+    "start": "Hôtel de Ville - Marché",
+    "end": "Préfecture Gare"
+  },
+  "IDFM:C00472": {
+    "start": "Mairie / Hôtel de Ville",
+    "end": "Préfecture Gare"
+  },
+  "IDFM:C00473": {
+    "start": "Gare d'Argenteuil",
+    "end": "Préfecture Gare"
+  },
+  "IDFM:C00476": {
+    "start": "Charcot Hôpital",
+    "end": "Préfecture Gare"
+  },
+  "IDFM:C00477": {
+    "start": "Gare d'Herblay",
+    "end": "Gare de Montigny - Beauchamp"
+  },
+  "IDFM:C01595": {
+    "start": "Rond-Point Île-de-France",
+    "end": "Gutenberg / Lycée Boulloche"
+  },
+  "IDFM:C01600": {
+    "start": "Gare de Mantes-la-Jolie - Quai 3",
+    "end": "Aqualude"
+  },
+  "IDFM:C01601": {
+    "start": "Aqualude",
+    "end": "Ravine"
+  },
+  "IDFM:C01602": {
+    "start": "Gare Routière de Mantes-la-Ville - Quai 21",
+    "end": "Lycée Léopold Sédar Senghor"
+  },
+  "IDFM:C01603": {
+    "start": "Mairie",
+    "end": "Gare Routière Mantes-la-Ville - Quai 23"
+  },
+  "IDFM:C01604": {
+    "start": "Gare de Mantes-la-Jolie Quai 4",
+    "end": "Béarn"
+  },
+  "IDFM:C01605": {
+    "start": "Forest",
+    "end": "Vallée"
+  },
+  "IDFM:C01606": {
+    "start": "Béarn",
+    "end": "I.M.E"
+  },
+  "IDFM:C01607": {
+    "start": "Senneville Place",
+    "end": "Gare Routière Mantes-la-Jolie - Quai 9"
+  },
+  "IDFM:C01612": {
+    "start": "Résidence du Lac",
+    "end": "Henri Clérisse"
+  },
+  "IDFM:C01613": {
+    "start": "Gare Routière Mantes-la-Jolie - Quai 9",
+    "end": "Coteau"
+  },
+  "IDFM:C01614": {
+    "start": "Mantes-la-Ville Mairie",
+    "end": "Sainte Anne"
+  },
+  "IDFM:C01615": {
+    "start": "Gare de Grigny Centre",
+    "end": "Petits Champs"
+  },
+  "IDFM:C01616": {
+    "start": "Rue Berlioz",
+    "end": "Gare de Corbeil-Essonnes Zola"
+  },
+  "IDFM:C01617": {
+    "start": "Terminal David Douillet / Le Coudray-Montceaux",
+    "end": "Place de la Carpe"
+  },
+  "IDFM:C01618": {
+    "start": "Les Meillottes",
+    "end": "Imprimerie Nationale"
+  },
+  "IDFM:C01619": {
+    "start": "Chemin du Vexin",
+    "end": "Champs Elysées - Grand Bourg"
+  },
+  "IDFM:C01620": {
+    "start": "Gare de Ris-Orangis Bois de l'Epine",
+    "end": "Henri Dunant"
+  },
+  "IDFM:C01621": {
+    "start": "Pomponne",
+    "end": "ZA Bois de l'Epine / Bois de Saint-Eutrope"
+  },
+  "IDFM:C01622": {
+    "start": "Aunettes",
+    "end": "Gare Ris-Orangis Val de Ris"
+  },
+  "IDFM:C01623": {
+    "start": "Les Tourelles",
+    "end": "Champs Elysées - Grand Bourg"
+  },
+  "IDFM:C01624": {
+    "start": "Clément Ader",
+    "end": "Lycée Marie Laurencin"
+  },
+  "IDFM:C01625": {
+    "start": "Gabrielle d'Estrées",
+    "end": "Les Griottes"
+  },
+  "IDFM:C01626": {
+    "start": "Daumesnil",
+    "end": "Imprimerie Nationale"
+  },
+  "IDFM:C01627": {
+    "start": "Évry - Courcouronnes",
+    "end": "Eurocontrol"
+  },
+  "IDFM:C00615": {
+    "start": "Saint Blin (Lycée René Cassin)",
+    "end": "Boieldieu"
+  },
+  "IDFM:C00616": {
+    "start": "Mairie de Bonneuil",
+    "end": "Gare de Villiers-le-Bel Gonesse Arnouville"
+  },
+  "IDFM:C00617": {
+    "start": "Maurice Meyer",
+    "end": "Rond-Point de Bonneuil"
+  },
+  "IDFM:C00620": {
+    "start": "Dhuis",
+    "end": "Passerelle (accès SNCF)"
+  },
+  "IDFM:C00621": {
+    "start": "Gare d'Ozoir-la-Ferrière",
+    "end": "Gare de Torcy"
+  },
+  "IDFM:C00622": {
+    "start": "Lambuis",
+    "end": "Cornilliot (accès SNCF)"
+  },
+  "IDFM:C00623": {
+    "start": "Centre Commercial",
+    "end": "Gare de Lagny Thorigny (Rue R. Poincaré)"
+  },
+  "IDFM:C00624": {
+    "start": "Eglise",
+    "end": "Chessy Sud - Quai A (dépose)"
+  },
+  "IDFM:C00625": {
+    "start": "Gare de Torcy",
+    "end": "Gare de Lagny Thorigny"
+  },
+  "IDFM:C00626": {
+    "start": "Gare de Val d'Europe",
+    "end": "Place du Clos"
+  },
+  "IDFM:C00627": {
+    "start": "Verdun",
+    "end": "Santa Fé"
+  },
+  "IDFM:C00628": {
+    "start": "Gare de Torcy",
+    "end": "Gare de Lagny Thorigny"
+  },
+  "IDFM:C00629": {
+    "start": "Gare de Lagny Thorigny",
+    "end": "Gare de Bussy-Saint-Georges"
+  },
+  "IDFM:C00630": {
+    "start": "Lycée Emily Brontë",
+    "end": "Gare de Lagny Thorigny"
+  },
+  "IDFM:C00631": {
+    "start": "Gare de Val d'Europe",
+    "end": "Gare de Tournan"
+  },
+  "IDFM:C00632": {
+    "start": "Les Pléïades",
+    "end": "La Boucle des Trois Ormes"
+  },
+  "IDFM:C00633": {
+    "start": "Infroit",
+    "end": "Intermarché"
+  },
+  "IDFM:C00634": {
+    "start": "CAT",
+    "end": "Verdun"
+  },
+  "IDFM:C00635": {
+    "start": "Coteaux RD934",
+    "end": "Santa Fé"
+  },
+  "IDFM:C00636": {
+    "start": "Mendès France",
+    "end": "Collège Claude Monet"
+  },
+  "IDFM:C00637": {
+    "start": "Gare de Meaux (Dépose)",
+    "end": "Gare de Melun - Place de l'Ermitage"
+  },
+  "IDFM:C00638": {
+    "start": "Ile de Loisirs",
+    "end": "Santa Fé"
+  },
+  "IDFM:C00640": {
+    "start": "Gare de Saint-Germain-en-Laye",
+    "end": "Arquebuse"
+  },
+  "IDFM:C00773": {
+    "start": "Mairie",
+    "end": "La Bussie"
+  },
+  "IDFM:C00774": {
+    "start": "Préfecture RER",
+    "end": "Ecancourt"
+  },
+  "IDFM:C00778": {
+    "start": "Roger Salengro",
+    "end": "Oise Hautil - Préfecture RER"
+  },
+  "IDFM:C00781": {
+    "start": "Oise Hautil - Préfecture RER",
+    "end": "Méry Gare SNCF"
+  },
+  "IDFM:C00782": {
+    "start": "Gros Chevaux",
+    "end": "Oise Hautil - Préfecture RER"
+  },
+  "IDFM:C00783": {
+    "start": "Oise Hautil - Préfecture RER",
+    "end": "Hautes Bornes"
+  },
+  "IDFM:C00784": {
+    "start": "Oise Hautil - Préfecture RER",
+    "end": "Fond de Vaux"
+  },
+  "IDFM:C00785": {
+    "start": "Préfecture RER",
+    "end": "Centre Commercial de l'Oseraie"
+  },
+  "IDFM:C00786": {
+    "start": "Lycée Fontaineroux",
+    "end": "Gare Routière Quai 5"
+  },
+  "IDFM:C00787": {
+    "start": "Croix de Fer",
+    "end": "Gare Routière Quai 3"
+  },
+  "IDFM:C00788": {
+    "start": "Gare Routière Quai 5",
+    "end": "ZI Paul Séramy"
+  },
+  "IDFM:C00789": {
+    "start": "Lycée André Malraux",
+    "end": "Institut Nazareth"
+  },
+  "IDFM:C00790": {
+    "start": "Place Schneider",
+    "end": "Salle Polyvalente"
+  },
+  "IDFM:C00791": {
+    "start": "Hôtel de Ville",
+    "end": "Gare de Bois le Roi"
+  },
+  "IDFM:C00792": {
+    "start": "Stade de la Faisanderie",
+    "end": "Sivry D605"
+  },
+  "IDFM:C00793": {
+    "start": "Les Bouleaux",
+    "end": "Les Lilas"
+  },
+  "IDFM:C00794": {
+    "start": "Stade de la Faisanderie",
+    "end": "Gare de Fontainebleau Avon"
+  },
+  "IDFM:C00796": {
+    "start": "Gare Routière Arrivée",
+    "end": "Hôpital Verdun"
+  },
+  "IDFM:C00797": {
+    "start": "Stade de la Faisanderie",
+    "end": "Espinard / Fontaineroux"
+  },
+  "IDFM:C00798": {
+    "start": "Place Lepesme",
+    "end": "Porte de Paris"
+  },
+  "IDFM:C00799": {
+    "start": "Marangis",
+    "end": "Gare Routière Quai 6"
+  },
+  "IDFM:C00801": {
+    "start": "Gare de Boissise-le-Roi",
+    "end": "Jonville"
+  },
+  "IDFM:C00803": {
+    "start": "Quai de la Courtille",
+    "end": "Georges Méliès"
+  },
+  "IDFM:C00813": {
+    "start": "Stade de la Faisanderie",
+    "end": "Sivry D605"
+  },
+  "IDFM:C00814": {
+    "start": "Collège de Perthes",
+    "end": "Pré de l'Étang"
+  },
+  "IDFM:C00744": {
+    "start": "Lycée Condorcet - Quai 5",
+    "end": "Eglise"
+  },
+  "IDFM:C00747": {
+    "start": "Alpa",
+    "end": "Fosses Rouges"
+  },
+  "IDFM:C00748": {
+    "start": "Gare d'Epône Mézières",
+    "end": "Cimetière"
+  },
+  "IDFM:C00749": {
+    "start": "Gare d'Epône Mézières",
+    "end": "Gare de Juziers"
+  },
+  "IDFM:C00751": {
+    "start": "Stade",
+    "end": "Foyer"
+  },
+  "IDFM:C00752": {
+    "start": "Mairie",
+    "end": "Collège Jacques Cartier"
+  },
+  "IDFM:C00753": {
+    "start": "Gare des Mureaux (D2)",
+    "end": "La Défense - Terminal Jules Verne"
+  },
+  "IDFM:C00754": {
+    "start": "La Défense - Terminal Jules Verne",
+    "end": "Gare de Vernouillet-Verneuil (4)"
+  },
+  "IDFM:C00755": {
+    "start": "Boulevard Gambetta",
+    "end": "Peugeot"
+  },
+  "IDFM:C00756": {
+    "start": "Lycée Léopold Sédar Senghor",
+    "end": "Mairie / Rond-Point"
+  },
+  "IDFM:C00757": {
+    "start": "Peugeot",
+    "end": "Les Bâtes"
+  },
+  "IDFM:C00758": {
+    "start": "Millerus - La Ferme",
+    "end": "Val Saint Georges"
+  },
+  "IDFM:C00760": {
+    "start": "La Couarde",
+    "end": "Lycée Léopold Sédar Senghor"
+  },
+  "IDFM:C00761": {
+    "start": "Nungesser",
+    "end": "Peugeot"
+  },
+  "IDFM:C00762": {
+    "start": "Château Saint-Sylvère",
+    "end": "Pontoise Gare"
+  },
+  "IDFM:C00763": {
+    "start": "Gare de Neuville Université",
+    "end": "Cergy Le Haut RER"
+  },
+  "IDFM:C00764": {
+    "start": "Quai du Pothuis",
+    "end": "Cergy Le Haut RER"
+  },
+  "IDFM:C00765": {
+    "start": "Pontoise Gare",
+    "end": "Les Croizettes"
+  },
+  "IDFM:C00766": {
+    "start": "Haut-Rucourt",
+    "end": "Les Plants - Préfecture RER"
+  },
+  "IDFM:C00767": {
+    "start": "Saint-Christophe RER",
+    "end": "Croix du Jubilé"
+  },
+  "IDFM:C00768": {
+    "start": "La Siaule",
+    "end": "Cergy Saint-Christophe RER"
+  },
+  "IDFM:C00769": {
+    "start": "Université des Chênes - Préfecture RER",
+    "end": "Hôpital René Dubos"
+  },
+  "IDFM:C00770": {
+    "start": "Gare de Pontoise",
+    "end": "Rue de Gency"
+  },
+  "IDFM:C00771": {
+    "start": "Parc de l'Horloge",
+    "end": "Préfecture RER"
+  },
+  "IDFM:C00772": {
+    "start": "Pontoise Gare",
+    "end": "Cergy Le Haut RER"
+  },
+  "IDFM:C01003": {
+    "start": "Chambergeot",
+    "end": "Gare Routière"
+  },
+  "IDFM:C01004": {
+    "start": "Gare Routière",
+    "end": "Mairie"
+  },
+  "IDFM:C01005": {
+    "start": "Saint Denis",
+    "end": "Gare Routière"
+  },
+  "IDFM:C01006": {
+    "start": "Gare Routière",
+    "end": "Avrilmont"
+  },
+  "IDFM:C01008": {
+    "start": "Gare Routière",
+    "end": "Mare à la Bonne"
+  },
+  "IDFM:C01011": {
+    "start": "Marronniers",
+    "end": "Lycée Fontaineroux"
+  },
+  "IDFM:C01013": {
+    "start": "Saint Jacques",
+    "end": "Le Prieure"
+  },
+  "IDFM:C01014": {
+    "start": "Mairie",
+    "end": "LEP Mandela"
+  },
+  "IDFM:C01015": {
+    "start": "Gare Routière",
+    "end": "Eglise"
+  },
+  "IDFM:C01016": {
+    "start": "Gare Routière",
+    "end": "LEP Mandela"
+  },
+  "IDFM:C01017": {
+    "start": "Mairie",
+    "end": "Grand Bourg"
+  },
+  "IDFM:C01033": {
+    "start": "Mairie",
+    "end": "Salle des Fêtes"
+  },
+  "IDFM:C01034": {
+    "start": "Tourelles",
+    "end": "Peugeot"
+  },
+  "IDFM:C01035": {
+    "start": "Gare de Bréval",
+    "end": "Lycée Saint-Adjutor"
+  },
+  "IDFM:C01036": {
+    "start": "SNECMA",
+    "end": "La Défense (Terminal Jules Verne)"
+  },
+  "IDFM:C01040": {
+    "start": "Gare SNCF Quai 2",
+    "end": "Le Tilleul"
+  },
+  "IDFM:C01043": {
+    "start": "Valmy / Tivoli",
+    "end": "Gare de Lieusaint Moissy"
+  },
+  "IDFM:C01044": {
+    "start": "Ancienne Gare",
+    "end": "Jean Jaurès"
+  },
+  "IDFM:C01045": {
+    "start": "Lycée La Tour des Dames",
+    "end": "Gare de Melun - Place de l'Ermitage"
+  },
+  "IDFM:C01047": {
+    "start": "Brice / Pont",
+    "end": "Gambetta"
+  },
+  "IDFM:C01048": {
+    "start": "Champcormolin",
+    "end": "Gambetta"
+  },
+  "IDFM:C01049": {
+    "start": "Mairie",
+    "end": "Gambetta"
+  },
+  "IDFM:C01052": {
+    "start": "Collège Barthélémy",
+    "end": "Eglise"
+  },
+  "IDFM:C00700": {
+    "start": "Centre Commercial Parly 2",
+    "end": "Gare de Garches - Marnes-La-Coquette"
+  },
+  "IDFM:C00701": {
+    "start": "Domaine de la Marche",
+    "end": "Lycée Jules Ferry"
+  },
+  "IDFM:C00702": {
+    "start": "Parc de Diane",
+    "end": "Gare de Jouy-en-Josas"
+  },
+  "IDFM:C00703": {
+    "start": "INRAE Biotechnologie",
+    "end": "Gare de Jouy-en-Josas"
+  },
+  "IDFM:C00704": {
+    "start": "Picardie",
+    "end": "Gare routière de Versailles Chantiers - Quai A"
+  },
+  "IDFM:C00705": {
+    "start": "Val d'Albian Écoles",
+    "end": "Collège Saint-Exupéry"
+  },
+  "IDFM:C00706": {
+    "start": "Abel Nicolle le Vallon",
+    "end": "Collège M.L.-King / Lycée Franco-Allemand"
+  },
+  "IDFM:C00707": {
+    "start": "Gare de Versailles Château Rive Gauche",
+    "end": "Parc de Diane"
+  },
+  "IDFM:C00708": {
+    "start": "Parc de Diane",
+    "end": "Collège M.L.-King / Lycée Franco-Allemand"
+  },
+  "IDFM:C00709": {
+    "start": "Corneille",
+    "end": "Charles Devos / Place Simone Veil"
+  },
+  "IDFM:C00710": {
+    "start": "Victor Duret",
+    "end": "Chasse Royale"
+  },
+  "IDFM:C00725": {
+    "start": "Claude Monet",
+    "end": "Conflans Fin d'Oise Noctilien"
+  },
+  "IDFM:C00727": {
+    "start": "Collège Marcel Pagnol",
+    "end": "Place de Gaulle"
+  },
+  "IDFM:C00728": {
+    "start": "Géo André",
+    "end": "Le Val Comtat"
+  },
+  "IDFM:C00730": {
+    "start": "Haegeman",
+    "end": "Collège Marcel Pagnol"
+  },
+  "IDFM:C00731": {
+    "start": "Géo André",
+    "end": "Gare De Cergy Prefecture"
+  },
+  "IDFM:C00733": {
+    "start": "Place de Sandrancourt",
+    "end": "Pont de Limay"
+  },
+  "IDFM:C00734": {
+    "start": "Gare d'Issou - Porcheville",
+    "end": "Place de Sandrancourt"
+  },
+  "IDFM:C00735": {
+    "start": "Ecole",
+    "end": "Lycée François Villon - Quai 1"
+  },
+  "IDFM:C00736": {
+    "start": "Thurets",
+    "end": "Mairie"
+  },
+  "IDFM:C00737": {
+    "start": "Petite Auberge",
+    "end": "Gare de Juziers"
+  },
+  "IDFM:C00738": {
+    "start": "Gare de Juziers",
+    "end": "Lycée Condorcet - Quai 3"
+  },
+  "IDFM:C00739": {
+    "start": "Lycée Condorcet - Quai 1",
+    "end": "Plaisances"
+  },
+  "IDFM:C00741": {
+    "start": "Sangle",
+    "end": "Lycée Léopold Sédar Senghor"
+  },
+  "IDFM:C00876": {
+    "start": "Foch 11 Novembre",
+    "end": "Pompiers"
+  },
+  "IDFM:C00877": {
+    "start": "Foch Niepce",
+    "end": "La Forêt"
+  },
+  "IDFM:C00878": {
+    "start": "Grouette",
+    "end": "Praslin Université"
+  },
+  "IDFM:C00879": {
+    "start": "Champ de Foire",
+    "end": "Gare de Melun"
+  },
+  "IDFM:C00880": {
+    "start": "Gare de Melun",
+    "end": "Champ de Foire"
+  },
+  "IDFM:C00881": {
+    "start": "Brossolettes",
+    "end": "Centre Commercial"
+  },
+  "IDFM:C00882": {
+    "start": "Rocheton Stade",
+    "end": "GMF"
+  },
+  "IDFM:C00883": {
+    "start": "Gare de Melun",
+    "end": "CES Jean de la Fontaine"
+  },
+  "IDFM:C00885": {
+    "start": "Praslin Université",
+    "end": "Place Mouton"
+  },
+  "IDFM:C00886": {
+    "start": "Château du Jard",
+    "end": "Place Mouton"
+  },
+  "IDFM:C00887": {
+    "start": "Camping",
+    "end": "Delaroue"
+  },
+  "IDFM:C00890": {
+    "start": "Avenue de Meaux",
+    "end": "Place Caerano"
+  },
+  "IDFM:C00891": {
+    "start": "Gare de Melun",
+    "end": "Villaroche Nord"
+  },
+  "IDFM:C00892": {
+    "start": "Beaulieu",
+    "end": "Nazareth"
+  },
+  "IDFM:C00893": {
+    "start": "Sainte Assise",
+    "end": "Nazareth"
+  },
+  "IDFM:C00894": {
+    "start": "Sainte Assise",
+    "end": "Avenue de Meaux"
+  },
+  "IDFM:C00895": {
+    "start": "Gare Ponthierry-Pringy",
+    "end": "Lavoir"
+  },
+  "IDFM:C00897": {
+    "start": "Centre Commercial",
+    "end": "Cesson Gare"
+  },
+  "IDFM:C00898": {
+    "start": "Georges Claude",
+    "end": "Jean Renoir"
+  },
+  "IDFM:C00899": {
+    "start": "Jean Rose",
+    "end": "Jean Renoir"
+  },
+  "IDFM:C00900": {
+    "start": "Les Bruyères",
+    "end": "Gare de Meaux (Quai 3)"
+  },
+  "IDFM:C00901": {
+    "start": "Collège Louis Braille",
+    "end": "Jean Vilar"
+  },
+  "IDFM:C00903": {
+    "start": "Gare d'Esbly - Quai A",
+    "end": "Chessy Nord - Dépose"
+  },
+  "IDFM:C00905": {
+    "start": "Sinoël",
+    "end": "Hameau de Sarcy"
+  },
+  "IDFM:C00906": {
+    "start": "Passage à Niveau",
+    "end": "Collège Mon Plaisir"
+  },
+  "IDFM:C00907": {
+    "start": "Collège Mon Plaisir",
+    "end": "Cimetière"
+  },
+  "IDFM:C00908": {
+    "start": "Gare de Meaux (Quai F)",
+    "end": "Ecole - Mairie"
+  },
+  "IDFM:C00909": {
+    "start": "Ecole - Mairie",
+    "end": "Gare de Meaux (Quai I)"
+  },
+  "IDFM:C00910": {
+    "start": "École des Girandoles",
+    "end": "Jean Rose"
+  },
+  "IDFM:C00911": {
+    "start": "Ile de Loisirs",
+    "end": "Collège Stéphane Hessel"
+  },
+  "IDFM:C00912": {
+    "start": "Gare d'Esbly - Quai A",
+    "end": "Rue des Prés"
+  },
+  "IDFM:C00913": {
+    "start": "Mairie",
+    "end": "Pinteville"
+  },
+  "IDFM:C00914": {
+    "start": "Gare de Val d'Europe",
+    "end": "Marché"
+  },
+  "IDFM:C00915": {
+    "start": "Eglise",
+    "end": "Georges Claude"
+  },
+  "IDFM:C00916": {
+    "start": "Henri Moissan",
+    "end": "Centre"
+  },
+  "IDFM:C00917": {
+    "start": "Centre",
+    "end": "Lycée Pierre de Coubertin"
+  },
+  "IDFM:C00919": {
+    "start": "Centre",
+    "end": "Briquetterie"
+  },
+  "IDFM:C00920": {
+    "start": "Collège La Rochefoucauld (Dépose)",
+    "end": "Pharmacie"
+  },
+  "IDFM:C00921": {
+    "start": "Pharmacie",
+    "end": "Collège les Glacis"
+  },
+  "IDFM:C00922": {
+    "start": "Colverts",
+    "end": "Mairie"
+  },
+  "IDFM:C00923": {
+    "start": "Centre",
+    "end": "Gare de La Ferté-sous-Jouarre (Quai I)"
+  },
+  "IDFM:C00924": {
+    "start": "Place de la Mairie",
+    "end": "Gare de La Ferté-sous-Jouarre (Quai I)"
+  },
+  "IDFM:C00925": {
+    "start": "Sainte Beuve",
+    "end": "Mairie"
+  },
+  "IDFM:C00926": {
+    "start": "Place Saint Claude",
+    "end": "Collège La Rochefoucauld (Dépose)"
+  },
+  "IDFM:C00927": {
+    "start": "Ecole - Mairie",
+    "end": "Saint Albert"
+  },
+  "IDFM:C00928": {
+    "start": "Torchamps",
+    "end": "Collège Camille Saint Saëns"
+  },
+  "IDFM:C00929": {
+    "start": "Place de l'Eglise",
+    "end": "Mairie"
+  },
+  "IDFM:C00934": {
+    "start": "Savarbousier",
+    "end": "Ibis Rouge"
+  },
+  "IDFM:C00843": {
+    "start": "Rochefort",
+    "end": "Le Fresne"
+  },
+  "IDFM:C00844": {
+    "start": "Le Fresne",
+    "end": "Mairie"
+  },
+  "IDFM:C00845": {
+    "start": "Marrache",
+    "end": "Gare de Combs-la-Ville Quincy"
+  },
+  "IDFM:C00846": {
+    "start": "Gare de Combs-la-Ville Quincy",
+    "end": "Folle Avoine"
+  },
+  "IDFM:C00847": {
+    "start": "Folle Avoine",
+    "end": "Gare de Combs-la-Ville Quincy"
+  },
+  "IDFM:C00850": {
+    "start": "Gare de Savigny Nandy",
+    "end": "Pavillon Bouret"
+  },
+  "IDFM:C00851": {
+    "start": "Gare de Savigny Nandy",
+    "end": "Noisement"
+  },
+  "IDFM:C00852": {
+    "start": "Sablons",
+    "end": "Gare de Savigny Nandy"
+  },
+  "IDFM:C00853": {
+    "start": "Cesson Gare",
+    "end": "Aubépine"
+  },
+  "IDFM:C00854": {
+    "start": "Cesson Gare",
+    "end": "Pouilly-le-Fort Place"
+  },
+  "IDFM:C00855": {
+    "start": "Pouilly-le-Fort Place",
+    "end": "Cesson Gare"
+  },
+  "IDFM:C00856": {
+    "start": "Cesson Gare",
+    "end": "Clairière"
+  },
+  "IDFM:C00859": {
+    "start": "Gustave Courbet",
+    "end": "Gare de Lieusaint Moissy"
+  },
+  "IDFM:C00860": {
+    "start": "Victor Hugo",
+    "end": "Lycée Jacques Prévert"
+  },
+  "IDFM:C00861": {
+    "start": "Gare de Lieusaint Moissy",
+    "end": "Gare de Combs-la-Ville Quincy"
+  },
+  "IDFM:C00862": {
+    "start": "Gare de Combs-la-Ville Quincy",
+    "end": "Green de Réau"
+  },
+  "IDFM:C00863": {
+    "start": "Les Grès",
+    "end": "Gare de Lieusaint Moissy"
+  },
+  "IDFM:C00864": {
+    "start": "Gare de Lieusaint Moissy",
+    "end": "Saule de la Chasse"
+  },
+  "IDFM:C00865": {
+    "start": "Gare de Lieusaint Moissy",
+    "end": "Saule de la Chasse"
+  },
+  "IDFM:C00866": {
+    "start": "Chanteloup Renoir",
+    "end": "Gare de Lieusaint Moissy"
+  },
+  "IDFM:C00867": {
+    "start": "Gare de Lieusaint Moissy",
+    "end": "Parc Omnisports"
+  },
+  "IDFM:C00868": {
+    "start": "Gare de Savigny Nandy",
+    "end": "La Chesnaie"
+  },
+  "IDFM:C00869": {
+    "start": "Centre Pénitentiaire",
+    "end": "Gare de Savigny Nandy"
+  },
+  "IDFM:C00871": {
+    "start": "La Chesnaie",
+    "end": "Gare de Savigny Nandy"
+  },
+  "IDFM:C00875": {
+    "start": "Grands Cèdres",
+    "end": "Meuniers"
+  },
+  "IDFM:C00964": {
+    "start": "Salvador Allende",
+    "end": "La Montagne - Lycée Belmondo"
+  },
+  "IDFM:C00966": {
+    "start": "Bout du Monde",
+    "end": "Gare de Saint-Chéron"
+  },
+  "IDFM:C00967": {
+    "start": "CCEJR",
+    "end": "Vallée Barbot"
+  },
+  "IDFM:C00969": {
+    "start": "Église",
+    "end": "Fourchainville"
+  },
+  "IDFM:C00970": {
+    "start": "Collège le Roussay",
+    "end": "Château"
+  },
+  "IDFM:C00971": {
+    "start": "La Donnerie",
+    "end": "Rond-Point de la Roche"
+  },
+  "IDFM:C00972": {
+    "start": "Salvador Allende",
+    "end": "Carrefour Mouton"
+  },
+  "IDFM:C00973": {
+    "start": "Monument aux Morts",
+    "end": "Champ de Courses"
+  },
+  "IDFM:C00974": {
+    "start": "Champ de Courses",
+    "end": "Montreau"
+  },
+  "IDFM:C00975": {
+    "start": "Bois Bourdon",
+    "end": "Hôpital"
+  },
+  "IDFM:C00976": {
+    "start": "Salle des Fêtes",
+    "end": "Emmaüs Haut"
+  },
+  "IDFM:C00977": {
+    "start": "Paponville",
+    "end": "Gare d'Étampes"
+  },
+  "IDFM:C00978": {
+    "start": "Hôpital",
+    "end": "Ferme de Champigny"
+  },
+  "IDFM:C00979": {
+    "start": "Gare d'Étampes",
+    "end": "Thionville"
+  },
+  "IDFM:C00982": {
+    "start": "Saint-Pierre",
+    "end": "Rue Reverseleux"
+  },
+  "IDFM:C00983": {
+    "start": "Z.I. Rochettes",
+    "end": "Rue Reverseleux"
+  },
+  "IDFM:C00984": {
+    "start": "Gare d'Etrechy",
+    "end": "Lycée Nelson Mandela"
+  },
+  "IDFM:C00985": {
+    "start": "Justice",
+    "end": "Gare de Corbeil-Essonnes"
+  },
+  "IDFM:C00986": {
+    "start": "Lycée Brassens",
+    "end": "Petit Sénart"
+  },
+  "IDFM:C00987": {
+    "start": "Le Golf",
+    "end": "Pyramides / Lycée des Loges"
+  },
+  "IDFM:C01002": {
+    "start": "Lycée Uruguay",
+    "end": "Chambergeot"
+  },
+  "IDFM:C01443": {
+    "start": "Bréau - Cinéma",
+    "end": "Poterie"
+  },
+  "IDFM:C01444": {
+    "start": "Bréau - Cinéma",
+    "end": "Stade de la Faisanderie"
+  },
+  "IDFM:C01445": {
+    "start": "Route de Bourgogne",
+    "end": "Collège Sisley"
+  },
+  "IDFM:C01446": {
+    "start": "Route de Bourgogne",
+    "end": "Veneux Gare SNCF"
+  },
+  "IDFM:C01447": {
+    "start": "Route de Fontainebleau",
+    "end": "Place Greffülhe"
+  },
+  "IDFM:C01448": {
+    "start": "Stade de la Faisanderie",
+    "end": "Basse Roche"
+  },
+  "IDFM:C01450": {
+    "start": "Gare de Champagne-sur-Seine",
+    "end": "Place Samois"
+  },
+  "IDFM:C01451": {
+    "start": "Place Lepesme",
+    "end": "Place Berne Bellecourt"
+  },
+  "IDFM:C01452": {
+    "start": "Mairie",
+    "end": "Ville Haute"
+  },
+  "IDFM:C01453": {
+    "start": "Cimetière",
+    "end": "Ville Haute"
+  },
+  "IDFM:C01454": {
+    "start": "Ville Haute",
+    "end": "Mairie"
+  },
+  "IDFM:C01455": {
+    "start": "Mairie",
+    "end": "Ville Haute"
+  },
+  "IDFM:C01456": {
+    "start": "Mairie",
+    "end": "Ville Haute"
+  },
+  "IDFM:C01457": {
+    "start": "Ville Haute",
+    "end": "Mairie"
+  },
+  "IDFM:C01459": {
+    "start": "Les Praillons",
+    "end": "Vieux Pont"
+  },
+  "IDFM:C01461": {
+    "start": "Lycée Gustave Eiffel",
+    "end": "Mairie"
+  },
+  "IDFM:C01462": {
+    "start": "Corps de Garde",
+    "end": "Lycée André Malraux"
+  },
+  "IDFM:C01463": {
+    "start": "Saint Sauveur",
+    "end": "4 Chemins"
+  },
+  "IDFM:C01464": {
+    "start": "Gare de Montereau Quai 12",
+    "end": "Mairie"
+  },
+  "IDFM:C01467": {
+    "start": "Collège Jean Rostand",
+    "end": "Mairie"
+  },
+  "IDFM:C01468": {
+    "start": "Avigny",
+    "end": "Moulin Ocle"
+  },
+  "IDFM:C01469": {
+    "start": "Neuvry",
+    "end": "La Borne Blanche"
+  },
+  "IDFM:C01472": {
+    "start": "Gare de Cergy Préfecture (E)",
+    "end": "Gare de Roissypôle - Aéroport CDG1 (G1)"
+  },
+  "IDFM:C01473": {
+    "start": "Lycée Léonard de Vinci",
+    "end": "Place Colbert"
+  },
+  "IDFM:C01475": {
+    "start": "Piscine S. Weil",
+    "end": "Lycée Le Corbusier"
+  },
+  "IDFM:C02436": {
+    "start": "Mairie RN19",
+    "end": "Collège Marie Curie"
+  },
+  "IDFM:C02437": {
+    "start": "Villiers-sur-Marne - Le Plessis-Trévise RER",
+    "end": "Collège Condorcet"
+  },
+  "IDFM:C02439": {
+    "start": "Centre Commercial Villebon 2",
+    "end": "La Folie Bessin"
+  },
+  "IDFM:C02440": {
+    "start": "Rond-Point Camille Claudel",
+    "end": "Place de la Victoire"
+  },
+  "IDFM:C02441": {
+    "start": "Libération",
+    "end": "Arquebuse"
+  },
+  "IDFM:C02443": {
+    "start": "Gare des Mureaux (B2)",
+    "end": "Lycée Violet le Duc"
+  },
+  "IDFM:C02444": {
+    "start": "Lavoir",
+    "end": "Arquebuse"
+  },
+  "IDFM:C02446": {
+    "start": "Gare de Versailles - Rive Droite",
+    "end": "Gare de Maule"
+  },
+  "IDFM:C02448": {
+    "start": "Gare de La Verrière",
+    "end": "Maréchal Joffre"
+  },
+  "IDFM:C02449": {
+    "start": "Hôpital",
+    "end": "La Gaudrée"
+  },
+  "IDFM:C02450": {
+    "start": "La Gaudrée",
+    "end": "Hôpital"
+  },
+  "IDFM:C02451": {
+    "start": "Champ de Course",
+    "end": "Chemin du Pont Guénée"
+  },
+  "IDFM:C02452": {
+    "start": "Rue Nicephore Niepce",
+    "end": "Champ de Course"
+  },
+  "IDFM:C02455": {
+    "start": "Avenue des Martyrs",
+    "end": "Saint-Laurent (Rue Brébion)"
+  },
+  "IDFM:C02456": {
+    "start": "Le Havre",
+    "end": "Louis Thébault"
+  },
+  "IDFM:C02457": {
+    "start": "Cimetière du Mont Valérien",
+    "end": "Chemin de l'Ile"
+  },
+  "IDFM:C02458": {
+    "start": "Levant Madeleine Brès",
+    "end": "Gare de Lieusaint Moissy"
+  },
+  "IDFM:C02459": {
+    "start": "Pont de Rungis RER",
+    "end": "Les Ardoines RER"
+  },
+  "IDFM:C02461": {
+    "start": "Gare de Sainte Geneviève des Bois",
+    "end": "Gare de Juvisy"
+  },
+  "IDFM:C02462": {
+    "start": "Écouen Maillol",
+    "end": "Carrefour d'Ombreval"
+  },
+  "IDFM:C02463": {
+    "start": "Garges - Sarcelles RER",
+    "end": "Hôpital Simone Veil"
+  },
+  "IDFM:C02464": {
+    "start": "Hôtel de Ville",
+    "end": "Centre Médical"
+  },
+  "IDFM:C02465": {
+    "start": "Général Leclerc",
+    "end": "National 1 / Piscine"
+  },
+  "IDFM:C02568": {
+    "start": "Nouveau Cimetière",
+    "end": "Chopin"
+  },
+  "IDFM:C02569": {
+    "start": "Family Village Shopping",
+    "end": "FAM de Bécheville"
+  },
+  "IDFM:C02570": {
+    "start": "Centre Commercial Grosse Pierre",
+    "end": "Piscine"
+  },
+  "IDFM:C02571": {
+    "start": "Rond-Point Zola",
+    "end": "Maison de l'Enfance"
+  },
+  "IDFM:C02579": {
+    "start": "Gare de Montereau Quai 9",
+    "end": "Pajol"
+  },
+  "IDFM:C02580": {
+    "start": "Maison Rouge",
+    "end": "La Grande Plaine"
+  },
+  "IDFM:C02581": {
+    "start": "Les Montils",
+    "end": "Gare SNCF / Nangis"
+  },
+  "IDFM:C02584": {
+    "start": "Terrier Rouge",
+    "end": "Mairie"
+  },
+  "IDFM:C02585": {
+    "start": "La Fermeté",
+    "end": "Boulodrome"
+  },
+  "IDFM:C02587": {
+    "start": "Rue de l'Aulnaie",
+    "end": "Le Val Hébert"
+  },
+  "IDFM:C02588": {
+    "start": "Mairie",
+    "end": "Clinique de Bazincourt"
+  },
+  "IDFM:C02589": {
+    "start": "La Coudraie",
+    "end": "Roland Le Nestour"
+  },
+  "IDFM:C02591": {
+    "start": "Villeparisis - Mitry-le-Neuf",
+    "end": "Diderot"
+  },
+  "IDFM:C02594": {
+    "start": "Gare de Montereau Quai 1",
+    "end": "Gare de Lyon - Van Gogh"
+  },
+  "IDFM:C02597": {
+    "start": "Epinay-sur-Orge",
+    "end": "Massy - Palaiseau RER"
+  },
+  "IDFM:C02598": {
+    "start": "UNM-UTAC",
+    "end": "Petits Prés"
+  },
+  "IDFM:C02599": {
+    "start": "Château",
+    "end": "Château"
+  },
+  "IDFM:C02600": {
+    "start": "Gare de l'Est",
+    "end": "Survilliers - Fosses"
+  },
+  "IDFM:C02601": {
+    "start": "Lycée Charles Beaudelaire",
+    "end": "Les Grands Prés"
+  },
+  "IDFM:C02602": {
+    "start": "Garges - Sarcelles RER",
+    "end": "Parc Commercial Pont de Pierre"
+  },
+  "IDFM:C02603": {
+    "start": "Michel Simon",
+    "end": "Ecole Jean Jaurès"
+  },
+  "IDFM:C02604": {
+    "start": "Vergers",
+    "end": "Survilliers - Fosses"
+  },
+  "IDFM:C02605": {
+    "start": "Boieldieu",
+    "end": "Maurice Meyer"
+  },
+  "IDFM:C00273": {
+    "start": "Gare Routière Nord (A5)",
+    "end": "Europe"
+  },
+  "IDFM:C02607": {
+    "start": "Le Lavoir",
+    "end": "Lycée A. Denis"
+  },
+  "IDFM:C02608": {
+    "start": "Orveau",
+    "end": "Rousset - Audigers"
+  },
+  "IDFM:C02609": {
+    "start": "Mairie",
+    "end": "Lycée A. Denis"
+  },
+  "IDFM:C02610": {
+    "start": "Cité Scolaire",
+    "end": "Gare Routière"
+  },
+  "IDFM:C02612": {
+    "start": "Villionne",
+    "end": "Bois Minard"
+  },
+  "IDFM:C02615": {
+    "start": "Gare de Mareil-Marly",
+    "end": "Allée des Epines"
+  },
+  "IDFM:C02616": {
+    "start": "Bas Roi",
+    "end": "L'Auberderie"
+  },
+  "IDFM:C02617": {
+    "start": "Zone industrielle Borde",
+    "end": "Gare de Combs-la-Ville Quincy"
+  },
+  "IDFM:C02618": {
+    "start": "Collège Parc Frot",
+    "end": "Jean Vilar Avenue Foch"
+  },
+  "IDFM:C02619": {
+    "start": "Gare de Combs-la-Ville Quincy",
+    "end": "Village"
+  },
+  "IDFM:C02620": {
+    "start": "Beau - Mendès France Collège Georges Brassens",
+    "end": "Ambroise Paré"
+  },
+  "IDFM:C02621": {
+    "start": "Ambroise Paré",
+    "end": "Collège Arthur Chaussy"
+  },
+  "IDFM:C02622": {
+    "start": "Jumelages",
+    "end": "Avenue de l'Europe - Centre Commercial"
+  },
+  "IDFM:C02624": {
+    "start": "Gare de l'Est",
+    "end": "Gare de Persan Beaumont"
+  },
+  "IDFM:C02625": {
+    "start": "Pontoise Gare",
+    "end": "Moulin à Vent"
+  },
+  "IDFM:C02626": {
+    "start": "Le Parc",
+    "end": "Collège Jean Zay"
+  },
+  "IDFM:C02627": {
+    "start": "Paul Éluard",
+    "end": "FAM de Bécheville"
+  },
+  "IDFM:C02628": {
+    "start": "Gare Routière Nord (B3)",
+    "end": "Port Saint-Louis"
+  },
+  "IDFM:C02629": {
+    "start": "Sarrazin / Yser",
+    "end": "Bapaume"
+  },
+  "IDFM:C02630": {
+    "start": "Gare d'Aulnay-sous-Bois",
+    "end": "Gare de Sevran Livry"
+  },
+  "IDFM:C02631": {
+    "start": "Gare de Corbeil-Essonnes",
+    "end": "Gare de Melun"
+  },
+  "IDFM:C02633": {
+    "start": "Gare de Corbeil-Essonnes",
+    "end": "Stade / La justice"
+  },
+  "IDFM:C02634": {
+    "start": "Gare Montparnasse",
+    "end": "Gare de Rambouillet - Prud'homme"
+  },
+  "IDFM:C02635": {
+    "start": "Gare de Plaisir Grignon - quai 7",
+    "end": "Gare Montparnasse"
+  },
+  "IDFM:C02637": {
+    "start": "Lycée Viollet le Duc - Gare Routière",
+    "end": "Gare Routière de Mantes-la-Ville - Quai 26"
+  },
+  "IDFM:C02642": {
+    "start": "ZAC La Prévôté",
+    "end": "Saint-Quentin - Gare routière Paul Delouvrier"
+  },
+  "IDFM:C02644": {
+    "start": "Lamartine",
+    "end": "Parmentier"
+  },
+  "IDFM:C02659": {
+    "start": "Gare d'Arpajon",
+    "end": "Châtelet"
+  },
+  "IDFM:C02661": {
+    "start": "Gare Place",
+    "end": "Gare de Brétigny Place"
+  },
+  "IDFM:C02662": {
+    "start": "Augustin Fresnel",
+    "end": "Lucien Sampaix"
+  },
+  "IDFM:C02663": {
+    "start": "Gare Place",
+    "end": "Base Aérienne 217"
+  },
+  "IDFM:C02664": {
+    "start": "Mairie de Juilly",
+    "end": "Gare de Roissypole - Aéroport CDG1 Terminal 3 (C4)"
+  },
+  "IDFM:C02665": {
+    "start": "René Renault",
+    "end": "Touques"
+  },
+  "IDFM:C02667": {
+    "start": "Mairie - Ecole",
+    "end": "Fresque"
+  },
+  "IDFM:C02669": {
+    "start": "Saint-Laurent (Rue Brébion)",
+    "end": "Eglise de Gournay"
+  },
+  "IDFM:C02670": {
+    "start": "Fort du Bois",
+    "end": "Château"
+  },
+  "IDFM:C02671": {
+    "start": "Collège Le Luzard",
+    "end": "Saint-Laurent (Rue Brébion)"
+  },
+  "IDFM:C02672": {
+    "start": "Gare d'Emerainville Pontault-Combault",
+    "end": "Saint-Laurent (Rue Brébion)"
+  },
+  "IDFM:C02673": {
+    "start": "Infroit",
+    "end": "Intermarché"
+  },
+  "IDFM:C02674": {
+    "start": "Felix Millet",
+    "end": "Parc Haut Val-d'Oise 4"
+  },
+  "IDFM:C02675": {
+    "start": "Zola",
+    "end": "Daubigny"
+  },
+  "IDFM:C02676": {
+    "start": "Collège Stéphane Hessel",
+    "end": "Les Prés Longs"
+  },
+  "IDFM:C02679": {
+    "start": "Chessy Nord - Quai O",
+    "end": "Aéroport Paris Beauvais"
+  },
+  "IDFM:C02680": {
+    "start": "Collège Camille Saint Saëns",
+    "end": "Centre"
+  },
+  "IDFM:C02681": {
+    "start": "Gare de Lieusaint Moissy",
+    "end": "Adrienne Bolland"
+  },
+  "IDFM:C02683": {
+    "start": "Lycée Evariste Galois",
+    "end": "Mademoiselle Mars"
+  },
+  "IDFM:C02684": {
+    "start": "Lycée Evariste Galois",
+    "end": "Place Napoléon"
+  },
+  "IDFM:C02685": {
+    "start": "Lycée Evariste Galois",
+    "end": "Cité des Tilleuls"
+  },
+  "IDFM:C02632": {
+    "start": "Gare de Corbeil-Essonnes",
+    "end": "Gare de la Ferté-Alais"
+  },
+  "IDFM:C01719": {
+    "start": "Mauregard",
+    "end": "Fauvettes"
+  },
+  "IDFM:C01720": {
+    "start": "Mauregard",
+    "end": "Hameau de la Gatine"
+  },
+  "IDFM:C01721": {
+    "start": "Poste",
+    "end": "Gare d'Orsay Ville"
+  },
+  "IDFM:C01724": {
+    "start": "Gare SNCF Quai 5",
+    "end": "Gare de Montereau Quai 5"
+  },
+  "IDFM:C01725": {
+    "start": "Meigneux",
+    "end": "Collège Marie Curie"
+  },
+  "IDFM:C01726": {
+    "start": "Lycée Les Pannevelles",
+    "end": "Ville Haute Quai 5"
+  },
+  "IDFM:C01735": {
+    "start": "Parc Haut Val-d'Oise 4",
+    "end": "Rue de Boran"
+  },
+  "IDFM:C01751": {
+    "start": "Collège Korczak",
+    "end": "Hôpital Henri Mondor"
+  },
+  "IDFM:C01752": {
+    "start": "Collège Louise Weiss",
+    "end": "Les Joncs Marins"
+  },
+  "IDFM:C01753": {
+    "start": "Château du Jard",
+    "end": "Gare de Melun"
+  },
+  "IDFM:C01755": {
+    "start": "Parly 2 - Dutartre",
+    "end": "Gare de Chatou - Croissy"
+  },
+  "IDFM:C01756": {
+    "start": "Cimetière",
+    "end": "Gare de Pierrefitte - Stains RER"
+  },
+  "IDFM:C01757": {
+    "start": "Porte de Versailles",
+    "end": "Pasteur - Docteur Roux"
+  },
+  "IDFM:C02248": {
+    "start": "La Défense (Terminal Jules Verne)",
+    "end": "La Vallée française"
+  },
+  "IDFM:C01764": {
+    "start": "Rue Ampère",
+    "end": "Lycée Alexandre Denis"
+  },
+  "IDFM:C01765": {
+    "start": "Longue Raie",
+    "end": "Les Murs"
+  },
+  "IDFM:C01766": {
+    "start": "Gare d'Epinay-sur-Orge",
+    "end": "Henri Dunant"
+  },
+  "IDFM:C01772": {
+    "start": "Lycée Pierre Corneille",
+    "end": "Grande Promenade"
+  },
+  "IDFM:C01773": {
+    "start": "Gare Sud de Poissy (1B)",
+    "end": "Chapelle-Bois Fleuri"
+  },
+  "IDFM:C01775": {
+    "start": "Lycée Les Pierres Vives",
+    "end": "Martyrs"
+  },
+  "IDFM:C01776": {
+    "start": "Gare de Mitry-Claye",
+    "end": "Gare de Meaux (Quai B)"
+  },
+  "IDFM:C01777": {
+    "start": "Collège Langevin / Lycée Balzac",
+    "end": "Les Lilas"
+  },
+  "IDFM:C01779": {
+    "start": "Gare de Villeparisis Mitry-le-Neuf",
+    "end": "La Villette aux Aulnes"
+  },
+  "IDFM:C01780": {
+    "start": "Louis Duperrey",
+    "end": "Stade Mimoun"
+  },
+  "IDFM:C01784": {
+    "start": "Pépinière Newton",
+    "end": "Gare des Mureaux (A3)"
+  },
+  "IDFM:C01222": {
+    "start": "Hôpital",
+    "end": "Noisy-le-Grand - Mont d'Est RER"
+  },
+  "IDFM:C01223": {
+    "start": "Place de la Résistance",
+    "end": "Jean-Baptiste Clément"
+  },
+  "IDFM:C01224": {
+    "start": "Villiers-sur-Marne - Le Plessis-Trévise RER",
+    "end": "Château de Vincennes"
+  },
+  "IDFM:C01225": {
+    "start": "Rue de Chèvre",
+    "end": "Maison Rouge"
+  },
+  "IDFM:C01226": {
+    "start": "Noisy Champs RER Descartes",
+    "end": "Emerainville - Pontault-Combault RER"
+  },
+  "IDFM:C02486": {
+    "start": "Gare de Bouray",
+    "end": "Gare de Bouray"
+  },
+  "IDFM:C01227": {
+    "start": "Le Village",
+    "end": "Parmentier - Jules Ferry"
+  },
+  "IDFM:C02493": {
+    "start": "Atlantique",
+    "end": "Château d'Eau"
+  },
+  "IDFM:C01228": {
+    "start": "Neuilly-Plaisance RER",
+    "end": "Roger Salengro"
+  },
+  "IDFM:C01229": {
+    "start": "Gare d'Austerlitz",
+    "end": "Vincennes RER - République"
+  },
+  "IDFM:C01230": {
+    "start": "Robert Schuman",
+    "end": "Denfert-Rochereau - Métro-RER"
+  },
+  "IDFM:C01231": {
+    "start": "René Arcos",
+    "end": "Port à l'Anglais"
+  },
+  "IDFM:C01232": {
+    "start": "Les Bondrolles",
+    "end": "Bry-sur-Marne RER"
+  },
+  "IDFM:C01233": {
+    "start": "Gallieni",
+    "end": "Pointe de Gournay"
+  },
+  "IDFM:C01234": {
+    "start": "Fort d'Aubervilliers",
+    "end": "François Villon"
+  },
+  "IDFM:C01235": {
+    "start": "Europe",
+    "end": "Gabriel Péri - Henri Barbusse"
+  },
+  "IDFM:C01236": {
+    "start": "Gare d'Epinay-sur-Seine",
+    "end": "Porte de Saint-Ouen - Hôpital Bichat"
+  },
+  "IDFM:C01237": {
+    "start": "Pompidou / Pont de Levallois",
+    "end": "Gare de Saint-Gratien"
+  },
+  "IDFM:C01238": {
+    "start": "Rosa Parks - Curial",
+    "end": "Porte de Paris - Stade de France"
+  },
+  "IDFM:C01239": {
+    "start": "Rueil-Malmaison RER",
+    "end": "Porte d'Auteuil - Métro"
+  },
+  "IDFM:C01240": {
+    "start": "Les Martinets",
+    "end": "Porte Maillot - Métro - RER"
+  },
+  "IDFM:C01241": {
+    "start": "Porte des Lilas",
+    "end": "Place Valérie André"
+  },
+  "IDFM:C01242": {
+    "start": "Fontaine Cypierre",
+    "end": "Balzac"
+  },
+  "IDFM:C01243": {
+    "start": "Aulnay-sous-Bois RER",
+    "end": "Les Vignes"
+  },
+  "IDFM:C01244": {
+    "start": "Porte de la Chapelle",
+    "end": "Jean Baptiste Corot - Lamartine"
+  },
+  "IDFM:C01245": {
+    "start": "La Cerisaie",
+    "end": "Denfert-Rochereau"
+  },
+  "IDFM:C02307": {
+    "start": "Rue de Seine",
+    "end": "Félix Eboué"
+  },
+  "IDFM:C01246": {
+    "start": "Les Prévoyants",
+    "end": "Porte de Clignancourt"
+  },
+  "IDFM:C01117": {
+    "start": "Châtelet",
+    "end": "Saint-Ouen - Les Docks"
+  },
+  "IDFM:C01118": {
+    "start": "Champ de Mars",
+    "end": "Demi Lune - Parc Zoologique"
+  },
+  "IDFM:C01119": {
+    "start": "Invalides",
+    "end": "Porte de Reuilly"
+  },
+  "IDFM:C01120": {
+    "start": "Porte d'Auteuil",
+    "end": "Jourdan - Montsouris"
+  },
+  "IDFM:C01121": {
+    "start": "Square de l'Insurrection",
+    "end": "Porte de France"
+  },
+  "IDFM:C01122": {
+    "start": "Gare du Nord",
+    "end": "Place de Catalogne"
+  },
+  "IDFM:C01123": {
+    "start": "Square Sainte-Odile",
+    "end": "Porte d'Orléans"
+  },
+  "IDFM:C01124": {
+    "start": "Suresnes de Gaulle",
+    "end": "Saint-Augustin"
+  },
+  "IDFM:C01125": {
+    "start": "Pont de Levallois - Bécon Métro",
+    "end": "Gare Montparnasse"
+  },
+  "IDFM:C01126": {
+    "start": "Gérard de Nerval",
+    "end": "Adolphe Pinard"
+  },
+  "IDFM:C01127": {
+    "start": "Gare Montparnasse",
+    "end": "Porte des Lilas - Métro"
+  },
+  "IDFM:C01130": {
+    "start": "Camping International",
+    "end": "Joinville-le-Pont RER"
+  },
+  "IDFM:C01131": {
+    "start": "Chemin de Bondy",
+    "end": "Gambetta - Mairie du 20e"
+  },
+  "IDFM:C01132": {
+    "start": "Georges Halgoult",
+    "end": "Ecole Vétérinaire de Maisons-Alfort"
+  },
+  "IDFM:C02503": {
+    "start": "Collège André Derain",
+    "end": "Les Meuniers"
+  },
+  "IDFM:C02504": {
+    "start": "Gare de Villeneuve-Saint-Georges",
+    "end": "Salvador Allende"
+  },
+  "IDFM:C01133": {
+    "start": "Ecole Vétérinaire de Maisons-Alfort",
+    "end": "Portes de Sucy"
+  },
+  "IDFM:C01134": {
+    "start": "Mairie",
+    "end": "Porte des Lilas"
+  },
+  "IDFM:C02523": {
+    "start": "Gare d'Ozoir-la-Ferrière",
+    "end": "Gare d'Ozoir-la-Ferrière"
+  },
+  "IDFM:C02525": {
+    "start": "Orly Val 1, 2,3",
+    "end": "Gare d'Antony"
+  },
+  "IDFM:C01135": {
+    "start": "Joinville-le-Pont RER",
+    "end": "Villiers-sur-Marne - Le Plessis-Trévise RER"
+  },
+  "IDFM:C01136": {
+    "start": "École Vétérinaire de Maisons-Alfort-Métro",
+    "end": "Adamville"
+  },
+  "IDFM:C02540": {
+    "start": "Gare de Conflans Fin d'Oise - Quai A2",
+    "end": "Grand Choisy"
+  },
+  "IDFM:C01137": {
+    "start": "Jeanne Vacher",
+    "end": "Joinville-le-Pont RER"
+  },
+  "IDFM:C01138": {
+    "start": "Liberté",
+    "end": "Terroirs de France"
+  },
+  "IDFM:C01139": {
+    "start": "Villiers-sur-Marne - Le Plessis-Trévise RER",
+    "end": "Joinville-le-Pont RER"
+  },
+  "IDFM:C01140": {
+    "start": "Terroirs de France",
+    "end": "Eglise de La Varenne"
+  },
+  "IDFM:C01141": {
+    "start": "Château de Vincennes",
+    "end": "La Varenne - Chennevières RER"
+  },
+  "IDFM:C01142": {
+    "start": "Terre Ciel",
+    "end": "Nogent-sur-Marne RER"
+  },
+  "IDFM:C01143": {
+    "start": "Allée de la Tour",
+    "end": "Château de Vincennes"
+  },
+  "IDFM:C01053": {
+    "start": "Ormeaux Ecole",
+    "end": "Gare de Marles-en-Brie"
+  },
+  "IDFM:C01057": {
+    "start": "Chessy Sud - Quai A (dépose)",
+    "end": "Place"
+  },
+  "IDFM:C01058": {
+    "start": "Lycée La Tour des Dames",
+    "end": "Le Charnoy"
+  },
+  "IDFM:C01059": {
+    "start": "Les Pleux",
+    "end": "Gare de La Ferté-sous-Jouarre (Quai I)"
+  },
+  "IDFM:C01060": {
+    "start": "Gare de La Ferté-sous-Jouarre (Quai I)",
+    "end": "Gare de Coulommiers"
+  },
+  "IDFM:C01062": {
+    "start": "Gare de Melun - Place de l'Ermitage",
+    "end": "Covoiturage"
+  },
+  "IDFM:C01063": {
+    "start": "Chessy Sud - Quai D",
+    "end": "La Halle"
+  },
+  "IDFM:C01071": {
+    "start": "Saint-Maur - Créteil RER",
+    "end": "La Croix de Berny RER"
+  },
+  "IDFM:C01072": {
+    "start": "Porte des Lilas",
+    "end": "Louison Bobet"
+  },
+  "IDFM:C01073": {
+    "start": "Porte de Saint-Ouen - Hôpital Bichat",
+    "end": "Stade Charléty - Porte de Gentilly"
+  },
+  "IDFM:C01074": {
+    "start": "Porte de Saint-Cloud",
+    "end": "Gare Saint-Lazare"
+  },
+  "IDFM:C01075": {
+    "start": "Ecole Vétérinaire de Maisons-Alfort - Métro",
+    "end": "Luxembourg"
+  },
+  "IDFM:C01076": {
+    "start": "Cours de Vincennes",
+    "end": "Gare Saint-Lazare"
+  },
+  "IDFM:C01077": {
+    "start": "Gare Saint-Lazare",
+    "end": "Porte de Vitry"
+  },
+  "IDFM:C01078": {
+    "start": "Porte de Clichy",
+    "end": "Gare Montparnasse"
+  },
+  "IDFM:C01079": {
+    "start": "Porte de Montempoivre",
+    "end": "Gare Saint-Lazare"
+  },
+  "IDFM:C01080": {
+    "start": "Hôpital Européen Georges Pompidou",
+    "end": "Pigalle"
+  },
+  "IDFM:C01081": {
+    "start": "Charles de Gaulle - Etoile - Wagram",
+    "end": "Gare de l'Est"
+  },
+  "IDFM:C01082": {
+    "start": "Porte d'Auteuil",
+    "end": "Gare de l'Est"
+  },
+  "IDFM:C01083": {
+    "start": "Porte d'Orléans",
+    "end": "Porte de la Chapelle"
+  },
+  "IDFM:C01084": {
+    "start": "Frères Voisin",
+    "end": "Gare du Nord"
+  },
+  "IDFM:C01085": {
+    "start": "Cours de l'Ile Seguin",
+    "end": "Gare Saint-Lazare"
+  },
+  "IDFM:C01086": {
+    "start": "Gare du Nord",
+    "end": "Hippodrome de Longchamp"
+  },
+  "IDFM:C01087": {
+    "start": "Parc Floral",
+    "end": "Gare de l'Est"
+  },
+  "IDFM:C01088": {
+    "start": "Châtelet",
+    "end": "Lycée Darius Milhaud - Benoit Malon"
+  },
+  "IDFM:C01144": {
+    "start": "Château de Vincennes",
+    "end": "Porte des Lilas"
+  },
+  "IDFM:C01145": {
+    "start": "Montreuil-Boissière-Acacia",
+    "end": "Champigny - Saint-Maur RER"
+  },
+  "IDFM:C01546": {
+    "start": "Orly 1-2-3",
+    "end": "Santa Fé"
+  },
+  "IDFM:C01146": {
+    "start": "Champigny - Saint-Maur RER",
+    "end": "La Source"
+  },
+  "IDFM:C01147": {
+    "start": "Avenue du Château",
+    "end": "Gare de Val de Fontenay"
+  },
+  "IDFM:C01148": {
+    "start": "Abbaye Cimetière",
+    "end": "Bourgogne"
+  },
+  "IDFM:C01149": {
+    "start": "Noisy-le-Grand - Mont d'Est RER",
+    "end": "Nogent-sur-Marne RER"
+  },
+  "IDFM:C01150": {
+    "start": "Avenue Lucie",
+    "end": "Mairie de Montreuil"
+  },
+  "IDFM:C01151": {
+    "start": "Val-de-Fontenay RER",
+    "end": "Mairie"
+  },
+  "IDFM:C01152": {
+    "start": "Mairie d'Issy",
+    "end": "Hôpital Ambroise Paré"
+  },
+  "IDFM:C01153": {
+    "start": "Avenue du Château",
+    "end": "Van Derheyden"
+  },
+  "IDFM:C01154": {
+    "start": "Ecole Vétérinaire de Maisons-Alfort",
+    "end": "Porte d'Orléans"
+  },
+  "IDFM:C01155": {
+    "start": "Gabrielle De Guerchy",
+    "end": "Parc de Saint-Cloud"
+  },
+  "IDFM:C01156": {
+    "start": "Croix de Chavaux - Métro",
+    "end": "Charles de Gaulle"
+  },
+  "IDFM:C01157": {
+    "start": "Cimetière",
+    "end": "Porte d'Orléans"
+  },
+  "IDFM:C01158": {
+    "start": "Romainville - Vassou",
+    "end": "Mairie de Montreuil"
+  },
+  "IDFM:C01159": {
+    "start": "Rungis - La Fraternelle Rer",
+    "end": "Porte d'Italie - Métro"
+  },
+  "IDFM:C01160": {
+    "start": "Bibliothèque Chevaleret / François Mittérand",
+    "end": "Moulin Vert"
+  },
+  "IDFM:C01161": {
+    "start": "Bois d'Ecouen",
+    "end": "Le Bourget RER"
+  },
+  "IDFM:C01163": {
+    "start": "Zone Industrielle Nord",
+    "end": "Poissonniers - Cocteau"
+  },
+  "IDFM:C01164": {
+    "start": "Saint-Ouen RER",
+    "end": "Gare d'Ermont-Eaubonne"
+  },
+  "IDFM:C01165": {
+    "start": "Porte de la Villette",
+    "end": "Rue Ampère"
+  },
+  "IDFM:C01166": {
+    "start": "Mairie de Saint-Ouen - Dhalenne",
+    "end": "Hôtel de Ville"
+  },
+  "IDFM:C01167": {
+    "start": "La Défense (Calder - Miro)",
+    "end": "Centre Madeleine Daniélou"
+  },
+  "IDFM:C01168": {
+    "start": "Rosny-sous-Bois RER",
+    "end": "Langevin - Wallon"
+  },
+  "IDFM:C01169": {
+    "start": "Rueil-Malmaison RER",
+    "end": "La Défense (Calder - Miro)"
+  },
+  "IDFM:C01333": {
+    "start": "Abeille",
+    "end": "Chapelle - Caillié"
+  },
+  "IDFM:C01334": {
+    "start": "Clémenceau",
+    "end": "Les Boullereaux"
+  },
+  "IDFM:C01336": {
+    "start": "De Gaulle / Vanne",
+    "end": "Châtillon-Montrouge-Métro"
+  },
+  "IDFM:C01337": {
+    "start": "Saint-Denis Rousseau",
+    "end": "Gosset - Poissonniers"
+  },
+  "IDFM:C01338": {
+    "start": "Cimetière Nouveau",
+    "end": "Ecole des Sports"
+  },
+  "IDFM:C01340": {
+    "start": "Salengro - Cimetière Voltaire",
+    "end": "Emmanuel Kant"
+  },
+  "IDFM:C01342": {
+    "start": "Philosophie",
+    "end": "Jouhaux Blum"
+  },
+  "IDFM:C01345": {
+    "start": "Garches",
+    "end": "Gabriel Péri"
+  },
+  "IDFM:C01347": {
+    "start": "Vache Noire",
+    "end": "Quatre Chemins - Pauline Kergomard"
+  },
+  "IDFM:C01349": {
+    "start": "Les Pince-Vins",
+    "end": "Eglise"
+  },
+  "IDFM:C01350": {
+    "start": "Eglise de Buzenval",
+    "end": "Mairie"
+  },
+  "IDFM:C01351": {
+    "start": "Rue de La Station",
+    "end": "Rue de L'industrie"
+  },
+  "IDFM:C01352": {
+    "start": "Petite Fontaine",
+    "end": "Tour"
+  },
+  "IDFM:C01353": {
+    "start": "Traversière",
+    "end": "Hôpital Ambroise Paré"
+  },
+  "IDFM:C01354": {
+    "start": "Victor Hugo - Sanzillon",
+    "end": "Quai de Clichy"
+  },
+  "IDFM:C01247": {
+    "start": "Gare d'Enghien-les-Bains",
+    "end": "Saint-Denis - Université"
+  },
+  "IDFM:C01248": {
+    "start": "La Défense (Calder - Miro)",
+    "end": "Jonchère"
+  },
+  "IDFM:C01249": {
+    "start": "Bongarde",
+    "end": "Gare de Franconville"
+  },
+  "IDFM:C01250": {
+    "start": "Pont de Bezons",
+    "end": "Gare de Maisons-Laffitte RER"
+  },
+  "IDFM:C01251": {
+    "start": "Saint-Denis - Université",
+    "end": "Puits La Marlière"
+  },
+  "IDFM:C01252": {
+    "start": "Garges - Sarcelles RER",
+    "end": "Mairie / Hôtel de Ville"
+  },
+  "IDFM:C01253": {
+    "start": "La Cerisaie",
+    "end": "La Cerisaie"
+  },
+  "IDFM:C01254": {
+    "start": "Gare d'Argenteuil",
+    "end": "Gare de Sartrouville - RER"
+  },
+  "IDFM:C01255": {
+    "start": "Porte des Ternes - Anny Flore",
+    "end": "Gare de Saint-Denis"
+  },
+  "IDFM:C01256": {
+    "start": "Pont de Levallois - Bécon Métro",
+    "end": "La Défense (voie Perronet Nord)"
+  },
+  "IDFM:C01257": {
+    "start": "Port de Gennevilliers - Centre de Vie",
+    "end": "17 octobre 1961"
+  },
+  "IDFM:C01258": {
+    "start": "La Défense (voie Perronet Sud)",
+    "end": "Les Bruyères"
+  },
+  "IDFM:C01260": {
+    "start": "Europarc",
+    "end": "Joinville-le-Pont RER"
+  },
+  "IDFM:C01261": {
+    "start": "Denfert-Rochereau - Métro-RER",
+    "end": "Aéroport Orly 4"
+  },
+  "IDFM:C01262": {
+    "start": "Porte de l'Essonne",
+    "end": "Piver"
+  },
+  "IDFM:C01263": {
+    "start": "Pont d'Antony",
+    "end": "Villejuif - Louis Aragon"
+  },
+  "IDFM:C01264": {
+    "start": "Porte de Saint-Cloud - Métro",
+    "end": "Le Lac"
+  },
+  "IDFM:C01265": {
+    "start": "Gallieni - Camille Desmoulins",
+    "end": "La Boursidière"
+  },
+  "IDFM:C01266": {
+    "start": "Pont de Sèvres",
+    "end": "La Cheminée"
+  },
+  "IDFM:C01267": {
+    "start": "Porte de l'Essonne",
+    "end": "Savigny-sur-Orge - Carnot - RER"
+  },
+  "IDFM:C01268": {
+    "start": "Bellevue - Kennedy",
+    "end": "Pierre Semard - Châtillon Montrouge"
+  },
+  "IDFM:C01270": {
+    "start": "Les Côteaux / Pasteur",
+    "end": "Antony RER"
+  },
+  "IDFM:C01271": {
+    "start": "Porte d'Orléans - Ernest Reyer",
+    "end": "L'Avenir"
+  },
+  "IDFM:C01272": {
+    "start": "Val de Fontenay RER",
+    "end": "Conservatoire Jean Wiener / Libération"
+  },
+  "IDFM:C01273": {
+    "start": "Six Routes - Tramway",
+    "end": "Gare du Nord"
+  },
+  "IDFM:C01727": {
+    "start": "Saint-Martin d'Étampes",
+    "end": "Pontoise"
+  },
+  "IDFM:C01728": {
+    "start": "Malesherbes",
+    "end": "Creil"
+  },
+  "IDFM:C01729": {
+    "start": "Nanterre-La-Folie",
+    "end": "Tournan"
+  },
+  "IDFM:C01742": {
+    "start": "Marne-la-Vallée Chessy",
+    "end": "Cergy le Haut"
+  },
+  "IDFM:C01743": {
+    "start": "Mitry - Claye",
+    "end": "Saint-Rémy-lès-Chevreuse"
+  },
+  "IDFM:C02073": {
+    "start": "Collège George Sand",
+    "end": "Lavoir"
+  },
+  "IDFM:C01327": {
+    "start": "Cimetière",
+    "end": "Gare de Juvisy RER"
+  },
+  "IDFM:C01564": {
+    "start": "Gare Massy Palaiseau",
+    "end": "Hôpital"
+  },
+  "IDFM:C02233": {
+    "start": "Mairie",
+    "end": "Jean Rose"
+  },
+  "IDFM:C01959": {
+    "start": "Cité Scolaire",
+    "end": "Centre Grez"
+  },
+  "IDFM:C02171": {
+    "start": "Europe",
+    "end": "Collège Apollinaire"
+  },
+  "IDFM:C02173": {
+    "start": "Collège La Clef Saint-Pierre",
+    "end": "La Chaîne"
+  },
+  "IDFM:C01746": {
+    "start": "Beauvais",
+    "end": "Gare du Nord"
+  },
+  "IDFM:C01385": {
+    "start": "Funiculaire Gare basse",
+    "end": "Funiculaire Gare haute"
+  },
+  "IDFM:C02716": {
+    "start": "La Défense (Terminal Jules Verne)",
+    "end": "Gare de Bréval"
+  },
+  "IDFM:C01763": {
+    "start": "Lavoir",
+    "end": "Centre Commercial Maison Neuve"
+  },
+  "IDFM:C01792": {
+    "start": "Terminal 2 G",
+    "end": "Terminal 2E"
+  },
+  "IDFM:C00740": {
+    "start": "Gare Routière Mantes-la-Ville - Quai 30",
+    "end": "République"
+  },
+  "IDFM:C00530": {
+    "start": "Gare de Saint-Rémy-lès-Chevreuse",
+    "end": "Hôtel de Ville"
+  },
+  "IDFM:C00496": {
+    "start": "Les Carrières",
+    "end": "Gare de Saint-Rémy-lès-Chevreuse"
+  },
+  "IDFM:C01012": {
+    "start": "Gare de Malesherbes",
+    "end": "Gare de Fontainebleau, Avon (Quai 7)"
+  },
+  "IDFM:C01046": {
+    "start": "Lycée la Bretonnière",
+    "end": "Gambetta"
+  },
+  "IDFM:C00963": {
+    "start": "Volumier",
+    "end": "Gare de Breuillet Village"
+  },
+  "IDFM:C00965": {
+    "start": "Église",
+    "end": "Gare de Saint-Chéron"
+  },
+  "IDFM:C00989": {
+    "start": "Collège La Tuilerie",
+    "end": "Mairie"
+  },
+  "IDFM:C00990": {
+    "start": "Lycée Doisneau",
+    "end": "Giono"
+  },
+  "IDFM:C00930": {
+    "start": "Collège Camille Saint Saëns",
+    "end": "Mairie"
+  },
+  "IDFM:C01300": {
+    "start": "Terminal 2F",
+    "end": "Opéra"
+  },
+  "IDFM:C00619": {
+    "start": "Collège Moulin à Vent",
+    "end": "Chapelle"
+  },
+  "IDFM:C00639": {
+    "start": "Gare Aéroport CDG1 - Roissypôle",
+    "end": "Torcy RER"
+  },
+  "IDFM:C00902": {
+    "start": "Collège George Sand",
+    "end": "Gare de Meaux (Dépose)"
+  },
+  "IDFM:C00467": {
+    "start": "Gare de Cernay",
+    "end": "La Tour"
+  },
+  "IDFM:C02678": {
+    "start": "Aéroport Paris Beauvais",
+    "end": "La Défense (Terminal Jules Verne)"
+  },
+  "IDFM:C02505": {
+    "start": "CEC",
+    "end": "Gare de Yerres"
+  },
+  "IDFM:C02508": {
+    "start": "Nérac",
+    "end": "Gare de Boussy Saint-Antoine"
+  },
+  "IDFM:C02220": {
+    "start": "Mennecy",
+    "end": "Mennecy Gare SNCF"
+  },
+  "IDFM:C02453": {
+    "start": "Champ de Course",
+    "end": "Jubé de la Pérelle"
+  },
+  "IDFM:C02677": {
+    "start": "Aéroport Paris Beauvais",
+    "end": "Saint Denis Université"
+  },
+  "IDFM:C02682": {
+    "start": "Collège Maurois",
+    "end": "Brinvilliers"
+  },
+  "IDFM:C02506": {
+    "start": "Gare de Yerres",
+    "end": "Germaine"
+  },
+  "IDFM:C02507": {
+    "start": "Portalis",
+    "end": "Gare de Brunoy"
+  },
+  "IDFM:C01508": {
+    "start": "Quartier de Lattre",
+    "end": "Gare SNCF Quai 3"
+  }
+}

@@ -4,9 +4,9 @@ import { Button } from "../components/ui/button"
 import { Card, CardContent } from "../components/ui/card"
 import { ScrollArea } from "../components/ui/scroll-area"
 import arretsLignes from '../data/arrets-lignes.json'
-import referentielLignes from '../data/referentiel-des-lignes.json'
 import { FavoriteStop, Stop } from '../types'
 import { calculateDistance } from '../utils/geoUtils'
+import { getLinePicto } from '../utils/lines'
 
 interface FavoriteStopsListProps {
   stops: FavoriteStop[]
@@ -54,12 +54,6 @@ const getRouteDescription = (stop: FavoriteStop) => {
   return null;
 };
 
-const getLinePicto = (lineId: string) => {
-  const id = lineId.split(':')[1];
-  const lineData = referentielLignes.find(line => line.id_line === id);
-  return lineData?.picto?.url;
-};
-
 export function FavoriteStopsList({ stops, onSelectStop, onRemoveStop, onSwitchTab }: FavoriteStopsListProps) {
   const handleSelectStop = (stop: FavoriteStop) => {
     onSelectStop(stop);
@@ -70,7 +64,7 @@ export function FavoriteStopsList({ stops, onSelectStop, onRemoveStop, onSwitchT
     <Card>
       <CardContent className="p-6">
         <h2 className="mb-4 text-2xl font-semibold">Mes arrêts favoris</h2>
-        <ScrollArea className="pr-4">
+        <ScrollArea className="h-[500px] pr-4">
           <ul className="space-y-4">
             {stops.map((stop) => {
               const routeDescription = getRouteDescription(stop);

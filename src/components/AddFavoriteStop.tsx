@@ -17,10 +17,16 @@ import {
   PopoverTrigger,
 } from "../components/ui/popover"
 import arretsLignes from '../data/arrets-lignes.json'
-import referentielLignes from '../data/referentiel-des-lignes.json'
+import terminus from '../data/terminus.json'
 import { cn } from "../lib/utils"
 import { FavoriteStop, Line, Stop, TransportMode } from '../types'
-import { calculateDistance } from '../utils/geoUtils'
+import { getLinePicto } from '../utils/lines'
+
+type TerminusType = {
+  [key: string]: { start: string; end: string; }
+};
+
+const typedTerminus = terminus as TerminusType;
 
 const transportModes: TransportMode[] = ['Metro', 'Bus', 'RapidTransit', 'regionalRail', 'LocalTrain', 'Tramway'];
 
@@ -43,10 +49,6 @@ const modeIcons: Record<TransportMode, React.ReactNode> = {
 };
 
 const typedArretsLignes = arretsLignes as Stop[]
-
-const extractLineId = (fullId: string) => {
-  return fullId.split(':')[1];
-}
 
 export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void }) {
   const [transportMode, setTransportMode] = useState<TransportMode | ''>('')
@@ -93,45 +95,10 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
     return Array.from(uniqueStops.values());
   }, [transportMode, line]);
 
-  const getRouteDescription = (line: Line) => {
-    const stops = typedArretsLignes.filter(s => s.id === line.id);
-    if (stops.length > 1) {
-      let maxDistance = 0;
-      let station1 = stops[0];
-      let station2 = stops[0];
-
-      for (let i = 0; i < stops.length; i++) {
-        for (let j = i + 1; j < stops.length; j++) {
-          const distance = calculateDistance(
-            parseFloat(stops[i].stop_lat),
-            parseFloat(stops[i].stop_lon),
-            parseFloat(stops[j].stop_lat),
-            parseFloat(stops[j].stop_lon)
-          );
-          if (distance > maxDistance) {
-            maxDistance = distance;
-            station1 = stops[i];
-            station2 = stops[j];
-          }
-        }
-      }
-
-      return { start: station1.stop_name, end: station2.stop_name };
-    }
-    return null;
-  };
-
   const selectedLineTermini = useMemo(() => {
     if (!line) return null;
-    const selectedLine = lines.find(l => l.id === line);
-    return selectedLine ? getRouteDescription(selectedLine) : null;
-  }, [line, lines]);
-
-  const getLinePicto = (lineId: string) => {
-    const id = extractLineId(lineId);
-    const lineData = referentielLignes.find(line => line.id_line === id);
-    return lineData?.picto?.url;
-  }
+    return typedTerminus[line] || null;
+  }, [line]);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
@@ -152,8 +119,8 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
       </CardHeader>
       <CardContent>
         <form onSubmit={handleSubmit} className="space-y-2">
-          <div className="flex items-center justify-between gap-4">
-            <Label htmlFor="transport-mode" className="min-w-32">Mode de transport</Label>
+          <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
+            <Label htmlFor="transport-mode" className="sm:min-w-32">Mode de transport</Label>
             <Popover open={modeOpen} onOpenChange={setModeOpen}>
               <PopoverTrigger asChild>
                 <Button
@@ -209,8 +176,8 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
           </div>
 
           {transportMode && (
-            <div className="flex items-center justify-between gap-4">
-              <Label htmlFor="line" className="min-w-32">Ligne</Label>
+            <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
+              <Label htmlFor="line" className="sm:min-w-32">Ligne</Label>
               <Popover open={lineOpen} onOpenChange={setLineOpen}>
                 <PopoverTrigger asChild>
                   <Button
@@ -226,10 +193,10 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
                           <img
                             src={getLinePicto(line)}
                             alt={lines.find(l => l.id === line)?.shortname}
-                            className="h-6 w-6 mr-2"
+                            className="w-6 h-6 mr-2"
                           />
                         ) : (
-                          <span className="px-2 py-1 rounded bg-primary text-primary-foreground mr-2">
+                          <span className="px-2 py-1 mr-2 rounded bg-primary text-primary-foreground">
                             {lines.find(l => l.id === line)?.shortname}
                           </span>
                         )}
@@ -245,7 +212,6 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
                       <CommandEmpty>Aucune ligne trouvée.</CommandEmpty>
                       <CommandGroup>
                         {lines.map((l) => {
-                          const routeDescription = getRouteDescription(l);
                           return (
                             <CommandItem
                               key={l.id}
@@ -260,16 +226,16 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
                                   <img
                                     src={getLinePicto(l.id)}
                                     alt={l.shortname}
-                                    className="h-6 w-6 mr-2"
+                                    className="w-6 h-6 mr-2"
                                   />
                                 ) : (
                                   <span className="px-2 py-1 rounded bg-primary text-primary-foreground">
                                     {l.shortname}
                                   </span>
                                 )}
-                                {routeDescription && (
-                                  <span className="ml-2 text-sm text-muted-foreground">
-                                    {routeDescription.start} - {routeDescription.end}
+                                {selectedLineTermini && (
+                                  <span className="ml-2 text-sm hover:text-primary-foreground">
+                                    {selectedLineTermini.start} - {selectedLineTermini.end}
                                   </span>
                                 )}
                               </div>
@@ -291,8 +257,8 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
           )}
 
           {transportMode && line && (
-            <div className="flex items-center justify-between gap-4">
-              <Label htmlFor="stop" className="min-w-32">Arrêt</Label>
+            <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
+              <Label htmlFor="stop" className="sm:min-w-32">Arrêt</Label>
               <Popover open={stopOpen} onOpenChange={setStopOpen}>
                 <PopoverTrigger asChild>
                   <Button
@@ -339,8 +305,8 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
           )}
 
           {selectedLineTermini && (
-            <div className="flex items-center justify-between gap-4">
-              <Label htmlFor="direction" className="min-w-32">Direction</Label>
+            <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
+              <Label htmlFor="direction" className="sm:min-w-32">Direction</Label>
               <Popover open={directionOpen} onOpenChange={setDirectionOpen}>
                 <PopoverTrigger asChild>
                   <Button

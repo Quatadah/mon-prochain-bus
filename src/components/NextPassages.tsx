@@ -2,6 +2,7 @@ import { AlertTriangle, Clock } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { FavoriteStop } from '../types';
 import { getNextPassages } from '../utils/api';
+import { getLinePicto } from '../utils/lines';
 import { Button } from './ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
 import { ScrollArea } from "./ui/scroll-area";
@@ -100,7 +101,7 @@ export function NextPassages({ stop }: { stop: FavoriteStop }) {
           </div>
         ) : (
           <>
-            <ScrollArea className="h-[300px] pr-4">
+            <ScrollArea className="h-[500px] pr-4">
               <ul className="space-y-4">
                 {displayedPassages.length === 0 && (
                   <li className="flex items-center justify-center p-4 rounded-lg bg-muted">
@@ -110,8 +111,16 @@ export function NextPassages({ stop }: { stop: FavoriteStop }) {
                 {displayedPassages.map((passage, index) => (
                   <li key={index} className="flex items-center justify-between p-4 rounded-lg bg-muted">
                     <div className="flex items-center space-x-4">
-                      <div className="flex items-center justify-center flex-shrink-0 w-10 h-10 rounded-full bg-primary">
-                        <span className="font-bold text-primary-foreground">{stop.shortname}</span>
+                      <div className="flex items-center justify-center flex-shrink-0">
+                        {getLinePicto(stop.id) ? (
+                          <img
+                            src={getLinePicto(stop.id)}
+                            alt={stop.shortname}
+                            className="w-6 h-6"
+                          />
+                        ) : (
+                          <span className="font-bold text-primary-foreground">{stop.shortname}</span>
+                        )}
                       </div>
                       <div>
                         <p className="font-semibold">{passage.destinationName}</p>

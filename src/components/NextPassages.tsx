@@ -95,8 +95,8 @@ export function NextPassages({ stop }: { stop: FavoriteStop }) {
   };
 
   const getArrivalStatus = (minutes: number) => {
-    if (minutes <= 5) return "text-destructive";
-    if (minutes <= 10) return "text-warning";
+    if (minutes <= 6) return "text-red-700 dark:text-red-400";
+    if (minutes <= 10) return "text-yellow-700 dark:text-yellow-400";
     return "text-success";
   };
 
@@ -195,7 +195,7 @@ export function NextPassages({ stop }: { stop: FavoriteStop }) {
                         </p>
                       </div>
                     </div>
-                    <div className="flex items-center space-x-2 text-xs">
+                    <div className="flex items-center justify-center space-x-1 text-xs">
                       <div className="relative">
                         <Clock className="w-4 h-4" />
                         <span className="absolute inset-0 rounded-full animate-ping bg-primary/30"></span>

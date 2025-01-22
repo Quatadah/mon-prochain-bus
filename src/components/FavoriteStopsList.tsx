@@ -82,7 +82,7 @@ function FavoriteStopItem({ stop, onSelectStop, onRemoveStop }: FavoriteStopItem
                   className="w-6 h-6"
                 />
               ) : (
-                stop.shortname
+                <span className="px-2 bg-sky-400 font-bold rounded">{stop.shortname}</span>
               )}
               <span className="text-lg font-medium">{stop.stop_name}</span>
             </div>

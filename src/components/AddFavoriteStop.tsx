@@ -115,193 +115,64 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
   }
 
   return (
-    <Card>
-      <CardHeader>
-        <CardTitle>Ajouter un arrêt favori</CardTitle>
+    <Card className="glass-card border-none shadow-xl overflow-hidden">
+      <CardHeader className="bg-muted/30 border-b border-border/50 pb-6">
+        <CardTitle className="text-2xl font-bold tracking-tight">Ajouter un favori</CardTitle>
+        <p className="text-sm text-muted-foreground mt-2 max-w-sm leading-relaxed">
+          Configurez votre nouvel arrêt en sélectionnant les informations ci-dessous.
+        </p>
       </CardHeader>
-      <CardContent>
-        <form onSubmit={handleSubmit} className="space-y-2">
-          <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
-            <Label htmlFor="transport-mode" className="sm:min-w-32">Mode de transport</Label>
-            <Popover open={modeOpen} onOpenChange={setModeOpen}>
-              <PopoverTrigger asChild>
-                <Button
-                  id="transport-mode"
-                  variant="outline"
-                  role="combobox"
-                  aria-expanded={modeOpen}
-                  className="justify-between w-full"
-                >
-                  {transportMode ? (
-                    <>
-                      {modeIcons[transportMode as TransportMode]}
-                      {modeMapping[transportMode as TransportMode]}
-                    </>
-                  ) : (
-                    "Sélectionnez un mode de transport"
-                  )}
-                  <ChevronsUpDown className="w-4 h-4 ml-2 opacity-50 shrink-0" />
-                </Button>
-              </PopoverTrigger>
-              <PopoverContent className="w-full p-0">
-                <Command>
-                  <CommandInput placeholder="Rechercher un mode..." className="h-9" />
-                  <CommandList>
-                    <CommandEmpty>Aucun mode trouvé.</CommandEmpty>
-                    <CommandGroup>
-                      {transportModes.map((mode) => (
-                        <CommandItem
-                          key={mode}
-                          value={modeMapping[mode]}
-                          onSelect={() => {
-                            setTransportMode(mode as TransportMode)
-                            setModeOpen(false)
-                          }}
-                        >
-                          <div className="flex items-center">
-                            {modeIcons[mode as TransportMode]}
-                            {modeMapping[mode]}
-                          </div>
-                          <Check
-                            className={cn(
-                              "ml-auto h-4 w-4",
-                              transportMode === mode ? "opacity-100" : "opacity-0"
-                            )}
-                          />
-                        </CommandItem>
-                      ))}
-                    </CommandGroup>
-                  </CommandList>
-                </Command>
-              </PopoverContent>
-            </Popover>
-          </div>
-
-          {transportMode && (
-            <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
-              <Label htmlFor="line" className="sm:min-w-32">Ligne</Label>
-              <Popover open={lineOpen} onOpenChange={setLineOpen}>
+      <CardContent className="p-6">
+        <form onSubmit={handleSubmit} className="space-y-6">
+          <div className="space-y-4">
+            <div className="flex flex-col gap-2">
+              <Label htmlFor="transport-mode" className="text-sm font-medium text-foreground/80">
+                Mode de transport
+              </Label>
+              <Popover open={modeOpen} onOpenChange={setModeOpen}>
                 <PopoverTrigger asChild>
                   <Button
-                    id="line"
+                    id="transport-mode"
                     variant="outline"
                     role="combobox"
-                    aria-expanded={lineOpen}
-                    className="justify-between w-full"
+                    aria-expanded={modeOpen}
+                    className="justify-between w-full h-12 rounded-xl bg-background/50 border-border/50 hover:bg-background hover:border-primary/50 transition-all shadow-sm"
                   >
-                    {line ? (
+                    {transportMode ? (
                       <div className="flex items-center">
-                        {(() => {
-                          const linePicto = getLinePicto(line);
-                          return linePicto ? (
-                            <img
-                              src={linePicto}
-                              alt={lines.find(l => l.id === line)?.shortname}
-                              className="w-6 h-6 mr-2"
-                            />
-                          ) : (
-                            <span className="px-2 py-1 mr-2 rounded bg-primary text-primary-foreground">
-                              {lines.find(l => l.id === line)?.shortname}
-                            </span>
-                          );
-                        })()}
-                        {lines.find(l => l.id === line)?.terminals && (
-                          <span className="text-sm">
-                            {lines.find(l => l.id === line)?.terminals?.start} - {lines.find(l => l.id === line)?.terminals?.end}
-                          </span>
-                        )}
+                        {modeIcons[transportMode as TransportMode]}
+                        {modeMapping[transportMode as TransportMode]}
                       </div>
-                    ) : "Sélectionnez une ligne"}
+                    ) : (
+                      <span className="text-muted-foreground">Sélectionnez un mode...</span>
+                    )}
                     <ChevronsUpDown className="w-4 h-4 ml-2 opacity-50 shrink-0" />
                   </Button>
                 </PopoverTrigger>
-                <PopoverContent className="w-full p-0">
+                <PopoverContent className="w-[var(--radix-popover-trigger-width)] p-0 rounded-xl shadow-xl border-border/50" align="start">
                   <Command>
-                    <CommandInput placeholder="Rechercher une ligne..." className="h-9" />
+                    <CommandInput placeholder="Rechercher un mode..." className="h-11" />
                     <CommandList>
-                      <CommandEmpty>Aucune ligne trouvée.</CommandEmpty>
+                      <CommandEmpty>Aucun mode trouvé.</CommandEmpty>
                       <CommandGroup>
-                        {lines.map((l) => {
-                          return (
-                            <CommandItem
-                              key={l.id}
-                              value={`${l.shortname} ${l.route_long_name} ${l.operatorname} ${l.terminals?.start} - ${l.terminals?.end}`}
-                              onSelect={() => {
-                                setLine(l.id)
-                                setLineOpen(false)
-                              }}
-                            > 
-                              <div className="flex items-center">
-                                {l.picto ? (
-                                  <img
-                                    src={l.picto}
-                                    alt={l.shortname}
-                                    className="w-6 h-6 mr-2"
-                                  />
-                                ) : (
-                                  <span className="px-2 py-1 rounded bg-primary text-primary-foreground">
-                                    {l.shortname}
-                                  </span>
-                                )}
-                                {l.terminals && (
-                                  <span className="ml-2 text-sm hover:text-primary-foreground">
-                                    {l.terminals.start} - {l.terminals.end}
-                                  </span>
-                                )}
-                              </div>
-                              <Check
-                                className={cn(
-                                  "ml-auto h-4 w-4",
-                                  line === l.id ? "opacity-100" : "opacity-0"
-                                )}
-                              />
-                            </CommandItem>
-                          );
-                        })}
-                      </CommandGroup>
-                    </CommandList>
-                  </Command>
-                </PopoverContent>
-              </Popover>
-            </div>
-          )}
-
-          {transportMode && line && (
-            <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
-              <Label htmlFor="stop" className="sm:min-w-32">Arrêt</Label>
-              <Popover open={stopOpen} onOpenChange={setStopOpen}>
-                <PopoverTrigger asChild>
-                  <Button
-                    id="stop"
-                    variant="outline"
-                    role="combobox"
-                    aria-expanded={stopOpen}
-                    className="justify-between w-full"
-                  >
-                    {stop ? filteredStops.find(s => s.stop_id === stop)?.stop_name : "Sélectionnez un arrêt"}
-                    <ChevronsUpDown className="w-4 h-4 ml-2 opacity-50 shrink-0" />
-                  </Button>
-                </PopoverTrigger>
-                <PopoverContent className="w-full p-0">
-                  <Command>
-                    <CommandInput placeholder="Rechercher un arrêt..." className="h-9" />
-                    <CommandList>
-                      <CommandEmpty>Aucun arrêt trouvé.</CommandEmpty>
-                      <CommandGroup>
-                        {filteredStops.map((s) => (
+                        {transportModes.map((mode) => (
                           <CommandItem
-                            key={s.stop_id}
-                            value={s.stop_name}
+                            key={mode}
+                            value={modeMapping[mode]}
                             onSelect={() => {
-                              setStop(s.stop_id)
-                              setStopOpen(false)
+                              setTransportMode(mode as TransportMode)
+                              setModeOpen(false)
                             }}
+                            className="cursor-pointer"
                           >
-                            {s.stop_name}
+                            <div className="flex items-center">
+                              {modeIcons[mode as TransportMode]}
+                              {modeMapping[mode]}
+                            </div>
                             <Check
                               className={cn(
                                 "ml-auto h-4 w-4",
-                                stop === s.stop_id ? "opacity-100" : "opacity-0"
+                                transportMode === mode ? "opacity-100" : "opacity-0"
                               )}
                             />
                           </CommandItem>
@@ -312,74 +183,223 @@ export function AddFavoriteStop({ onAdd }: { onAdd: (stop: FavoriteStop) => void
                 </PopoverContent>
               </Popover>
             </div>
-          )}
 
-          {selectedLineTermini && (
-            <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-4">
-              <Label htmlFor="direction" className="sm:min-w-32">Direction</Label>
-              <Popover open={directionOpen} onOpenChange={setDirectionOpen}>
-                <PopoverTrigger asChild>
-                  <Button
-                    id="direction"
-                    variant="outline"
-                    role="combobox"
-                    aria-expanded={directionOpen}
-                    className="justify-between w-full"
-                  >
-                    {direction ? `Direction ${direction}` : "Sélectionnez une direction"}
-                    <ChevronsUpDown className="w-4 h-4 ml-2 opacity-50 shrink-0" />
-                  </Button>
-                </PopoverTrigger>
-                <PopoverContent className="w-full p-0">
-                  <Command>
-                    <CommandInput placeholder="Rechercher une direction..." className="h-9" />
-                    <CommandList>
-                      <CommandEmpty>Aucune direction trouvée.</CommandEmpty>
-                      <CommandGroup>
-                        <CommandItem
-                          value={selectedLineTermini.start}
-                          onSelect={(currentValue) => {
-                            setDirection(currentValue)
-                            setDirectionOpen(false)
-                          }}
-                        >
-                          Direction {selectedLineTermini.start}
-                          <Check
-                            className={cn(
-                              "ml-auto h-4 w-4",
-                              direction === selectedLineTermini.start ? "opacity-100" : "opacity-0"
-                            )}
-                          />
-                        </CommandItem>
-                        <CommandItem
-                          value={selectedLineTermini.end}
-                          onSelect={(currentValue) => {
-                            setDirection(currentValue)
-                            setDirectionOpen(false)
-                          }}
-                        >
-                          Direction {selectedLineTermini.end}
-                          <Check
-                            className={cn(
-                              "ml-auto h-4 w-4",
-                              direction === selectedLineTermini.end ? "opacity-100" : "opacity-0"
-                            )}
-                          />
-                        </CommandItem>
-                      </CommandGroup>
-                    </CommandList>
-                  </Command>
-                </PopoverContent>
-              </Popover>
-            </div>
-          )}
+            {transportMode && (
+              <div className="flex flex-col gap-2 animate-in fade-in slide-in-from-top-2 duration-300">
+                <Label htmlFor="line" className="text-sm font-medium text-foreground/80">
+                  Ligne
+                </Label>
+                <Popover open={lineOpen} onOpenChange={setLineOpen}>
+                  <PopoverTrigger asChild>
+                    <Button
+                      id="line"
+                      variant="outline"
+                      role="combobox"
+                      aria-expanded={lineOpen}
+                      className="justify-between w-full h-12 rounded-xl bg-background/50 border-border/50 hover:bg-background hover:border-primary/50 transition-all shadow-sm"
+                    >
+                      {line ? (
+                        <div className="flex items-center min-w-0">
+                          {(() => {
+                            const linePicto = getLinePicto(line);
+                            return linePicto ? (
+                              <img
+                                src={linePicto}
+                                alt={lines.find(l => l.id === line)?.shortname}
+                                className="w-6 h-6 mr-2 object-contain"
+                              />
+                            ) : (
+                              <span className="px-2 py-1 mr-2 rounded bg-primary text-primary-foreground text-xs font-bold">
+                                {lines.find(l => l.id === line)?.shortname}
+                              </span>
+                            );
+                          })()}
+                          <span className="truncate text-sm">
+                            {lines.find(l => l.id === line)?.terminals
+                              ? `${lines.find(l => l.id === line)?.terminals?.start} - ${lines.find(l => l.id === line)?.terminals?.end}`
+                              : lines.find(l => l.id === line)?.route_long_name}
+                          </span>
+                        </div>
+                      ) : <span className="text-muted-foreground">Sélectionnez une ligne...</span>}
+                      <ChevronsUpDown className="w-4 h-4 ml-2 opacity-50 shrink-0" />
+                    </Button>
+                  </PopoverTrigger>
+                  <PopoverContent className="w-[var(--radix-popover-trigger-width)] p-0 rounded-xl shadow-xl border-border/50" align="start">
+                    <Command>
+                      <CommandInput placeholder="Rechercher une ligne..." className="h-11" />
+                      <CommandList>
+                        <CommandEmpty>Aucune ligne trouvée.</CommandEmpty>
+                        <CommandGroup>
+                          {lines.map((l) => {
+                            return (
+                              <CommandItem
+                                key={l.id}
+                                value={`${l.shortname} ${l.route_long_name} ${l.operatorname} ${l.terminals?.start} - ${l.terminals?.end}`}
+                                onSelect={() => {
+                                  setLine(l.id)
+                                  setLineOpen(false)
+                                }}
+                                className="cursor-pointer"
+                              >
+                                <div className="flex items-center min-w-0">
+                                  {l.picto ? (
+                                    <img
+                                      src={l.picto}
+                                      alt={l.shortname}
+                                      className="w-6 h-6 mr-2 object-contain flex-shrink-0"
+                                    />
+                                  ) : (
+                                    <span className="px-2 py-1 rounded bg-primary text-primary-foreground text-xs font-bold mr-2 flex-shrink-0">
+                                      {l.shortname}
+                                    </span>
+                                  )}
+                                  <span className="truncate text-sm">
+                                    {l.terminals ? `${l.terminals.start} - ${l.terminals.end}` : l.route_long_name}
+                                  </span>
+                                </div>
+                                <Check
+                                  className={cn(
+                                    "ml-auto h-4 w-4 flex-shrink-0",
+                                    line === l.id ? "opacity-100" : "opacity-0"
+                                  )}
+                                />
+                              </CommandItem>
+                            );
+                          })}
+                        </CommandGroup>
+                      </CommandList>
+                    </Command>
+                  </PopoverContent>
+                </Popover>
+              </div>
+            )}
+
+            {transportMode && line && (
+              <div className="flex flex-col gap-2 animate-in fade-in slide-in-from-top-2 duration-300 delay-75">
+                <Label htmlFor="stop" className="text-sm font-medium text-foreground/80">
+                  Arrêt
+                </Label>
+                <Popover open={stopOpen} onOpenChange={setStopOpen}>
+                  <PopoverTrigger asChild>
+                    <Button
+                      id="stop"
+                      variant="outline"
+                      role="combobox"
+                      aria-expanded={stopOpen}
+                      className="justify-between w-full h-12 rounded-xl bg-background/50 border-border/50 hover:bg-background hover:border-primary/50 transition-all shadow-sm"
+                    >
+                      {stop ? (
+                        <span className="truncate">{filteredStops.find(s => s.stop_id === stop)?.stop_name}</span>
+                      ) : <span className="text-muted-foreground">Sélectionnez un arrêt...</span>}
+                      <ChevronsUpDown className="w-4 h-4 ml-2 opacity-50 shrink-0" />
+                    </Button>
+                  </PopoverTrigger>
+                  <PopoverContent className="w-[var(--radix-popover-trigger-width)] p-0 rounded-xl shadow-xl border-border/50" align="start">
+                    <Command>
+                      <CommandInput placeholder="Rechercher un arrêt..." className="h-11" />
+                      <CommandList>
+                        <CommandEmpty>Aucun arrêt trouvé.</CommandEmpty>
+                        <CommandGroup>
+                          {filteredStops.map((s) => (
+                            <CommandItem
+                              key={s.stop_id}
+                              value={s.stop_name}
+                              onSelect={() => {
+                                setStop(s.stop_id)
+                                setStopOpen(false)
+                              }}
+                              className="cursor-pointer"
+                            >
+                              {s.stop_name}
+                              <Check
+                                className={cn(
+                                  "ml-auto h-4 w-4",
+                                  stop === s.stop_id ? "opacity-100" : "opacity-0"
+                                )}
+                              />
+                            </CommandItem>
+                          ))}
+                        </CommandGroup>
+                      </CommandList>
+                    </Command>
+                  </PopoverContent>
+                </Popover>
+              </div>
+            )}
+
+            {selectedLineTermini && (
+              <div className="flex flex-col gap-2 animate-in fade-in slide-in-from-top-2 duration-300 delay-150">
+                <Label htmlFor="direction" className="text-sm font-medium text-foreground/80">
+                  Direction
+                </Label>
+                <Popover open={directionOpen} onOpenChange={setDirectionOpen}>
+                  <PopoverTrigger asChild>
+                    <Button
+                      id="direction"
+                      variant="outline"
+                      role="combobox"
+                      aria-expanded={directionOpen}
+                      className="justify-between w-full h-12 rounded-xl bg-background/50 border-border/50 hover:bg-background hover:border-primary/50 transition-all shadow-sm"
+                    >
+                      {direction ? (
+                        <span className="truncate">Direction {direction}</span>
+                      ) : <span className="text-muted-foreground">Sélectionnez une direction...</span>}
+                      <ChevronsUpDown className="w-4 h-4 ml-2 opacity-50 shrink-0" />
+                    </Button>
+                  </PopoverTrigger>
+                  <PopoverContent className="w-[var(--radix-popover-trigger-width)] p-0 rounded-xl shadow-xl border-border/50" align="start">
+                    <Command>
+                      <CommandInput placeholder="Rechercher une direction..." className="h-11" />
+                      <CommandList>
+                        <CommandEmpty>Aucune direction trouvée.</CommandEmpty>
+                        <CommandGroup>
+                          <CommandItem
+                            value={selectedLineTermini.start}
+                            onSelect={(currentValue) => {
+                              setDirection(currentValue)
+                              setDirectionOpen(false)
+                            }}
+                            className="cursor-pointer"
+                          >
+                            Direction {selectedLineTermini.start}
+                            <Check
+                              className={cn(
+                                "ml-auto h-4 w-4",
+                                direction === selectedLineTermini.start ? "opacity-100" : "opacity-0"
+                              )}
+                            />
+                          </CommandItem>
+                          <CommandItem
+                            value={selectedLineTermini.end}
+                            onSelect={(currentValue) => {
+                              setDirection(currentValue)
+                              setDirectionOpen(false)
+                            }}
+                            className="cursor-pointer"
+                          >
+                            Direction {selectedLineTermini.end}
+                            <Check
+                              className={cn(
+                                "ml-auto h-4 w-4",
+                                direction === selectedLineTermini.end ? "opacity-100" : "opacity-0"
+                              )}
+                            />
+                          </CommandItem>
+                        </CommandGroup>
+                      </CommandList>
+                    </Command>
+                  </PopoverContent>
+                </Popover>
+              </div>
+            )}
+          </div>
 
           <Button
             type="submit"
-            className="w-full mt-2"
+            className="w-full h-12 text-base font-semibold rounded-xl shadow-lg shadow-primary/20 hover:shadow-primary/30 transition-all hover:scale-[1.02] disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100"
             disabled={!transportMode || !line || !stop || !direction}
           >
-            Ajouter l'arrêt favori
+            Ajouter aux favoris
           </Button>
         </form>
       </CardContent>
